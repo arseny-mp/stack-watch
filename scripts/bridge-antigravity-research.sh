@@ -15,9 +15,9 @@ if [[ "${GITHUB_ACTIONS:-}" == "true" ]]; then
     SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
     RESEARCH_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
     LOG_FILE="$RESEARCH_DIR/bridge-antigravity-research.log"
-    # Set mock paths for downstream GHA sync since Drive/Claude are local-only
-    REPO_DIR="/tmp/Project-Instructions-Template"
-    MEMORY_DIR="/tmp/Claude-Memory"
+    # Serverless cloud paths - all inside repo checkout
+    REPO_DIR="$RESEARCH_DIR"
+    MEMORY_DIR="$RESEARCH_DIR/processed/memory"
     GDRIVE_KNOWLEDGE_DIR="/tmp/GDrive-Knowledge"
     mkdir -p "$REPO_DIR" "$MEMORY_DIR" "$GDRIVE_KNOWLEDGE_DIR"
 else
@@ -77,7 +77,7 @@ compile_weekly_rollup() {
     
     log "Compiled weekly rollup to $rollup_file"
     # Trigger bot to deliver weekly rollup
-    "$HOME/Projects/Stack Watch/scripts/updates-news-deliver.sh" --weekly-rollup "$rollup_file" >> "$LOG_FILE" 2>&1 || log "Failed to deliver weekly rollup."
+    python3 "$RESEARCH_DIR/scripts/deliver.py" --weekly-rollup "$rollup_file" >> "$LOG_FILE" 2>&1 || log "Failed to deliver weekly rollup."
 }
 
 if [[ "${1:-}" == "--weekly" ]]; then
@@ -273,7 +273,7 @@ for DROP in "${DROPS[@]}"; do
 
     if [[ $has_breaking -eq 1 ]]; then
         log "Breaking marker found. Triggering immediate Telegram alert..."
-        "$HOME/Projects/Stack Watch/scripts/updates-news-deliver.sh" --immediate --date "$TODAY" >> "$LOG_FILE" 2>&1 || log "Failed to trigger immediate alert."
+        python3 "$RESEARCH_DIR/scripts/deliver.py" --immediate --date "$TODAY" >> "$LOG_FILE" 2>&1 || log "Failed to trigger immediate alert."
     fi
 done
 

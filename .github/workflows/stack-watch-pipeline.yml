@@ -33,40 +33,40 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y rclone
 
-      - name: Run Google Drive Pre-flight Check
+      - name: Configure rclone
         env:
           RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
         run: |
-          chmod +x scripts/check_drive_drop.sh
-          ./scripts/check_drive_drop.sh
+          if [[ -n "$RCLONE_CONFIG" ]]; then
+            mkdir -p ~/.config/rclone
+            echo "$RCLONE_CONFIG" > ~/.config/rclone/rclone.conf
+          else
+            echo "Warning: RCLONE_CONFIG secret is not configured."
+          fi
 
-      - name: Run Feed Poller and Screening
-        if: env.SKIP_SCRIPTS != 'true'
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Run Ingest Feed Poller
         run: |
           python3 scripts/poll_feeds.py
-          python3 scripts/ai_screening.py
 
-      - name: Run Autonomous Curation Agent
-        if: env.SKIP_SCRIPTS != 'true'
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python3 scripts/curate_findings.py
-
-      - name: Sync API-generated Drop to Google Drive
-        if: env.SKIP_SCRIPTS != 'true'
-        env:
-          RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
+      - name: Upload Fact Base to Google Drive
         run: |
           TODAY=$(date '+%Y-%m-%d')
           if [[ -d "$TODAY" ]]; then
-            echo "Uploading API-generated daily folder to Google Drive..."
-            rclone copy "$TODAY" gdrive:"Stack Watch/knowledge-base/$TODAY"
+            echo "Uploading today's raw feed updates to Google Drive..."
+            rclone copy "$TODAY" gdrive:"Stack Watch/raw-feed/$TODAY"
           else
-            echo "No daily folder $TODAY found to upload."
+            echo "No daily directory found to upload raw feeds."
           fi
+
+      - name: Pull Curated Gem Output from Google Drive
+        run: |
+          TODAY=$(date '+%Y-%m-%d')
+          mkdir -p gem-output
+          rclone copy gdrive:"Stack Watch/gem-output/${TODAY}.md" gem-output/ || echo "No curated Gem output found for today. Proceeding with fallback."
+
+      - name: Run Curation Normalizer
+        run: |
+          python3 scripts/normalize_gem_output.py
 
       - name: Run Research Bridge
         env:
@@ -83,19 +83,16 @@ jobs:
       - name: Deliver Telegram Notification
         env:
           TELEGRAM_TOKEN_UPDATES: ${{ secrets.TELEGRAM_TOKEN_UPDATES }}
-          TELEGRAM_HOME_CHANNEL: ${{ secrets.TELEGRAM_CHAT_ID }}
-          SUMMARY_DIR: "/tmp/Project-Instructions-Template/project-status/_summary"
-          RESEARCH_DIR: "/tmp/Project-Instructions-Template/external-research"
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          chmod +x scripts/updates-news-deliver.sh
-          ./scripts/updates-news-deliver.sh
+          python3 scripts/deliver.py
 
       - name: Commit State & Cache Updates
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add processed/seen_releases.json _seen-urls.txt index.html
-          git commit -m "chore: update seen cache and static dashboard [skip ci]" || echo "No state changes to commit"
+          git add processed/seen_releases.json _seen-urls.txt index.html processed/updates-*.txt || echo "No state files to add"
+          git commit -m "chore: update seen cache, state and static dashboard [skip ci]" || echo "No state changes to commit"
           git push || echo "No changes to push"
 
       - name: Upload Pages Artifact
