@@ -1,0 +1,3 @@
+https://github.com/anthropics/claude-code/releases/tag/v2.1.150
+https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23
+https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-command

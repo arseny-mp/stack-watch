@@ -1,0 +1,587 @@
+[
+  {
+    "title": "HN: Apples to Apples: MLX vs. Llama.cpp for Gemma 4 12B on an M1 16GB",
+    "url": "https://ziraph.com/blog/apples-to-apples-mlx-vs-llama-cpp-gemma-4",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48414924",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48414924"
+  },
+  {
+    "title": "HN: Show HN: Run Llama.cpp In-Process from Java with Project Panama FFM",
+    "url": "https://deemwar-products.github.io/mochallama/",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48409747",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48409747"
+  },
+  {
+    "title": "HN: Show HN: LLMhop \u2013 A tiny, stateless router for LLMs with a NixOS module",
+    "url": "https://github.com/mirkolenz/llmhop",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48406517",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48406517"
+  },
+  {
+    "title": "HN: Show HN: OMT \u2013 A simple Python CLI for testing local Ollama models",
+    "url": "https://github.com/ulyssestenn/omt",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48400275",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48400275"
+  },
+  {
+    "title": "HN: Beyondflow No-Code Multi-Agent Teams with Unlimited Runs. BYOK and Ollama",
+    "url": "https://beyondflow.app",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48399827",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48399827"
+  },
+  {
+    "title": "HN: Show HN: Will It Fit? \u2013 Opinionated Normal People Llama.cpp VRAM Estimator",
+    "url": "https://hypfer.github.io/will-it-fit-llama-cpp/",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48398732",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48398732"
+  },
+  {
+    "title": "HN: The Winamp Skin Museum whips the Llama's ass (2020)",
+    "url": "https://www.rockpapershotgun.com/the-winamp-skin-museum-really-whips-the-llamas-ass",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48395471",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48395471"
+  },
+  {
+    "title": "HN: Ongoing NPM supply chain attack uses binding.gyp to spread like a worm",
+    "url": "https://github.com/jagreehal/ai-sdk-ollama/issues/975",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48393765",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48393765"
+  },
+  {
+    "title": "HN: Show HN: TurboPrefill \u2013 Multi-GPU prefill acceleration for llama.cpp",
+    "url": "https://github.com/sergey-automation/TurboPrefill",
+    "date": "2026-06-03",
+    "component": "HN Discovery",
+    "version": "48390116",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48390116"
+  },
+  {
+    "title": "HN: Show HN: Extract (YC P25) \u2013 Fast, accurate document parsing",
+    "url": "https://extract.page",
+    "date": "2026-06-03",
+    "component": "HN Discovery",
+    "version": "48384498",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48384498"
+  },
+  {
+    "title": "HN: I Replaced My AI Agent's Flat Fact Store with a Graph Database",
+    "url": "https://news.ycombinator.com/item?id=48383578",
+    "date": "2026-06-03",
+    "component": "HN Discovery",
+    "version": "48383578",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48383578"
+  },
+  {
+    "title": "HN: Show HN: A searchable archive of declassified UAP/UFO files, news, and analysis",
+    "url": "https://didyousee.xyz",
+    "date": "2026-06-02",
+    "component": "HN Discovery",
+    "version": "48370535",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48370535"
+  },
+  {
+    "title": "HN: LlamaStash: a zero-overhead, terminal-native llama.cpp launcher",
+    "url": "https://deepu.tech/introducing-llamastash/",
+    "date": "2026-06-02",
+    "component": "HN Discovery",
+    "version": "48370487",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48370487"
+  },
+  {
+    "title": "HN: Open-source AI Sales Agent with Next.js 15 and Ollama \u2013 zero API costs",
+    "url": "https://github.com/Dvbxtreme/ai-sales-agent",
+    "date": "2026-06-02",
+    "component": "HN Discovery",
+    "version": "48369940",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48369940"
+  },
+  {
+    "title": "HN: LlamaStash \u2013 Zero-overhead, terminal-native llama.cpp launcher",
+    "url": "https://github.com/llamastash/llamastash",
+    "date": "2026-06-02",
+    "component": "HN Discovery",
+    "version": "48369499",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48369499"
+  },
+  {
+    "title": "HN: Show HN: ContextBridge \u2013 Local-first AI reading sidebar using Ollama",
+    "url": "https://chromewebstore.google.com/detail/contextbridge-\u00e2\u0080\u0093-local-rag/jokgmcedjecppdfnbicfonbmgjpbglko?authuser=0&hl=en-GB",
+    "date": "2026-06-02",
+    "component": "HN Discovery",
+    "version": "48367111",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48367111"
+  },
+  {
+    "title": "HN: ik_llama.cpp \u2013 llama.cpp fork with better CPU performance",
+    "url": "https://github.com/ikawrakow/ik_llama.cpp",
+    "date": "2026-06-01",
+    "component": "HN Discovery",
+    "version": "48356217",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48356217"
+  },
+  {
+    "title": "HN: OllamaMQ New Version v0.2.7",
+    "url": "https://github.com/Chleba/ollamaMQ",
+    "date": "2026-06-01",
+    "component": "HN Discovery",
+    "version": "48351367",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48351367"
+  },
+  {
+    "title": "HN: Simple way to make locally client Ollama available via WebSockets",
+    "url": "https://github.com/sascha10000/ollama-wsock-connector",
+    "date": "2026-05-31",
+    "component": "HN Discovery",
+    "version": "48347031",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48347031"
+  },
+  {
+    "title": "HN: Root cause: the 2-year-old bug behind \"Ollama pull stuck at 99%\"",
+    "url": "https://gist.github.com/alvinttang/94b5be372ced98fa3e3fba4d53dc9c51",
+    "date": "2026-05-31",
+    "component": "HN Discovery",
+    "version": "48346516",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48346516"
+  },
+  {
+    "title": "HN: Claude Code, no need to worry about sunk costs anymore",
+    "url": "https://www.npmjs.com/package/schwabe",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48415344",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48415344"
+  },
+  {
+    "title": "HN: Show HN: Gito v4.1.0 \u2013 AI code reviewer now runs on Claude Code / Gemini CLI",
+    "url": "https://github.com/Nayjest/Gito/releases/tag/v4.1.0",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48415164",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48415164"
+  },
+  {
+    "title": "HN: Show HN: Lich, start a dev stack per coding agent in parallel",
+    "url": "https://github.com/RPate97/lich",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48413888",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48413888"
+  },
+  {
+    "title": "HN: Elevated errors on many Claude models",
+    "url": "https://status.claude.com/incidents/fprlnsvdnr2k",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48413883",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48413883"
+  },
+  {
+    "title": "HN: Customize keyboard shortcuts in Claude Code",
+    "url": "https://code.claude.com/docs/en/keybindings",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48410022",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48410022"
+  },
+  {
+    "title": "HN: Supply chain attack alert: .github/setup.js",
+    "url": "https://news.ycombinator.com/item?id=48409869",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48409869",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48409869"
+  },
+  {
+    "title": "HN: Ask HN: Is Claude Code down, or its just my region?",
+    "url": "https://news.ycombinator.com/item?id=48409106",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48409106",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48409106"
+  },
+  {
+    "title": "HN: Anatomy of a Claude Code Session",
+    "url": "https://codewithmukesh.com/blog/anatomy-claude-code-session/",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48408548",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48408548"
+  },
+  {
+    "title": "HN: Show HN: Lessons learned from running Claude Code swarms at scale",
+    "url": "https://news.ycombinator.com/item?id=48407998",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48407998",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48407998"
+  },
+  {
+    "title": "HN: Lessons from building Claude Code: How we use skills",
+    "url": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48406389",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48406389"
+  },
+  {
+    "title": "HN: Show HN: G-Spot \u2013 GitHub Gmail GNotes Gmemory Gent",
+    "url": "https://www.g-spot.dev/",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48405389",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48405389"
+  },
+  {
+    "title": "HN: I'm tired of LLM skill slop, so I built mine with regression tests",
+    "url": "https://news.ycombinator.com/item?id=48405221",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48405221",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48405221"
+  },
+  {
+    "title": "HN: Show HN: SheetMog \u2013 OSS Excel alternative and headless SDK",
+    "url": "https://github.com/fundamental-research-labs/mog",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48404786",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48404786"
+  },
+  {
+    "title": "HN: Agentlocks \u2013 advisory file locks for Codex and Claude Code in one worktree",
+    "url": "https://github.com/simke9445/agentlocks",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48404759",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48404759"
+  },
+  {
+    "title": "HN: Ask HN: High school student \u2013 is learning programming still worthwhile?",
+    "url": "https://news.ycombinator.com/item?id=48403614",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48403614",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48403614"
+  },
+  {
+    "title": "HN: Using Claude Code to help me write",
+    "url": "https://andrewpwheeler.com/2026/03/20/using-claude-code-to-help-me-write/",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48403318",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48403318"
+  },
+  {
+    "title": "HN: Adrianco's Retort: measure how reliable, fast and expensive your LLM is",
+    "url": "https://adrianco.medium.com/how-reliable-fast-and-expensive-is-each-version-of-claude-code-sonnet-through-opus-4-8-fast-272d74ffc869",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48403232",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48403232"
+  },
+  {
+    "title": "HN: Show HN: FirstDraft \u2013 AI workers that claim Jira tickets and open PRs",
+    "url": "https://firstdraft.run",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48403166",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48403166"
+  },
+  {
+    "title": "HN: Show HN: Vlags, small vector flags. Less than 900 bytes each",
+    "url": "https://vlags.com/",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48402910",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48402910"
+  },
+  {
+    "title": "HN: Show HN: Hitoku Draft \u2013 Context aware local assistant",
+    "url": "https://hitoku.me/draft/",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48402082",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48402082"
+  },
+  {
+    "title": "HN: The Ladder Paradox",
+    "url": "https://www.desmos.com/notebook/qq6cjzpykh/view",
+    "date": "2026-06-03",
+    "component": "HN Discovery",
+    "version": "48383481",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48383481"
+  },
+  {
+    "title": "HN: Pluto.jl 1.0 release \u2013 reactive notebook for Julia",
+    "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+    "date": "2026-06-02",
+    "component": "HN Discovery",
+    "version": "48377496",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48377496"
+  },
+  {
+    "title": "HN: Strava just pulled a Reddit on its developer community",
+    "url": "https://www.notebookcheck.net/Strava-just-pulled-a-Reddit-on-its-developer-community.1312468.0.html",
+    "date": "2026-06-02",
+    "component": "HN Discovery",
+    "version": "48367662",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48367662"
+  },
+  {
+    "title": "HN: Transfer Emotions to VR Avatar via Brain with PiEEG XR",
+    "url": "https://www.notebookcheck.net/For-VR-PiEEG-XR-measures-brain-activity-in-real-time.1311211.0.html",
+    "date": "2026-05-30",
+    "component": "HN Discovery",
+    "version": "48340066",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48340066"
+  },
+  {
+    "title": "HN: Microsoft faces security community backlash over Nightmare Eclipse",
+    "url": "https://www.notebookcheck.net/Microsoft-faces-security-community-backlash-over-Nightmare-Eclipse.1311160.0.html",
+    "date": "2026-05-30",
+    "component": "HN Discovery",
+    "version": "48335633",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48335633"
+  },
+  {
+    "title": "HN: Ask HN: Would you use a soundproof mic mask to dictate to AI in public?",
+    "url": "https://news.ycombinator.com/item?id=48383050",
+    "date": "2026-06-03",
+    "component": "HN Discovery",
+    "version": "48383050",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48383050"
+  },
+  {
+    "title": "HN: Show HN: Micron: a high performance C++23 (re)implementation of Libc and the STL",
+    "url": "https://github.com/rfgplk/micron.cpp",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48415481",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48415481"
+  },
+  {
+    "title": "HN: Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
+    "url": "https://news.ycombinator.com/item?id=48414869",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48414869",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48414869"
+  },
+  {
+    "title": "HN: Show HN: Agents Remember \u2013 Git-aware memory for coding agents",
+    "url": "https://github.com/Foxfire1st/agents-remember-md",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48413877",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48413877"
+  },
+  {
+    "title": "HN: PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48413575",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48413575"
+  },
+  {
+    "title": "HN: Show HN: One-Shot Program Generation Through Direct Memory Diffusion",
+    "url": "https://github.com/MadlyFX/Direct-Memory-Diffusion",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48413376",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48413376"
+  },
+  {
+    "title": "HN: We built Tixio to replace 5 other expensive tools",
+    "url": "https://news.ycombinator.com/item?id=48411528",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48411528",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48411528"
+  },
+  {
+    "title": "HN: Win16 Memory Management",
+    "url": "http://www.os2museum.com/wp/win16-memory-management/",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48410844",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48410844"
+  },
+  {
+    "title": "HN: Short videos may hinder learning by fragmenting attention and memory, study",
+    "url": "https://phys.org/news/2026-06-short-videos-hinder-fragmenting-attention.html",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48410409",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48410409"
+  },
+  {
+    "title": "HN: Memory Still Matters in the Age of ChatGPT",
+    "url": "https://www.dcaulfield.com/memorisation-chatgpt",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48409831",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48409831"
+  },
+  {
+    "title": "HN: Show HN: LLM memory without context bleed; 100% precision vs. <10% vector search",
+    "url": "https://tenureai.dev/",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48409678",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48409678"
+  },
+  {
+    "title": "HN: \"News Man Bad\": A Personnel Memo from Animal, Your Editor-in-Chief",
+    "url": "https://www.mcsweeneys.net/articles/news-man-bad-a-personnel-memo-from-animal-your-editor-in-chief",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48406871",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48406871"
+  },
+  {
+    "title": "HN: I underestimated how hard audio waveforms are in the browser",
+    "url": "https://news.ycombinator.com/item?id=48406747",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48406747",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48406747"
+  },
+  {
+    "title": "HN: Show HN: Bonsai \u2013- Using agentic AI / browser / memory to replace ChatGPT",
+    "url": "https://drive.google.com/drive/folders/1YUQ3tmcBSLEyBKLi5JdJgmod9mqXFTgl",
+    "date": "2026-06-05",
+    "component": "HN Discovery",
+    "version": "48406685",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48406685"
+  },
+  {
+    "title": "HN: AI Agent Craves Curation. Here's the Fademem Memory Architecture",
+    "url": "https://medium.com/@vektormemory/your-ai-agent-craves-curation-heres-the-memory-architecture-that-delivers-it-f52c961ae421",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48404960",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48404960"
+  },
+  {
+    "title": "HN: Why Vector Search fails at LLM memory (and a benchmark to prove it)",
+    "url": "https://github.com/tenurehq/precisionMemBench",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48404090",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48404090"
+  },
+  {
+    "title": "HN: Aura: Action-Gated Memory for Robot Policies at Constant VRAM",
+    "url": "https://huggingface.co/spaces/Kaikaku/aura-demo",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48402713",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48402713"
+  },
+  {
+    "title": "HN: Antifa Cell Members Convicted in Prairieland ICE Detention Center Shooting",
+    "url": "https://www.justice.gov/usao-ndtx/pr/antifa-cell-members-convicted-prairieland-ice-detention-center-shooting",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48402542",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48402542"
+  },
+  {
+    "title": "HN: OpenAI CEO Sam Altman admits AI token costs are becoming 'an issue'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue-company-seeks-improved-value-as-overspending-becomes-a-meme",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48401101",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48401101"
+  },
+  {
+    "title": "HN: Show HN: Zerostack, an open coding agent optimized for memory footprint",
+    "url": "https://gi-dellav.github.io/zerostack/",
+    "date": "2026-06-04",
+    "component": "HN Discovery",
+    "version": "48401040",
+    "type": "discovery",
+    "hn_discussion": "https://news.ycombinator.com/item?id=48401040"
+  }
+]

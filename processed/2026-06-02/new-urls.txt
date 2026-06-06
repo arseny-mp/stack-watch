@@ -1,0 +1,13 @@
+https://github.com/anthropics/claude-code/releases/tag/v2.1.160
+https://code.claude.com/docs/en/changelog
+https://github.com/openai/codex/releases/tag/rust-v0.136.0
+https://developers.openai.com/codex/changelog
+https://releasebot.io/updates/openai
+https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
+https://ai.google.dev/gemini-api/docs/changelog
+https://github.com/anthropics/claude-code/releases/tag/v2.1.159
+https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
+https://github.com/mem0ai/mem0/releases/tag/v2.0.4
+https://code.claude.com/docs/en/workflows
+https://github.com/anthropics/claude-code/issues/63498

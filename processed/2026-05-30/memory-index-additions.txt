@@ -1,0 +1,1 @@
+- [Parked: Kimi Code native scheduled tasks](parked_kimi-code-05-scheduled-tasks.md) — Revisit after kimi-code migration if replacing launchd cron with in-CLI scheduler

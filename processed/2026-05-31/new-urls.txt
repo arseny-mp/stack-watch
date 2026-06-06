@@ -1,0 +1,12 @@
+https://github.com/ollama/ollama/releases/tag/v0.30.0-rc31
+https://github.com/ollama/ollama/issues/13942
+https://github.com/github/github-mcp-server/releases/tag/v1.1.0
+https://github.com/github/github-mcp-server/releases/tag/v1.1.1
+https://github.com/github/github-mcp-server/releases/tag/v1.1.2
+https://github.com/github/github-mcp-server/pull/2571
+https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.1
+https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
+https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
+https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
+https://github.com/anthropics/claude-code/releases/tag/v2.1.158
+https://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html

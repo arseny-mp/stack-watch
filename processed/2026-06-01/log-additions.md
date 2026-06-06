@@ -1,0 +1,4 @@
+| mem0-v204-delete-linked | experiment | high | Mem0 | https://github.com/mem0ai/mem0/releases/tag/v2.0.4 | delete_linked param on delete() removes superseded linked memories transitively |
+| chatgpt-gpt45-o3-retirement | do-now | high | ChatGPT | https://help.openai.com/en/articles/9624314-model-release-notes | GPT-4.5 exits ChatGPT June 27; o3 exits August 26; API unaffected |
+| notebooklm-gemini-chats-block-sharing | do-now | high | NotebookLM, Gemini | https://support.google.com/notebooklm/answer/17003757?hl=en | Notebooks with Gemini chats cannot be shared until chats deleted |
+| claude-code-security-guidance-plugin | experiment | high | Claude Code CLI, Claude Cowork | https://code.claude.com/docs/en/security-guidance | Free plugin reviews edits/turns/commits for vulnerabilities in-session |

@@ -1,0 +1,78 @@
+name: Stack Watch Cloud Pipeline
+
+on:
+  schedule:
+    - cron: '30 9 * * *' # Daily at 09:30 UTC / 15:00 IST / 12:30 MSK
+  workflow_dispatch: # Allows manual trigger via GitHub Web UI
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # standard libraries are used, so no additional requirements are needed yet
+
+      - name: Run Feed Poller and Screening
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python3 scripts/poll_feeds.py
+          python3 scripts/ai_screening.py
+
+      - name: Run Autonomous Curation Agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python3 scripts/curate_findings.py
+
+      - name: Run Research Bridge
+        env:
+          TELEGRAM_TOKEN_UPDATES: ${{ secrets.TELEGRAM_TOKEN_UPDATES }}
+        run: |
+          # Make scripts executable just in case
+          chmod +x scripts/bridge-antigravity-research.sh
+          chmod +x scripts/generate_dashboard.py
+          
+          # Run the bridge script (which will compile daily reports, rolling archives, and rebuild index.html)
+          ./scripts/bridge-antigravity-research.sh
+
+      - name: Commit State & Cache Updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add processed/seen_releases.json _seen-urls.txt index.html
+          git commit -m "chore: update seen cache and static dashboard [skip ci]" || echo "No state changes to commit"
+          git push || echo "No changes to push"
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.' # upload repository root containing index.html
+
+  deploy-dashboard:
+    needs: run-pipeline
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

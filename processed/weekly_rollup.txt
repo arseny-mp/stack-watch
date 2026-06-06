@@ -1,0 +1,46 @@
+📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
+Период: за последние 7 дней
+
+📅 <b>2026-05-30:</b>
+  <b>Do now:</b>
+  • claude-code-v2-1-156-opus-thinking-fix — Upgrade Claude Code to ≥2.1.156 before Opus 4.8 chains to avoid thinking-block API 400 wedging.
+  <b>Experiment:</b>
+  • claude-code-v2-1-157-skills-plugins — Try marketplace-free `.claude/skills` plugins and workflow keyword toggle on one chain.
+  • kimi-cli-146-kimi-code-evolution — Pilot `@moonshot-ai/kimi-code` migration and ACP replay before switching production Kimi backend.
+
+📅 <b>2026-05-31:</b>
+  <b>Experiment:</b>
+  • ollama-v030-rc31-nomic-embed-lowercase — Stage rc31 and diff nomic-embed-text vectors before any production Ollama bump affecting Mem0 embeddings.
+
+📅 <b>2026-06-01:</b>
+  <b>Do now:</b>
+  • chatgpt-gpt45-o3-retirement — GPT-4.5 leaves ChatGPT June 27; audit coordinator model selections before deadline
+  • notebooklm-gemini-chats-block-sharing — Do not Gemini-chat a notebook that must stay shareable; delete Gemini chats to restore sharing
+  <b>Experiment:</b>
+  • mem0-v204-delete-linked — Test delete_linked=True on non-prod Mem0 cleanup to prevent superseded facts resurfacing
+  • claude-code-security-guidance-plugin — Install security-guidance plugin in one CC CLI chain; measure false-positive rate
+
+📅 <b>2026-06-02:</b>
+  <b>Do now:</b>
+  • claude-code-2160-ultracode-keyword — v2.1.160 renames dynamic-workflow trigger from `workflow` to `ultracode`; update protocol docs and run `claude update`
+  • gemini-20-shutdown-june1 — Gemini 2.0 Flash model IDs dead since June 1; audit configs and migrate to gemini-3.1-flash-lite or gemini-3.5-flash
+  <b>Experiment:</b>
+  • codex-0136-session-archive — Codex 0.136.0 adds `/archive` and `codex archive`; upgrade and test on one stale session
+
+📅 <b>2026-06-03:</b>
+  <b>Do now:</b>
+  • claude-code-2161-mcp-secrets-redaction — Upgrade to v2.1.161; MCP list/get/add no longer prints credential secrets
+  <b>Experiment:</b>
+  • claude-code-2161-otel-metrics-labels — Set OTEL_RESOURCE_ATTRIBUTES in settings.json if OTEL metrics export is active
+  • mem0-cli-v028-security-cves — npm update -g @mem0/cli if globally installed
+
+📅 <b>2026-06-04:</b>
+  <b>Experiment:</b>
+  • claude-code-v2-1-162 — v2.1.162 MCP timeout/WebFetch/agents fixes; upgrade via `claude update`
+  • codex-cli-0-137-0 — 0.137.0 adds `codex plugin list --json` and parallel web search in code mode
+  • ollama-v0-30-2-launch-igpu — v0.30.2 launch/Codex isolation and Radeon 8060S iGPU default
+
+📅 <b>2026-06-05:</b>
+  <b>Experiment:</b>
+  • chatgpt-dreaming-v3-memory — Audit ChatGPT memory summary after Dreaming V3 rollout (June 4) for coordinator context drift
+

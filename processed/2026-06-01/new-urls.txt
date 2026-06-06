@@ -1,0 +1,15 @@
+https://github.com/mem0ai/mem0/releases/tag/v2.0.4
+https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
+https://help.openai.com/en/articles/9624314-model-release-notes
+https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+https://www.androidauthority.com/chatgpt-4-5-o3-retired-3672713/
+https://support.google.com/notebooklm/answer/17003757?hl=en
+https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
+https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
+https://code.claude.com/docs/en/security-guidance
+https://code.claude.com/docs/en/whats-new/2026-w22
+https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidance-plugin/
+https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
+https://github.com/anthropics/claude-code/releases/tag/v2.1.158
+https://github.com/anthropics/claude-code/releases/tag/v2.1.157
+https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2

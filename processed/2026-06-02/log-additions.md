@@ -1,0 +1,3 @@
+| claude-code-2160-ultracode-keyword | do-now | high | Claude Code CLI, Claude Cowork | https://github.com/anthropics/claude-code/releases/tag/v2.1.160 | v2.1.160 renames workflow trigger to ultracode; acceptEdits prompts for build configs |
+| codex-0136-session-archive | experiment | high | Codex | https://github.com/openai/codex/releases/tag/rust-v0.136.0 | 0.136.0 adds session archive via /archive and codex archive CLI |
+| gemini-20-shutdown-june1 | do-now | high | Gemini, NotebookLM | https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/ | Gemini 2.0 Flash model IDs shut down June 1; migrate to 3.x |

@@ -1,0 +1,14 @@
+https://github.com/anthropics/claude-code/releases/tag/v2.1.162
+https://code.claude.com/docs/en/changelog
+https://github.com/openai/codex/releases/tag/rust-v0.137.0
+https://developers.openai.com/codex/changelog
+https://github.com/ollama/ollama/releases/tag/v0.30.2
+https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
+https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
+https://help.openai.com/en/articles/20001257
+https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
+https://support.google.com/notebooklm/answer/16296687?hl=en
+https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.6
+https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
+https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
+https://github.com/ollama/ollama/releases/tag/v0.30.1-rc0

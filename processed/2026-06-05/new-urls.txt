@@ -1,0 +1,14 @@
+https://openai.com/index/chatgpt-memory-dreaming/
+https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/
+https://openai.com/index/codex-for-every-role-tool-workflow/
+https://developers.openai.com/codex/sites
+https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins
+https://github.com/ollama/ollama/issues/16415
+https://github.com/ollama/ollama/blob/main/docs/gpu.mdx
+https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
+https://github.com/anthropics/claude-code/releases/tag/v2.1.162
+https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
+https://help.openai.com/en/articles/8590148-memory-faq
+https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/
+https://github.com/anthropics/claude-code/releases/tag/v2.1.163
+https://github.com/ollama/ollama/releases/tag/v0.30.5

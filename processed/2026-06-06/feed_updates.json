@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Release v0.1.48 - GPU acceleration improvements",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.1.48",
+    "component": "Ollama",
+    "screened_verdict": "keep",
+    "screened_reason": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 Ollama \u0432\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043f\u0438\u0441\u043e\u043a \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u0435\u043c\u044b\u0445 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432."
+  },
+  {
+    "title": "HN: Devin AI software engineer raises $500M funding",
+    "url": "https://news.ycombinator.com/item?id=123456",
+    "component": "HN Discovery",
+    "screened_verdict": "skip",
+    "screened_reason": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u043e \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 Devin \u2014 \u044d\u0442\u043e \u0440\u044b\u043d\u043e\u0447\u043d\u044b\u0435 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438, \u0430 \u043d\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f."
+  },
+  {
+    "title": "HN: Introduction to React for complete beginners",
+    "url": "https://example.com/react-tutorial",
+    "component": "HN Discovery",
+    "screened_verdict": "skip",
+    "screened_reason": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 React \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432 \u043d\u0435 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u043a \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u0435\u043c\u044b\u043c \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0430\u043c."
+  },
+  {
+    "title": "Release v0.2.0 - Claude Code CLI autocomplete feature",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v0.2.0",
+    "component": "Claude Code",
+    "screened_verdict": "keep",
+    "screened_reason": "\u0420\u0435\u043b\u0438\u0437 Claude Code CLI \u0441 \u043d\u043e\u0432\u043e\u0439 \u0444\u0443\u043d\u043a\u0446\u0438\u0435\u0439 \u0432\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043f\u0438\u0441\u043e\u043a \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u0435\u043c\u044b\u0445."
+  }
+]

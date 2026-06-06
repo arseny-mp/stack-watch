@@ -1,0 +1,2 @@
+- [Parked: Gemini image preview migration](parked_gemini-3-1-flash-image-ga.md) — grep for preview model ids before 2026-06-25 shutdown
+- [Parked: Claude Code remote prompt injection](parked_hn-claude-code-remote-prompt.md) — bisect binary after upgrade; env mitigations if confirmed

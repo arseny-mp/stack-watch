@@ -1,0 +1,15 @@
+https://www.anthropic.com/news/claude-opus-4-8
+https://platform.claude.com/docs/en/release-notes/overview
+https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
+https://github.com/openai/codex/releases/tag/rust-v0.135.0
+https://developers.openai.com/codex/changelog
+https://github.com/anthropics/claude-code/releases/tag/v2.1.153
+https://saudishopper.com.sa/en/claude-code-update-2-1-153/
+https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
+https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
+https://news.ycombinator.com/item?id=48259288
+https://github.com/anthropics/claude-code/releases/tag/v2.1.152
+https://github.com/ollama/ollama/releases/tag/v0.30.0-rc28
+https://github.com/mem0ai/mem0/releases/tag/v2.0.3
+https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
+https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41

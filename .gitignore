@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Backups and temporary files
+*.bak*
+.DS_Store
+
+# Local environments
+.env
+.env.*
+.idea/
+.vscode/

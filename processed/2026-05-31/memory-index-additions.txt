@@ -1,0 +1,2 @@
+- [Parked: GitHub MCP search_commits](parked_github-mcp-110-search-commits.md) — Bump past v1.0.5 to unlock commit search for audit chains
+- [Parked: GitHub MCP lockdown fix](parked_github-mcp-112-lockdown-viewer-fix.md) — HTTP multi-user lockdown deployments need ≥1.1.2

@@ -1,0 +1,16 @@
+https://github.com/openai/codex/releases/tag/rust-v0.134.0
+https://developers.openai.com/codex/changelog
+https://releasebot.io/updates/openai
+https://github.com/anthropics/claude-code/issues/62198
+https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
+https://ai.google.dev/gemini-api/docs/changelog
+https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23
+https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
+https://github.com/anthropics/claude-code/releases/tag/v2.1.150
+https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
+https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
+https://github.com/anthropics/claude-code/releases/tag/v2.1.152
+https://github.com/ollama/ollama/releases/tag/v0.30.0-rc28
+https://github.com/ollama/ollama/releases/tag/v0.30.0-rc27
+https://release.bar
+https://aiweekly.co

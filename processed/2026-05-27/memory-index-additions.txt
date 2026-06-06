@@ -1,0 +1,1 @@
+- [Parked: Claude Code HTTP MCP 404 regression](parked_claude-code-http-mcp-404-regression.md) — POST-only HTTP MCP may break on v2.1.147+ until fix ships

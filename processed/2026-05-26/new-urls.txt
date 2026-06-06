@@ -1,0 +1,7 @@
+https://ai.google.dev/gemini-api/docs/changelog
+https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
+https://9to5google.com/2026/05/25/google-ai-plus-pro-ultra-gemini-features/
+https://github.com/anthropics/claude-code/releases/tag/v2.1.150
+https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
+https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23
+https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-command
