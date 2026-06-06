@@ -61,28 +61,21 @@ jobs:
           git commit -m "chore: update seen cache and static dashboard [skip ci]" || echo "No state changes to commit"
           git push || echo "No changes to push"
 
-      # =========================================================================
-      # SECURITY & PRIVACY NOTE:
-      # If you want to deploy the dashboard to GitHub Pages, uncomment the steps
-      # below. Make sure you understand that GitHub Pages is PUBLIC by default.
-      # If you want to keep your dashboard private, keep these steps commented out
-      # or deploy to a private Pages environment.
-      # =========================================================================
-      # - name: Upload Pages Artifact
-      #   uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: '.' # upload repository root containing index.html
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.' # upload repository root containing index.html
 
-  # deploy-dashboard:
-  #   needs: run-pipeline
-  #   runs-on: ubuntu-latest
-  #   permissions:
-  #     pages: write
-  #     id-token: write
-  #   environment:
-  #     name: github-pages
-  #     url: ${{ steps.deployment.outputs.page_url }}
-  #   steps:
-  #     - name: Deploy to GitHub Pages
-  #       id: deployment
-  #       uses: actions/deploy-pages@v4
+  deploy-dashboard:
+    needs: run-pipeline
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

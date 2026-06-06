@@ -1,1 +1,0 @@
-- [Parked: Ollama v0.30.0 llama.cpp GA](parked_ollama-0-30-0-rc22-llamacpp.md) — Revisit when stable v0.30.0 ships and Mem0 embeddings pass smoke test
