@@ -27,12 +27,21 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Dependencies
+      - name: Install Dependencies & rclone
         run: |
           python -m pip install --upgrade pip
-          # standard libraries are used, so no additional requirements are needed yet
+          sudo apt-get update
+          sudo apt-get install -y rclone
+
+      - name: Run Google Drive Pre-flight Check
+        env:
+          RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
+        run: |
+          chmod +x scripts/check_drive_drop.sh
+          ./scripts/check_drive_drop.sh
 
       - name: Run Feed Poller and Screening
+        if: env.SKIP_SCRIPTS != 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -40,14 +49,29 @@ jobs:
           python3 scripts/ai_screening.py
 
       - name: Run Autonomous Curation Agent
+        if: env.SKIP_SCRIPTS != 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python3 scripts/curate_findings.py
 
+      - name: Sync API-generated Drop to Google Drive
+        if: env.SKIP_SCRIPTS != 'true'
+        env:
+          RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
+        run: |
+          TODAY=$(date '+%Y-%m-%d')
+          if [[ -d "$TODAY" ]]; then
+            echo "Uploading API-generated daily folder to Google Drive..."
+            rclone copy "$TODAY" gdrive:"Stack Watch/knowledge-base/$TODAY"
+          else
+            echo "No daily folder $TODAY found to upload."
+          fi
+
       - name: Run Research Bridge
         env:
           TELEGRAM_TOKEN_UPDATES: ${{ secrets.TELEGRAM_TOKEN_UPDATES }}
+          RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
         run: |
           # Make scripts executable just in case
           chmod +x scripts/bridge-antigravity-research.sh
