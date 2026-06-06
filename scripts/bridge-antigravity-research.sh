@@ -113,6 +113,7 @@ for DROP in "${DROPS[@]}"; do
     if [[ -f "$DROP/EMPTY" ]]; then
         log "EMPTY marker found, no findings today."
         mkdir -p "$RESEARCH_DIR/processed"
+        rm -rf "$RESEARCH_DIR/processed/${TODAY}_empty"
         mv "$DROP" "$RESEARCH_DIR/processed/${TODAY}_empty"
         log "Moved empty drop to processed/${TODAY}_empty."
         continue
@@ -253,6 +254,7 @@ for DROP in "${DROPS[@]}"; do
 
     touch "$DROP/.bridged"
     mkdir -p "$RESEARCH_DIR/processed"
+    rm -rf "$RESEARCH_DIR/processed/$TODAY"
     mv "$DROP" "$RESEARCH_DIR/processed/$TODAY"
     log "Moved drop to processed/$TODAY."
 

@@ -1,2 +1,0 @@
-- [Parked: Codex Sites + role plugins](parked_codex-sites-role-plugins.md) — Enterprise hosted apps preview; revisit on tier upgrade
-- [Parked: Ollama v0.30 driver 570+](parked_ollama-v030-nvidia-driver-570.md) — GPU Linux pre-flight before Ollama bump

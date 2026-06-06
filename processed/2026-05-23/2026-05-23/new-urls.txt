@@ -1,6 +1,0 @@
-https://github.com/anthropics/claude-code/releases/tag/v2.1.149
-https://github.com/anthropics/claude-code/releases/tag/v2.1.148
-https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-loop
-https://9to5mac.com/2026/05/21/openai-improves-codex-ios-experience-with-turn-completion-alerts-new-commands-more/
-https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
-https://github.com/github/github-mcp-server/releases/tag/v1.0.5
