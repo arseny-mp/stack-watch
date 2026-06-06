@@ -43,7 +43,7 @@ def get_api_key(name):
     return None
 
 def call_gemini(key, prompt, response_schema):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key={key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={key}"
     headers = {"Content-Type": "application/json"}
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -52,11 +52,24 @@ def call_gemini(key, prompt, response_schema):
             "responseSchema": response_schema
         }
     }
-    req = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers=headers, method="POST")
-    with urllib.request.urlopen(req, timeout=90) as resp:
-        res = json.loads(resp.read().decode('utf-8'))
-        text = res["candidates"][0]["content"]["parts"][0]["text"]
-        return json.loads(text)
+    
+    import time
+    import urllib.error
+    for attempt in range(1, 4):
+        try:
+            req = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers=headers, method="POST")
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                res = json.loads(resp.read().decode('utf-8'))
+                text = res["candidates"][0]["content"]["parts"][0]["text"]
+                return json.loads(text)
+        except urllib.error.HTTPError as e:
+            if e.code in [429, 500, 503] and attempt < 3:
+                sleep_time = attempt * 10
+                logging.warning(f"Gemini Curation returned status {e.code}. Retrying in {sleep_time}s (attempt {attempt}/3)...")
+                time.sleep(sleep_time)
+            else:
+                raise e
+
 
 def main():
     date_str = datetime.now().strftime('%Y-%m-%d')

@@ -42,6 +42,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.160
 https://github.com/anthropics/claude-code/releases/tag/v2.1.161
 https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 https://github.com/anthropics/claude-code/releases/tag/v2.1.163
+https://github.com/anthropics/claude-code/releases/tag/v2.1.167
 https://github.com/desktop-commander/desktop-commander
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
@@ -66,6 +67,7 @@ https://github.com/ollama/ollama/releases/tag/v0.30.0-rc31
 https://github.com/ollama/ollama/releases/tag/v0.30.1-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.2
 https://github.com/ollama/ollama/releases/tag/v0.30.5
+https://github.com/ollama/ollama/releases/tag/v0.30.7-rc0
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
@@ -87,6 +89,7 @@ https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-co
 https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-loop
 https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
+https://news.ycombinator.com/item?id=123456
 https://news.ycombinator.com/item?id=48259288
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
