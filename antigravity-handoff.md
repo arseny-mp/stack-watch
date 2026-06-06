@@ -49,7 +49,7 @@ The primary goal of this iteration was to **migrate the pipeline from a local ma
   2. Runs ingestion, screening, and autonomous curation.
   3. Executes `bridge-antigravity-research.sh` to update index databases, archive logs, and compile weeklies.
   4. Commits runtime state changes (such as deduplication caches `seen_releases.json`, `_seen-urls.txt`, and generated indices) back to the repository.
-  5. Compiles and deploys the static dashboard `index.html` directly to **GitHub Pages** (via the `gh-pages` branch).
+  5. **Pages Deployment (Optional & Disabled by Default):** Commented out in the workflow configuration to ensure absolute data privacy and prevent public exposure of the dashboard unless explicitly enabled.
 
 ### 7. Decommissioned Local Gateway Daemon
 - Unloaded and disabled the local background launchd daemon `com.user.stack-watch-gateway` since interactive Slack/Telegram gateway buttons are currently unsupported.
@@ -136,21 +136,40 @@ If you run the pipeline locally on a Mac host, the schedule is controlled by the
 
 ---
 
-## 🚀 Future Integration Tasks (Next-Agent Action Items)
+## 🚀 Future Integration Tasks & Operational Choices (Action Items)
 
-To complete the cloud migration, the downstream agent or operator must perform the following actions:
+To finalize the pipeline setup, the downstream agent or operator must address the following options:
 
-1. **Configure Git Remote & Push Code:**
-   Create a target GitHub repository, link the local git repository, and push:
-   ```bash
-   git remote add origin <your-github-repo-url>
-   git branch -M main
-   git push -u origin main
-   ```
-2. **Add GitHub Actions Secrets:**
-   In your repository Settings > Secrets > Actions, add:
-   - `GEMINI_API_KEY` (Free tier key from Google AI Studio)
-   - `TELEGRAM_TOKEN_UPDATES` (Bot API token)
-   - `TELEGRAM_CHAT_ID` (Destination channel ID)
-3. **Configure Pages deployment:**
-   Once the GitHub Action completes its initial run, go to Settings > Pages and configure the deployment source to deploy from the `gh-pages` branch.
+### 1. Repository Privacy & GitHub Pages
+* **Private vs. Public Repo:** It is highly recommended to keep your GitHub repository **private**, as it stores details about the tools you track, logs, and your active research profile.
+* **Dashboard Deployment:** By default, the automated GitHub Pages upload/deployment steps in [.github/workflows/stack-watch-pipeline.yml](file:///Users/user/Projects/Stack%20Watch/.github/workflows/stack-watch-pipeline.yml) have been commented out to prevent public exposure. 
+  - To enable it, uncomment the `Upload Pages Artifact` step and the `deploy-dashboard` job in the workflow.
+  - *Note:* If you are using a **private** repository, you can still publish the dashboard privately using GitHub Pages if you have a GitHub Pro, Team, or Enterprise plan. Otherwise, Pages will be public.
+
+### 2. Timezone & Double Scheduling Alignment
+* **Current Schedules:**
+  - **Local (launchd):** Configured to run daily at **09:30 Local Time** (which is `04:00 UTC` / `09:30 IST`).
+  - **Cloud (GitHub Actions):** Configured to run daily at **09:30 UTC** (which is `15:00 IST`).
+* **Alignment Action:**
+  - If you switch fully to **Cloud (GitHub Actions)**, you should unload and disable the local launchd daemons to prevent running twice in a day:
+    ```bash
+    launchctl unload ~/Library/LaunchAgents/com.user.poll-feeds-research.plist
+    launchctl unload ~/Library/LaunchAgents/com.user.bridge-antigravity-research.plist
+    ```
+  - If you run in a **hybrid** setup or want to keep both, align the times. Change the cron schedule in [.github/workflows/stack-watch-pipeline.yml](file:///Users/user/Projects/Stack%20Watch/.github/workflows/stack-watch-pipeline.yml) or the plist files in [launchd/](file:///Users/user/Projects/Stack%20Watch/launchd/) to run at the same UTC/local hours.
+
+### 3. Remote Setup & Verification
+* **Link to GitHub Remote:**
+  ```bash
+  git remote add origin <your-github-repo-url>
+  git branch -M main
+  git push -u origin main
+  ```
+* **Configure Secrets:**
+  Under GitHub Repository Settings > Secrets > Actions, add:
+  - `GEMINI_API_KEY` (Free tier key from Google AI Studio)
+  - `TELEGRAM_TOKEN_UPDATES` (Bot API token)
+  - `TELEGRAM_CHAT_ID` (Telegram channel/chat ID)
+
+### 4. Nesting Bug Resolved
+* The directory duplication and nesting bug (where folders like `processed/YYYY-MM-DD/YYYY-MM-DD/` were created) has been completely resolved in [bridge-antigravity-research.sh](file:///Users/user/Projects/Stack%20Watch/scripts/bridge-antigravity-research.sh) by introducing `rm -rf` guards before `mv` operations. All historical nested directories have been cleaned up and committed.
