@@ -10,11 +10,24 @@ set -euo pipefail
 export PATH="/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 
 # --- paths ---
-RESEARCH_DIR="$HOME/Projects/Stack Watch"
-REPO_DIR="$HOME/Projects/Project Instructions Template"
-MEMORY_DIR="$HOME/Library/Application Support/Claude/local-agent-mode-sessions/29e8364e-108e-4b8c-a6e9-844642d34378/d2a14a4a-842c-4a14-8d08-e95e3332da6f/spaces/63d0d81e-7790-437b-822f-e30b21f6e8d7/memory"
-LOG_FILE="$HOME/Library/Logs/bridge-antigravity-research.log"
-GDRIVE_KNOWLEDGE_DIR="$HOME/My Drive/Stack Watch/knowledge-base"
+if [[ "${GITHUB_ACTIONS:-}" == "true" ]]; then
+    # Running in GitHub Actions (Ubuntu runner)
+    SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+    RESEARCH_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+    LOG_FILE="$RESEARCH_DIR/bridge-antigravity-research.log"
+    # Set mock paths for downstream GHA sync since Drive/Claude are local-only
+    REPO_DIR="/tmp/Project-Instructions-Template"
+    MEMORY_DIR="/tmp/Claude-Memory"
+    GDRIVE_KNOWLEDGE_DIR="/tmp/GDrive-Knowledge"
+    mkdir -p "$REPO_DIR" "$MEMORY_DIR" "$GDRIVE_KNOWLEDGE_DIR"
+else
+    # Running locally on macOS
+    RESEARCH_DIR="$HOME/Projects/Stack Watch"
+    REPO_DIR="$HOME/Projects/Project Instructions Template"
+    MEMORY_DIR="$HOME/Library/Application Support/Claude/local-agent-mode-sessions/29e8364e-108e-4b8c-a6e9-844642d34378/d2a14a4a-842c-4a14-8d08-e95e3332da6f/spaces/63d0d81e-7790-437b-822f-e30b21f6e8d7/memory"
+    LOG_FILE="$HOME/Library/Logs/bridge-antigravity-research.log"
+    GDRIVE_KNOWLEDGE_DIR="$HOME/My Drive/Stack Watch/knowledge-base"
+fi
 
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" >> "$LOG_FILE"; }
 

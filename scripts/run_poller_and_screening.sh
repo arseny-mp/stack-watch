@@ -5,7 +5,8 @@
 
 set -euo pipefail
 
-cd "/Users/user/Projects/Stack Watch"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR/.."
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 
 echo "=== poller execution start ==="

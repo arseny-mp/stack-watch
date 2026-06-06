@@ -6,7 +6,8 @@ import sys
 from datetime import datetime
 
 # --- Configuration ---
-WORKSPACE_DIR = "/Users/user/Projects/Stack Watch"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+WORKSPACE_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
 PROCESSED_DIR = os.path.join(WORKSPACE_DIR, "processed")
 OUTPUT_HTML = os.path.join(WORKSPACE_DIR, "index.html")
 LEARNINGS_FILE = os.path.join(WORKSPACE_DIR, "learnings.md")
