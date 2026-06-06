@@ -46,6 +46,9 @@ To allow the downstream Telegram delivery bot (Hermes) to send notifications dir
 - File path: `/Users/user/Projects/Research/YYYY-MM-DD/external-research/<slug>.md`
 - Metadata headers/keys must remain in **English** for parser compatibility.
 - The title (top `# <Title>`), the text under `## Summary`, and text under `## What changes` must be written in **Russian**.
+- **Summary Structure (Critical):** The text under `## Summary` must be written in Russian and contain two expanded, detailed parts:
+  1. *Что это такое:* Подробное объяснение сути обновления, инструмента или фичи.
+  2. *Зачем мне это нужно:* Развернутое обоснование практической пользы и применимости в рабочем стеке оператора.
 - Example:
   ```markdown
   # Архитектура памяти ChatGPT Dreaming V3
@@ -59,7 +62,9 @@ To allow the downstream Telegram delivery bot (Hermes) to send notifications dir
   **Date:** 2026-06-05
 
   ## Summary
-  OpenAI запустила значительно более мощную архитектуру памяти на основе dreaming для ChatGPT. Система автоматически синтезирует воспоминания в фоновом режиме, отображает их на странице сводки памяти и удваивает доступный объем памяти.
+  **Что это такое:** OpenAI запустила значительно более мощную архитектуру памяти на основе фонового синтеза воспоминаний (dreaming) для ChatGPT. Система автоматически анализирует диалоги и формирует лаконичные факты в профиле пользователя.
+  
+  **Зачем мне это нужно:** Это позволяет кратно увеличить контекст и точность ответов при долгосрочных сессиях разработки, избавляя от необходимости вручную напоминать модели структуру проекта и предпочтения в коде при каждом новом чате.
   ```
 
 ---

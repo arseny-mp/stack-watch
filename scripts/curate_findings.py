@@ -131,6 +131,24 @@ Tasks:
    - `summary.md`: General statistics and categorized list of updates (Do now, Experiment, Parking, Unconfirmed, Skipped).
    - `REPORT.md`: Audit log of candidates, sources, and calibration decisions.
    - Detailed markdown files for keeps: Create the file contents for each actionable update (verdict: do now, experiment, parking lot). Place them under "findings" with a filename matching "<slug>.md".
+     The content of each finding markdown file MUST follow this template EXACTLY:
+     # [Title in Russian]
+     **Verdict:** [verdict]
+     **Confidence:** [high|medium|low]
+     **Sources:** [sources]
+     **Source count:** [count]
+     **Touches:** [components]
+     **Original URL:** [url]
+     **Verify URL:** ok
+     **Date:** [date]
+
+     ## Summary
+     [Must be written in Russian. Provide an expanded, detailed summary structured into two clear parts:
+     1. Что это такое: подробное и развернутое объяснение сути обновления, нового инструмента или фичи.
+     2. Зачем мне это нужно: развернутое объяснение практической пользы, ценности для рабочего процесса оператора и применимости в его стеке.]
+
+     ## What changes
+     [Detailed description of technical changes and features in Russian]
    - Memory entries: For parked or experiment updates, generate a markdown file for the "memory_entries" array with a filename like "parked_<slug>.md" or "experiment_<slug>.md".
    - Log additions: Create rows to append to the master log file (piped columns format).
    - Memory index additions: Create lines to append to the master index.
