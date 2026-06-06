@@ -265,9 +265,12 @@ send_telegram() {
   local text="$1"
   local reply_markup="${2:-}"
   local token
-  token=$(security find-generic-password -a hermes -s "$TOKEN_KEY" -w 2>/dev/null || true)
+  token="${TELEGRAM_TOKEN_UPDATES:-}"
   if [[ -z "$token" ]]; then
-    echo "[updates] ERROR: token '$TOKEN_KEY' not in Keychain. Run:" >&2
+    token=$(security find-generic-password -a hermes -s "$TOKEN_KEY" -w 2>/dev/null || true)
+  fi
+  if [[ -z "$token" ]]; then
+    echo "[updates] ERROR: token '$TOKEN_KEY' not found in env or Keychain. Run:" >&2
     echo "  security add-generic-password -a hermes -s $TOKEN_KEY -w '<token>'" >&2
     exit 3
   fi
@@ -370,8 +373,10 @@ send_document() {
   local slug="$1"
   local f="$RESEARCH_DIR/$slug.md"
   [[ -f "$f" ]] || return
-  local token
-  token=$(security find-generic-password -a hermes -s "$TOKEN_KEY" -w 2>/dev/null || true)
+  token="${TELEGRAM_TOKEN_UPDATES:-}"
+  if [[ -z "$token" ]]; then
+    token=$(security find-generic-password -a hermes -s "$TOKEN_KEY" -w 2>/dev/null || true)
+  fi
   [[ -n "$token" ]] || return
   
   echo "[updates] Attaching document details for $slug..."

@@ -56,6 +56,16 @@ jobs:
           # Run the bridge script (which will compile daily reports, rolling archives, and rebuild index.html)
           ./scripts/bridge-antigravity-research.sh
 
+      - name: Deliver Telegram Notification
+        env:
+          TELEGRAM_TOKEN_UPDATES: ${{ secrets.TELEGRAM_TOKEN_UPDATES }}
+          TELEGRAM_HOME_CHANNEL: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUMMARY_DIR: "/tmp/Project-Instructions-Template/project-status/_summary"
+          RESEARCH_DIR: "/tmp/Project-Instructions-Template/external-research"
+        run: |
+          chmod +x scripts/updates-news-deliver.sh
+          ./scripts/updates-news-deliver.sh
+
       - name: Commit State & Cache Updates
         run: |
           git config --local user.email "action@github.com"
