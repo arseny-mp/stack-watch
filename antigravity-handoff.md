@@ -49,7 +49,7 @@ The primary goal of this iteration was to **migrate the pipeline from a local ma
   2. Runs ingestion, screening, and autonomous curation.
   3. Executes `bridge-antigravity-research.sh` to update index databases, archive logs, and compile weeklies.
   4. Commits runtime state changes (such as deduplication caches `seen_releases.json`, `_seen-urls.txt`, and generated indices) back to the repository.
-  5. **Pages Deployment (Optional & Disabled by Default):** Commented out in the workflow configuration to ensure absolute data privacy and prevent public exposure of the dashboard unless explicitly enabled.
+  5. **Pages Deployment:** Fully active and enabled in the workflow configuration to automatically compile and deploy the static dashboard `index.html` to **GitHub Pages** (via the `gh-pages` branch) upon run completion.
 
 ### 7. Decommissioned Local Gateway Daemon
 - Unloaded and disabled the local background launchd daemon `com.user.stack-watch-gateway` since interactive Slack/Telegram gateway buttons are currently unsupported.
@@ -98,14 +98,7 @@ graph TD
 ---
 
 ## ⚙️ macOS launchd Configuration
-If you run the pipeline locally on a Mac host, the schedule is controlled by these LaunchAgents:
-
-| Plist Name | Active Path | Schedule | Executed Script |
-|---|---|---|---|
-| **`com.user.poll-feeds-research`** | `~/Library/LaunchAgents/com.user.poll-feeds-research.plist` | Daily **09:30** | `run_poller_and_screening.sh` |
-| **`com.user.bridge-antigravity-research`** | `~/Library/LaunchAgents/com.user.bridge-antigravity-research.plist` | Daily **10:00** | `bridge-antigravity-research.sh` |
-
-*Note: The local gateway daemon (`com.user.stack-watch-gateway`) has been decommissioned.*
+*Note: The local schedulers `com.user.poll-feeds-research` and `com.user.bridge-antigravity-research` have been **unloaded & deactivated** on the host to ensure exactly one scheduler (Cloud/GitHub Actions) is active, preventing duplicate runs.*
 
 ---
 
@@ -141,22 +134,16 @@ If you run the pipeline locally on a Mac host, the schedule is controlled by the
 To finalize the pipeline setup, the downstream agent or operator must address the following options:
 
 ### 1. Repository Privacy & GitHub Pages
-* **Private vs. Public Repo:** It is highly recommended to keep your GitHub repository **private**, as it stores details about the tools you track, logs, and your active research profile.
-* **Dashboard Deployment:** By default, the automated GitHub Pages upload/deployment steps in [.github/workflows/stack-watch-pipeline.yml](file:///Users/user/Projects/Stack%20Watch/.github/workflows/stack-watch-pipeline.yml) have been commented out to prevent public exposure. 
-  - To enable it, uncomment the `Upload Pages Artifact` step and the `deploy-dashboard` job in the workflow.
-  - *Note:* If you are using a **private** repository, you can still publish the dashboard privately using GitHub Pages if you have a GitHub Pro, Team, or Enterprise plan. Otherwise, Pages will be public.
+* **Public/Private Deployment (Permitted):** Collection of public tech updates and public dashboard deployment is explicitly approved. The dashboard is configured to automatically build and deploy to **GitHub Pages** upon successful workflow execution.
+* **Repository Visibility:** You may host it in a public repository with public Pages, or keep the repository private.
 
-### 2. Timezone & Double Scheduling Alignment
-* **Current Schedules:**
-  - **Local (launchd):** Configured to run daily at **09:30 Local Time** (which is `04:00 UTC` / `09:30 IST`).
-  - **Cloud (GitHub Actions):** Configured to run daily at **09:30 UTC** (which is `15:00 IST`).
-* **Alignment Action:**
-  - If you switch fully to **Cloud (GitHub Actions)**, you should unload and disable the local launchd daemons to prevent running twice in a day:
-    ```bash
-    launchctl unload ~/Library/LaunchAgents/com.user.poll-feeds-research.plist
-    launchctl unload ~/Library/LaunchAgents/com.user.bridge-antigravity-research.plist
-    ```
-  - If you run in a **hybrid** setup or want to keep both, align the times. Change the cron schedule in [.github/workflows/stack-watch-pipeline.yml](file:///Users/user/Projects/Stack%20Watch/.github/workflows/stack-watch-pipeline.yml) or the plist files in [launchd/](file:///Users/user/Projects/Stack%20Watch/launchd/) to run at the same UTC/local hours.
+### 2. Timezone & Double Scheduling Alignment (Complete)
+* **Status:** Local `launchd` tasks have already been **unloaded/disabled** to prevent dual execution (local runs at 09:30 local/IST, cloud runs at 09:30 UTC / 15:00 IST).
+* Only the **Cloud (GitHub Actions)** schedule is now active. If you wish to switch back to local execution, run:
+  ```bash
+  launchctl load ~/Library/LaunchAgents/com.user.poll-feeds-research.plist
+  launchctl load ~/Library/LaunchAgents/com.user.bridge-antigravity-research.plist
+  ```
 
 ### 3. Remote Setup & Verification
 * **Link to GitHub Remote:**
