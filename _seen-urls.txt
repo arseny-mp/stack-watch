@@ -20,6 +20,8 @@ https://developers.openai.com/codex/changelog
 https://developers.openai.com/codex/sites
 https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
+https://github.com/HtooTayZa/sawtooth-memory
+https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
@@ -44,6 +46,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 https://github.com/anthropics/claude-code/releases/tag/v2.1.167
 https://github.com/desktop-commander/desktop-commander
+https://github.com/fabioconcina/claumon
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
 https://github.com/github/github-mcp-server/releases/tag/v1.1.0
@@ -85,6 +88,7 @@ https://help.openai.com/en/articles/20001257
 https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 https://help.openai.com/en/articles/8590148-memory-faq
 https://help.openai.com/en/articles/9624314-model-release-notes
+https://joshlf.com/posts/memory-safety-life-and-death/
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://marktechpost.com
 https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-command
@@ -93,6 +97,7 @@ https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#stream
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
 https://news.ycombinator.com/item?id=123456
 https://news.ycombinator.com/item?id=48259288
+https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://platform.claude.com/docs/en/release-notes/overview
