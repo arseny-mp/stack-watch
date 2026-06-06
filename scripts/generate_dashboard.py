@@ -176,10 +176,40 @@ def parse_rubric(file_path):
                     title = parts[0].replace('**', '').strip()
                     desc = '—'.join(parts[1:]).strip()
                     autoskip.append({"title": title, "description": desc})
-                else:
+        else:
                     autoskip.append({"title": line[2:].strip(), "description": ""})
                     
     return {"watchlist": watchlist, "autoskip": autoskip}
+
+def parse_detailed_findings(folder_path):
+    findings_map = {}
+    ext_dir = os.path.join(folder_path, "external-research")
+    if not os.path.exists(ext_dir):
+        return findings_map
+        
+    for fname in os.listdir(ext_dir):
+        if not fname.endswith(".md"):
+            continue
+        slug = fname[:-3]
+        fpath = os.path.join(ext_dir, fname)
+        try:
+            with open(fpath, 'r', encoding='utf-8') as f:
+                content = f.read()
+            # Extract title (first line starting with #)
+            title_match = re.search(r'^#\s+(.*)', content)
+            title = title_match.group(1).strip() if title_match else slug
+            
+            # Extract Original URL
+            url_match = re.search(r'\*\*Original URL:\*\*\s*(.*)', content)
+            orig_url = url_match.group(1).strip() if url_match else ""
+            
+            findings_map[slug] = {
+                "title": title,
+                "original_url": orig_url
+            }
+        except Exception:
+            pass
+    return findings_map
 
 def main():
     print("Parsing Stack Watch processed daily summaries...")
@@ -210,6 +240,7 @@ def main():
                 # Ensure date field matches
                 data["date"] = date_str
                 data["status"] = "success"
+                data["findings_details"] = parse_detailed_findings(folder_path)
                 daily_runs.append(data)
         else:
             # Empty day or skipped run
@@ -221,7 +252,8 @@ def main():
                 "new_findings": 0,
                 "verdicts": {"do-now": 0, "experiment": 0, "parking": 0, "skip": 0},
                 "validation_rate": "0%",
-                "sections": {"do_now": [], "experiment": [], "parking": [], "unconfirmed": [], "skipped": []}
+                "sections": {"do_now": [], "experiment": [], "parking": [], "unconfirmed": [], "skipped": []},
+                "findings_details": {}
             })
             
     # Sort by date descending
@@ -1061,26 +1093,42 @@ def main():
                 const card = document.createElement('div');
                 card.className = 'finding-card';
                 
-                // Parse slug/title out of finding text if it contains e.g. "chatgpt-dreaming-v3-memory — Audit ChatGPT..."
-                let title = f.text;
+                let slug = f.text;
                 let desc = '';
                 const parts = f.text.split(' — ');
                 if (parts.length >= 2) {{
-                    title = parts[0];
+                    slug = parts[0];
                     desc = parts.slice(1).join(' — ');
                 }}
                 
+                // Look up detailed info parsed at compile time
+                const details = (run.findings_details && run.findings_details[slug]) || null;
+                const displayTitle = details ? details.title : slug;
+                const originalUrl = details ? details.original_url : '';
+                
                 let badgeLabel = f.verdict.replace('_', ' ');
-                if (badgeLabel === 'do now') badgeLabel = 'do now';
+                
+                // Build links HTML
+                let linksHTML = '';
+                const mdLink = `processed/${{run.date}}/external-research/${{slug}}.md`;
+                
+                linksHTML += `<a href="${{mdLink}}" class="finding-link" target="_blank" style="margin-right: 12px; font-size: 12px; display: inline-flex; align-items: center; gap: 4px; text-decoration: none; color: var(--color-indigo);">📂 Отчет (Markdown)</a>`;
+                if (originalUrl) {{
+                    linksHTML += `<a href="${{originalUrl}}" class="finding-link" target="_blank" style="font-size: 12px; display: inline-flex; align-items: center; gap: 4px; text-decoration: none; color: var(--color-cyan);">🔗 Источник</a>`;
+                }}
                 
                 card.innerHTML = `
                     <div class="finding-header">
                         <div class="finding-title-section">
-                            <span class="finding-title">${{parseMarkdown(title)}}</span>
+                            <span class="finding-title" style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 600; color: var(--text-primary);">${{parseMarkdown(displayTitle)}}</span>
+                            <span class="finding-slug" style="font-size: 11px; color: var(--text-muted); font-family: monospace; display: block; margin-top: 2px;">${{slug}}</span>
                         </div>
                         <span class="finding-badge ${{f.verdict}}">${{badgeLabel}}</span>
                     </div>
-                    ${{desc ? `<div class="finding-body">${{parseMarkdown(desc)}}</div>` : ''}}
+                    ${{desc ? `<div class="finding-body" style="margin-top: 6px; margin-bottom: 12px; color: var(--text-secondary);">${{parseMarkdown(desc)}}</div>` : ''}}
+                    <div class="finding-footer-links" style="display: flex; gap: 16px; margin-top: 8px; border-top: 1px solid var(--border-color); padding-top: 8px;">
+                        ${{linksHTML}}
+                    </div>
                 `;
                 listContainer.appendChild(card);
             }});
