@@ -38,7 +38,8 @@
     "v20260602-nightly: AI live harness: positively verify Gemini audio + video (inlineData)",
     "v3.7.0beta3",
     "v3.6.11",
-    "v20260530-nightly: Reject notify-on-termination for already-dead PIDs"
+    "v20260530-nightly: Reject notify-on-termination for already-dead PIDs",
+    "v20260606-nightly: Fix porthole copy and click-to-activate"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -147,6 +148,7 @@
     "48419000",
     "48415595",
     "48421936",
-    "48421987"
+    "48421987",
+    "48422341"
   ]
 }

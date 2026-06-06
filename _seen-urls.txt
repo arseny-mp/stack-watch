@@ -49,6 +49,7 @@ https://github.com/github/github-mcp-server/releases/tag/v1.0.5
 https://github.com/github/github-mcp-server/releases/tag/v1.1.0
 https://github.com/github/github-mcp-server/releases/tag/v1.1.1
 https://github.com/github/github-mcp-server/releases/tag/v1.1.2
+https://github.com/gnachman/iTerm2/releases/tag/v20260606-nightly
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
 https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
@@ -77,6 +78,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.1
 https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2
 https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
+https://github.com/waldekmastykarz/atifact
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 https://help.openai.com/en/articles/20001257
