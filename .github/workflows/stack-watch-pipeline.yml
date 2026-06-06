@@ -87,12 +87,20 @@ jobs:
         run: |
           python3 scripts/deliver.py
 
+      - name: Deliver Email Notification
+        env:
+          EMAIL_SMTP_PASSWORD: ${{ secrets.EMAIL_SMTP_PASSWORD }}
+          EMAIL_SENDER: "admin@myprtech.org"
+          EMAIL_RECIPIENTS: "admin@myprtech.org"
+        run: |
+          python3 scripts/deliver_email.py
+
       - name: Commit State & Cache Updates
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add processed/seen_releases.json _seen-urls.txt index.html processed/updates-*.txt || echo "No state files to add"
-          git commit -m "chore: update seen cache, state and static dashboard [skip ci]" || echo "No state changes to commit"
+          git add processed/seen_releases.json _seen-urls.txt index.html processed/updates-*.txt processed/email-*.txt || echo "No state files to add"
+          git commit -m "chore: update seen cache, state, email and static dashboard [skip ci]" || echo "No state changes to commit"
           git push || echo "No changes to push"
 
       - name: Upload Pages Artifact
