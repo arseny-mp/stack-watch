@@ -11,7 +11,8 @@
     "v0.30.2",
     "v0.30.2-rc0",
     "v0.30.7-rc0",
-    "v0.30.7-rc1"
+    "v0.30.7-rc1",
+    "v0.30.7"
   ],
   "claude code": [
     "v2.1.165",
@@ -42,7 +43,8 @@
     "v3.6.11",
     "v20260530-nightly: Reject notify-on-termination for already-dead PIDs",
     "v20260606-nightly: Fix porthole copy and click-to-activate",
-    "v20260607-nightly: Add option to merge workgroup statuses in the Session Status tool"
+    "v20260607-nightly: Add option to merge workgroup statuses in the Session Status tool",
+    "v20260608-nightly: Centralize notify-on-status-change and surface it in the Cockpit"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -58,7 +60,10 @@
     "v2026.6.6-alpha.1",
     "2026.6.5-beta.1",
     "v2026.6.7-alpha.1",
-    "2026.6.5-beta.2"
+    "2026.6.5-beta.2",
+    "v2026.6.8-alpha.1",
+    "v2026.6.5-beta.3",
+    "v2026.6.7-alpha.2"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -66,7 +71,8 @@
     "64b1cb0",
     "9bade64",
     "00ce9cf",
-    "25e5f3a"
+    "25e5f3a",
+    "275175c"
   ],
   "hn_discovery": [
     "48414924",
@@ -199,6 +205,43 @@
     "48428796",
     "48428209",
     "48427988",
-    "48427526"
+    "48427526",
+    "48438180",
+    "48448372",
+    "48447746",
+    "48447234",
+    "48446898",
+    "48446415",
+    "48445559",
+    "48445171",
+    "48445004",
+    "48443328",
+    "48443210",
+    "48442307",
+    "48441197",
+    "48441132",
+    "48439217",
+    "48438606",
+    "48438203",
+    "48438113",
+    "48436024",
+    "48447929",
+    "48436737",
+    "48448093",
+    "48447491",
+    "48447291",
+    "48445917",
+    "48444949",
+    "48443907",
+    "48443074",
+    "48442889",
+    "48442264",
+    "48441845",
+    "48440806",
+    "48440749",
+    "48439886",
+    "48438373",
+    "48437286",
+    "48436973"
   ]
 }
