@@ -34,7 +34,11 @@
     "v3.0.6",
     "v1.0.12",
     "v0.2.8",
-    "v0.1.2"
+    "v0.1.2",
+    "v3.0.0",
+    "v2.0.5",
+    "v3.0.7",
+    "v0.1.1"
   ],
   "iterm2": [
     "v20260605-nightly: Cockpit: watch statusless sessions by screen observation",
@@ -46,7 +50,9 @@
     "v20260530-nightly: Reject notify-on-termination for already-dead PIDs",
     "v20260606-nightly: Fix porthole copy and click-to-activate",
     "v20260607-nightly: Add option to merge workgroup statuses in the Session Status tool",
-    "v20260608-nightly: Centralize notify-on-status-change and surface it in the Cockpit"
+    "v20260608-nightly: Centralize notify-on-status-change and surface it in the Cockpit",
+    "v20260610-nightly: Add Reveal button and live window membership to status-change alerts",
+    "v20260609-nightly: CI: pin Xcode to 26.4 and unmask xcodebuild exit code"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -70,7 +76,11 @@
     "v2026.6.9-alpha.1",
     "2026.6.5-beta.6",
     "2026.6.5-beta.5",
-    "2026.6.5-beta.3"
+    "2026.6.5-beta.3",
+    "v2026.6.10-alpha.1",
+    "2026.6.6-beta.1",
+    "v2026.6.9-alpha.3",
+    "2026.6.5"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -286,6 +296,46 @@
     "48456483",
     "48455670",
     "48455368",
-    "48450287"
+    "48450287",
+    "48480330",
+    "48479838",
+    "48479452",
+    "48479165",
+    "48478404",
+    "48478230",
+    "48478078",
+    "48476316",
+    "48475362",
+    "48475011",
+    "48474980",
+    "48474693",
+    "48474637",
+    "48474552",
+    "48473845",
+    "48473166",
+    "48473096",
+    "48472867",
+    "48472255",
+    "48471898",
+    "48480559",
+    "48479619",
+    "48479564",
+    "48479048",
+    "48478148",
+    "48478102",
+    "48477886",
+    "48477466",
+    "48477370",
+    "48477133",
+    "48476202",
+    "48476127",
+    "48475850",
+    "48474823",
+    "48474221",
+    "48473986",
+    "48472960",
+    "48472507",
+    "48471638",
+    "48471450"
   ]
 }
