@@ -2,6 +2,7 @@
 https://9to5google.com/2026/05/25/google-ai-plus-pro-ultra-gemini-features/
 https://9to5mac.com/2026/05/21/openai-improves-codex-ios-experience-with-turn-completion-alerts-new-commands-more/
 https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/
+https://agentsim.dev
 https://ai.google.dev/gemini-api/docs/changelog
 https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
 https://aiweekly.co
@@ -19,14 +20,17 @@ https://code.claude.com/docs/en/workflows
 https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
 https://developers.openai.com/codex/changelog
 https://developers.openai.com/codex/sites
+https://devloop.sh
 https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
+https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
+https://github.com/amiinwani/whoburnedmore.com
 https://github.com/anthropics/claude-code/issues/16537
 https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
@@ -73,6 +77,7 @@ https://github.com/ollama/ollama/releases/tag/v0.30.1-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.2
 https://github.com/ollama/ollama/releases/tag/v0.30.5
 https://github.com/ollama/ollama/releases/tag/v0.30.7-rc0
+https://github.com/ollama/ollama/releases/tag/v0.30.9-rc0
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
@@ -89,6 +94,7 @@ https://help.openai.com/en/articles/20001257
 https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 https://help.openai.com/en/articles/8590148-memory-faq
 https://help.openai.com/en/articles/9624314-model-release-notes
+https://hyperbox.sh
 https://joshlf.com/posts/memory-safety-life-and-death/
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://marktechpost.com
@@ -102,6 +108,7 @@ https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://platform.claude.com/docs/en/release-notes/overview
+https://pypi.org/project/subagent-fleet/
 https://release.bar
 https://releasebot.io/updates/openai
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
