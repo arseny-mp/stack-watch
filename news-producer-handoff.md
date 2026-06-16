@@ -2,7 +2,7 @@
 
 **Date:** 2026-06-05
 **Role:** Stack Watch Research Producer (AntiGravity / Daily News Agent)
-**Objective:** Search, evaluate, filter, and document daily updates/releases for the 26 stack components. Output the daily summary and finding files directly with Russian summaries for downstream delivery.
+**Objective:** Search, evaluate, filter, and document daily updates/releases for the 27 stack components. Output the daily summary and finding files directly with Russian summaries for downstream delivery.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Execution Time:** Daily at 09:30 AM.
 - **Workflow:**
   1. Retrieve recent updates/changelogs from public sources (GitHub, official sites, YouTube transcripts).
-  2. Filter updates against the **26-component Tech Stack** (see `_rubric.md`).
+  2. Filter updates against the **27-component Tech Stack** (see `_rubric.md`).
   3. Apply the **Verdict Rubric** (Do Now, Experiment, Parking Lot, Skip).
   4. Write the daily summary index and individual finding detail files.
   5. The bridge script (`bridge-antigravity-research.sh`) runs at 10:00 AM to copy these files to the Hermes delivery bot directories.
@@ -69,9 +69,9 @@ To allow the downstream Telegram delivery bot (Hermes) to send notifications dir
 
 ---
 
-## 4. Tech Stack Watch List (26 Components)
+## 4. Tech Stack Watch List (27 Components)
 Refer to the master list in `/Users/user/Projects/Research/_rubric.md` for specific criteria. The stack covers:
-- **AI execution tools (16):** ChatGPT, Codex, Claude Cowork, Claude Code CLI, Kimi, Hermes, OpenClaw, Ollama, Gemini, NotebookLM, Pi Coding Agent, GLM, Minimax, Qwen, Wispr Flow, Antigravity.
+- **AI execution tools (17):** ChatGPT, Codex, Claude Cowork, Claude Code CLI, Kimi, Hermes, OpenClaw, Ollama, Gemini, NotebookLM, Pi Coding Agent, GLM, Minimax, Qwen, Wispr Flow, Antigravity, OpenHuman.
 - **Input/Output channels (2):** YouTube, Telegram.
 - **Infra layer (8):** Obsidian, Mem0, Git/GitHub, Chrome, Desktop Commander, macOS/Homebrew/npm, tmux, iTerm2.
 

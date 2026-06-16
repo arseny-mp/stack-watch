@@ -55,7 +55,7 @@ Phases are ordered by leverage (value ÷ cost), not by the order either review p
 | # | Item | Layer | Effort | Risk | From |
 |---|------|-------|--------|------|------|
 | 2.1 | **Severity tag per finding** in `external-research/<slug>.md` (`breaking/security` 🚨, `performance` ⚡, `integration` 🧩, `minor`). Orthogonal to verdict. Drives routing (Phase 4) and flags (Phase 3). | Producer | M | Low | Both |
-| 2.2 | **Populate `Tags:` + component→layer mapping.** `**Tags:**` is currently empty. Map the 26 components to 3 layers via existing `Touches`: 🤖 AI Agents & LLMs, 💻 Local Dev Environment, 🗄️ System Memory & CLI. No new data needed. | Producer | S | Low | Both |
+| 2.2 | **Populate `Tags:` + component→layer mapping.** `**Tags:**` is currently empty. Map the 27 components to 3 layers via existing `Touches`: 🤖 AI Agents & LLMs, 💻 Local Dev Environment, 🗄️ System Memory & CLI. No new data needed. | Producer | S | Low | Both |
 
 ---
 

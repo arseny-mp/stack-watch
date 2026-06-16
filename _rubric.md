@@ -10,7 +10,7 @@ We have a fixed tech stack (section 2). Content about anything in that stack is 
 
 ## 2. Our tech stack (the watch list)
 
-**AI execution tools (16):**
+**AI execution tools (17):**
 
 1. **ChatGPT** (Plus / Pro) — used as the prompt-generation / coordinator layer.
 2. **Codex** (OpenAI CLI) — coding agent on the command line.
@@ -28,24 +28,25 @@ We have a fixed tech stack (section 2). Content about anything in that stack is 
 14. **Qwen** — Alibaba Qwen model family and developer tools.
 15. **Wispr Flow** — voice dictation and AI productivity writing tool.
 16. **Antigravity** — agentic AI coding assistant and research executor.
+17. **OpenHuman** — persistent personal AI assistant (developed by Tiny Humans).
 
 **Input / output channels (2):**
 
-17. **YouTube** — primary news input (transcripts evaluated against the rubric in section 4).
-18. **Telegram** — output channel for notifications.
+18. **YouTube** — primary news input (transcripts evaluated against the rubric in section 4).
+19. **Telegram** — output channel for notifications.
 
 **Infra layer (8):**
 
-19. **Obsidian** — markdown knowledge bases rendered as vaults.
-20. **Mem0** — vector memory (postgres + pgvector + Ollama embeddings).
-21. **Git / GitHub** — four product repos in active development.
-22. **Chrome** — browser, including the Claude Chrome extension for browser-bridge automation.
-23. **Desktop Commander** — terminal MCP for operations outside the Cowork sandbox.
-24. **macOS / Homebrew / npm** — base operating system and package managers.
-25. **tmux** — terminal multiplexer for session persistence.
-26. **iTerm2** — terminal emulator for macOS.
+20. **Obsidian** — markdown knowledge bases rendered as vaults.
+21. **Mem0** — vector memory (postgres + pgvector + Ollama embeddings).
+22. **Git / GitHub** — four product repos in active development.
+23. **Chrome** — browser, including the Claude Chrome extension for browser-bridge automation.
+24. **Desktop Commander** — terminal MCP for operations outside the Cowork sandbox.
+25. **macOS / Homebrew / npm** — base operating system and package managers.
+26. **tmux** — terminal multiplexer for session persistence.
+27. **iTerm2** — terminal emulator for macOS.
 
-Any feature release, integration pattern, workflow optimization, pricing change, or limit change touching one of these 26 components is in-scope.
+Any feature release, integration pattern, workflow optimization, pricing change, or limit change touching one of these 27 components is in-scope.
 
 ## 3. Out of scope (auto-skip)
 
@@ -58,7 +59,7 @@ Skip without further analysis if the content is primarily about:
 - **Round-up videos** listing 10+ tools without depth on any single one — not tractable for verdict.
 - **Industry / market commentary** — funding rounds, executive moves, model leaderboard rankings without an actionable feature change.
 
-A piece can mention an out-of-scope topic and still be in-scope if it carries an actionable update for one of the 26 components. The test is "does this change what we should do" — not topic keyword match.
+A piece can mention an out-of-scope topic and still be in-scope if it carries an actionable update for one of the 27 components. The test is "does this change what we should do" — not topic keyword match.
 
 ## 4. Verdict rubric
 
@@ -73,7 +74,7 @@ Every item gets one of four verdicts:
 
 - If the item duplicates something already in our parking-lot index (section 5), default to skip with note "already parked, see <title>".
 - If the item is an architectural validation of something we already do, default to skip — validation is not action.
-- If the item proposes a workflow that requires installing a tool outside our 26-component stack, default to skip unless the value clearly exceeds the cost of expanding the stack.
+- If the item proposes a workflow that requires installing a tool outside our 27-component stack, default to skip unless the value clearly exceeds the cost of expanding the stack.
 - A "do now" verdict requires (a) named target file or config, (b) named change, (c) estimated time to apply under 2 hours. If any of those is missing, downgrade to experiment or parking lot.
 - A "parking lot" verdict without a concrete trigger condition is invalid — downgrade to skip.
 
@@ -96,7 +97,7 @@ Return findings as a numbered list. One block per item. For each item:
 ### N. <Short title>
 
 - Source: <URL or channel + date if known>
-- Touches: <which of the 19 stack components, or "out of stack">
+- Touches: <which of the 27 stack components, or "out of stack">
 - Verdict: do now | experiment | parking lot | skip
 - Why this verdict: <1-3 sentences, concrete>
 - If do-now or experiment: <named target file/config + named change + estimated time>
@@ -114,7 +115,7 @@ End the digest with a one-paragraph meta-summary: how many sources scanned, how 
 
 ## 8. What this knowledge file is NOT
 
-This file does not describe our internal protocols, file layouts, role definitions, deployment processes, or any project specifics beyond the 26-component stack. If you find yourself wanting to ask "how do they actually do X" — you do not need to know. Apply the rubric, return the digest, and the Cowork-side finalizer will map findings against internal protocol on its side.
+This file does not describe our internal protocols, file layouts, role definitions, deployment processes, or any project specifics beyond the 27-component stack. If you find yourself wanting to ask "how do they actually do X" — you do not need to know. Apply the rubric, return the digest, and the Cowork-side finalizer will map findings against internal protocol on its side.
 
 If a finding genuinely cannot be assigned a verdict without internal context, surface it with verdict `skip` and a `needs internal context` note in the why-line — do not invent a verdict.
 

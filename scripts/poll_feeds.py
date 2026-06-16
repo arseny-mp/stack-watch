@@ -21,11 +21,16 @@ GITHUB_RELEASES = {
     "Mem0": "https://github.com/mem0ai/mem0/releases.atom",
     "tmux": "https://github.com/tmux/tmux/releases.atom",
     "iTerm2": "https://github.com/gnachman/iTerm2/releases.atom",
-    "OpenClaw": "https://github.com/openclaw/openclaw/releases.atom"
+    "OpenClaw": "https://github.com/openclaw/openclaw/releases.atom",
+    "OpenHuman": "https://github.com/tinyhumansai/openhuman/releases.atom"
 }
 
 GITHUB_COMMITS = {
     "Desktop Commander (MCP Servers)": "https://github.com/modelcontextprotocol/servers/commits/main.atom"
+}
+
+YOUTUBE_CHANNELS = {
+    "Andrej Karpathy": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
 }
 
 HN_KEYWORDS = ["ollama", "claude code", "notebooklm", "wispr flow", "mem0"]
@@ -179,6 +184,38 @@ def poll_hn(keywords, limit_days=7):
             log(f"Timeout or network error polling HN for keyword {kw}: {e}")
     return findings
 
+def parse_youtube_feed(xml_data, channel_name, limit_days=7):
+    findings = []
+    now = datetime.now(timezone.utc)
+    threshold = now - timedelta(days=limit_days)
+    
+    try:
+        root = ET.fromstring(xml_data)
+        ns = {'atom': 'http://www.w3.org/2005/Atom'}
+        for entry in root.findall('atom:entry', ns):
+            title_el = entry.find('atom:title', ns)
+            link_el = entry.find('atom:link', ns)
+            published_el = entry.find('atom:published', ns)
+            
+            if title_el is not None and link_el is not None and published_el is not None:
+                title = title_el.text.strip()
+                url = link_el.attrib.get('href', '').strip()
+                published_str = published_el.text.strip()
+                published_date = parse_iso_date(published_str)
+                
+                if published_date >= threshold:
+                    findings.append({
+                        "title": f"YouTube: {title} ({channel_name})",
+                        "url": url,
+                        "date": published_date.strftime('%Y-%m-%d'),
+                        "component": "YouTube Discovery",
+                        "version": url.split('=')[-1],
+                        "type": "discovery"
+                    })
+    except Exception as e:
+        log(f"Error parsing YouTube XML for {channel_name}: {e}")
+    return findings
+
 def load_seen_cache():
     if os.path.exists(SEEN_CACHE_FILE):
         try:
@@ -259,6 +296,25 @@ def main():
                 log(f"Found new HN discussion: {f['title']}")
     except Exception as e:
         log(f"Error executing HN discovery: {e}")
+
+    # 4. Poll YouTube Channels
+    for channel, url in YOUTUBE_CHANNELS.items():
+        try:
+            log(f"Polling YouTube channel for {channel}...")
+            xml_data, status = http_get(url)
+            if status == 200 and xml_data:
+                findings = parse_youtube_feed(xml_data, channel)
+                for f in findings:
+                    comp_key = "youtube_discovery"
+                    version = f["version"]
+                    if comp_key not in seen_cache:
+                        seen_cache[comp_key] = []
+                    if version not in seen_cache[comp_key]:
+                        new_findings.append(f)
+                        seen_cache[comp_key].append(version)
+                        log(f"Found new video by {channel}: {f['title']}")
+        except Exception as e:
+            log(f"Timeout or network error polling YouTube for {channel}: {e}")
 
     # Save outputs
     os.makedirs(os.path.dirname(output_file), exist_ok=True)

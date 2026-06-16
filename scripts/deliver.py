@@ -421,10 +421,35 @@ def main():
         
     # Resolve credentials
     token = os.environ.get("TELEGRAM_TOKEN_UPDATES")
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-    
+    if not token:
+        try:
+            import subprocess
+            result = subprocess.run(
+                ['security', 'find-generic-password', '-a', 'hermes', '-s', 'TELEGRAM_TOKEN_UPDATES', '-w'],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                check=True
+            )
+            token = result.stdout.decode('utf-8').strip()
+        except Exception as e:
+            logging.warning(f"Could not fetch TELEGRAM_TOKEN_UPDATES from Keychain: {e}")
+            
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID") or os.environ.get("TELEGRAM_HOME_CHANNEL")
+    if not chat_id:
+        try:
+            import subprocess
+            result = subprocess.run(
+                ['security', 'find-generic-password', '-a', 'hermes', '-s', 'TELEGRAM_HOME_CHANNEL', '-w'],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                check=True
+            )
+            chat_id = result.stdout.decode('utf-8').strip()
+        except Exception:
+            chat_id = "7656475139"
+            
     if not token or not chat_id:
-        logging.error("TELEGRAM_TOKEN_UPDATES or TELEGRAM_CHAT_ID environment variables are missing.")
+        logging.error("TELEGRAM_TOKEN_UPDATES or TELEGRAM_CHAT_ID environment variables are missing and could not be resolved.")
         sys.exit(1)
         
     # Deliver Message

@@ -76,8 +76,10 @@ compile_weekly_rollup() {
     done
     
     log "Compiled weekly rollup to $rollup_file"
-    # Trigger bot to deliver weekly rollup
     python3 "$RESEARCH_DIR/scripts/deliver.py" --weekly-rollup "$rollup_file" >> "$LOG_FILE" 2>&1 || log "Failed to deliver weekly rollup."
+
+    log "Generating NotebookLM weekly Audio Overview (podcast)..."
+    python3 "$RESEARCH_DIR/scripts/generate_audio_overview.py" >> "$LOG_FILE" 2>&1 || log "Failed to generate weekly Audio Overview."
 }
 
 if [[ "${1:-}" == "--weekly" ]]; then
@@ -258,6 +260,10 @@ for DROP in "${DROPS[@]}"; do
         urls=$(wc -l < "$DROP/new-urls.txt" | tr -d ' ')
         log "Added $urls URL(s) to _seen-urls.txt (deduped)."
     fi
+
+    # 9.5 Sync to NotebookLM master KB
+    log "Syncing today's curated findings to NotebookLM master KB..."
+    python3 "$RESEARCH_DIR/scripts/sync_to_notebooklm.py" --date "$TODAY" >> "$LOG_FILE" 2>&1 || log "NotebookLM sync encountered errors."
 
     # 10. Mark drop as bridged + move to processed
     has_breaking=0

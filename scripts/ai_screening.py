@@ -30,7 +30,7 @@ logging.basicConfig(
 WATCH_LIST = [
     "ChatGPT", "Codex", "Claude Desktop", "Claude Cowork", "Claude Code CLI",
     "Kimi", "Hermes", "OpenClaw", "Ollama", "Gemini", "NotebookLM", "Pi Coding Agent",
-    "GLM", "Minimax", "Qwen", "Wispr Flow", "Antigravity", "YouTube", "Telegram",
+    "GLM", "Minimax", "Qwen", "Wispr Flow", "Antigravity", "OpenHuman", "YouTube", "Telegram",
     "Obsidian", "Mem0", "Git", "GitHub", "Chrome", "Desktop Commander",
     "macOS", "Homebrew", "npm", "tmux", "iTerm2"
 ]
@@ -65,7 +65,7 @@ def get_api_key(name):
     return None
 
 def call_gemini(key, prompt):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={key}"
     headers = {"Content-Type": "application/json"}
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],

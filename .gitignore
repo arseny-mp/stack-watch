@@ -10,3 +10,14 @@
 .env.*
 .idea/
 .vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Daily execution folders
+20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]/
+processed/20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]*
+processed/*_empty/
+processed/memory/
+gem-output/

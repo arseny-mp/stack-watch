@@ -8,6 +8,10 @@ import logging
 import urllib.request
 import urllib.parse
 
+# Import NotebookLMClient
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+from notebooklm_client import NotebookLMClient
+
 # --- Configuration ---
 WORKSPACE_DIR = "/Users/user/Projects/Stack Watch"
 SUMMARY_DIR = "/Users/user/Projects/Project Instructions Template/project-status/_summary"
@@ -281,6 +285,83 @@ def handle_callback(token, callback):
         
     telegram_api_call(token, "editMessageText", payload)
 
+def handle_message(token, msg):
+    chat_id = msg.get("chat", {}).get("id")
+    text = msg.get("text", "")
+    message_id = msg.get("message_id")
+    
+    if not text or not chat_id:
+        return
+        
+    if text.startswith("/research "):
+        target = text[10:].strip()
+        logging.info(f"Received research command for: {target}")
+        
+        # Send initial status message
+        status_res = telegram_api_call(token, "sendMessage", {
+            "chat_id": chat_id,
+            "text": "🔍 <b>Запуск экспресс-исследования через NotebookLM...</b>\nЗагружаем источник и генерируем саммари.",
+            "parse_mode": "HTML",
+            "reply_to_message_id": message_id
+        })
+        status_msg_id = status_res.get("result", {}).get("message_id") if status_res else None
+        
+        client = NotebookLMClient()
+        try:
+            client.connect()
+            notebook_id = client.find_or_create_notebook("On-Demand Research")
+            
+            # Check if it's a URL
+            if target.startswith("http://") or target.startswith("https://"):
+                client.add_url(notebook_id, target)
+            else:
+                client.add_text(notebook_id, f"Query Research - {int(time.time())}", target)
+                
+            # Wait for ingestion
+            time.sleep(15)
+            
+            # Query the summary
+            summary = client.query_notebook(
+                notebook_id,
+                "Сделай подробный структурированный конспект этого источника на русском языке. Выдели ключевые мысли, новые термины/фичи и практические выводы для разработчика."
+            )
+            
+            # Send the final summary
+            if status_msg_id:
+                telegram_api_call(token, "editMessageText", {
+                    "chat_id": chat_id,
+                    "message_id": status_msg_id,
+                    "text": f"📋 <b>Результаты исследования:</b>\n\n{summary}",
+                    "parse_mode": "HTML"
+                })
+            else:
+                telegram_api_call(token, "sendMessage", {
+                    "chat_id": chat_id,
+                    "text": f"📋 <b>Результаты исследования:</b>\n\n{summary}",
+                    "parse_mode": "HTML",
+                    "reply_to_message_id": message_id
+                })
+                
+        except Exception as e:
+            logging.error(f"On-demand research failed: {e}")
+            error_msg = f"❌ <b>Ошибка исследования:</b> {str(e)}"
+            if status_msg_id:
+                telegram_api_call(token, "editMessageText", {
+                    "chat_id": chat_id,
+                    "message_id": status_msg_id,
+                    "text": error_msg,
+                    "parse_mode": "HTML"
+                })
+            else:
+                telegram_api_call(token, "sendMessage", {
+                    "chat_id": chat_id,
+                    "text": error_msg,
+                    "parse_mode": "HTML",
+                    "reply_to_message_id": message_id
+                })
+        finally:
+            client.disconnect()
+
 def main():
     logging.info("Starting Stack Watch Telegram Callback Gateway...")
     token = get_telegram_token()
@@ -296,7 +377,7 @@ def main():
             updates = telegram_api_call(token, "getUpdates", {
                 "offset": offset,
                 "timeout": 30,
-                "allowed_updates": ["callback_query"]
+                "allowed_updates": ["callback_query", "message"]
             })
             
             if updates and updates.get("ok"):
@@ -308,6 +389,10 @@ def main():
                     callback = update.get("callback_query")
                     if callback:
                         handle_callback(token, callback)
+                        
+                    msg = update.get("message")
+                    if msg:
+                        handle_message(token, msg)
             else:
                 logging.debug("No updates received.")
         except KeyboardInterrupt:

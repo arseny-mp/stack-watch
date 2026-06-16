@@ -409,6 +409,20 @@ if [[ -n "$WEEKLY_ROLLUP" ]]; then
   SLUGS_TO_SEND=""
 else
   MSG="$(build_message)"
+  # Collect slugs in parent shell to avoid subshell scoping issues
+  SLUGS_TO_SEND=""
+  for section in 'Do now (high confidence)' 'Experiment' 'Parking'; do
+    while IFS=$'\t' read -r slug title; do
+      if [[ -n "$slug" ]]; then
+        url="" touches="" severity="" tags=""
+        IFS=$'\t' read -r url touches severity tags < <(lookup_meta "$slug")
+        if [[ ${IMMEDIATE:-0} -eq 1 && "$severity" != "breaking/security" ]]; then
+          continue
+        fi
+        SLUGS_TO_SEND+="$slug "
+      fi
+    done < <(extract_section "$section")
+  done
 fi
 
 # Dry run mode exit

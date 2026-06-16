@@ -48,25 +48,27 @@ jobs:
         run: |
           python3 scripts/poll_feeds.py
 
-      - name: Upload Fact Base to Google Drive
+      - name: Run AI Noise Screening
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python3 scripts/ai_screening.py
+
+      - name: Run AI Curation
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python3 scripts/curate_findings.py
+
+      - name: Upload Daily Run Folder to Google Drive
         run: |
           TODAY=$(date '+%Y-%m-%d')
           if [[ -d "$TODAY" ]]; then
-            echo "Uploading today's raw feed updates to Google Drive..."
+            echo "Uploading today's daily run folder (feeds + curated findings) to Google Drive..."
             rclone copy "$TODAY" gdrive:"Stack Watch/raw-feed/$TODAY"
           else
-            echo "No daily directory found to upload raw feeds."
+            echo "No daily directory found to upload."
           fi
-
-      - name: Pull Curated Gem Output from Google Drive
-        run: |
-          TODAY=$(date '+%Y-%m-%d')
-          mkdir -p gem-output
-          rclone copy gdrive:"Stack Watch/gem-output/${TODAY}.md" gem-output/ || echo "No curated Gem output found for today. Proceeding with fallback."
-
-      - name: Run Curation Normalizer
-        run: |
-          python3 scripts/normalize_gem_output.py
 
       - name: Run Research Bridge
         env:
