@@ -76,7 +76,7 @@ def call_gemini(key, prompt):
     
     import time
     import urllib.error
-    for attempt in range(1, 4):
+    for attempt in range(1, 6):
         try:
             req = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers=headers, method="POST")
             with urllib.request.urlopen(req, timeout=30) as resp:
@@ -84,9 +84,9 @@ def call_gemini(key, prompt):
                 text = res["candidates"][0]["content"]["parts"][0]["text"]
                 return json.loads(text)
         except urllib.error.HTTPError as e:
-            if e.code in [429, 500, 503] and attempt < 3:
-                sleep_time = attempt * 5
-                logging.warning(f"Gemini API returned status {e.code}. Retrying in {sleep_time}s (attempt {attempt}/3)...")
+            if e.code in [429, 500, 503] and attempt < 5:
+                sleep_time = attempt * 30
+                logging.warning(f"Gemini API returned status {e.code}. Retrying in {sleep_time}s (attempt {attempt}/5)...")
                 time.sleep(sleep_time)
             else:
                 raise e
