@@ -200,7 +200,7 @@ def call_telegram_api(token, method, payload, files=None):
             
         parts.append(f"--{boundary}--")
         parts.append("")
-        body = "\n".join(parts).encode('utf-8')
+        body = "\r\n".join(parts).encode('utf-8')
         headers = {"Content-Type": f"multipart/form-data; boundary={boundary}"}
     else:
         # standard json payload
