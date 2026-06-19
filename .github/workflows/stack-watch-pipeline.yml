@@ -30,8 +30,13 @@ jobs:
       - name: Install Dependencies & rclone
         run: |
           python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
           sudo apt-get update
           sudo apt-get install -y rclone
+
+      - name: Run Pytest
+        run: |
+          python -m pytest tests/
 
       - name: Configure rclone
         env:
@@ -104,6 +109,14 @@ jobs:
           git add processed/seen_releases.json _seen-urls.txt index.html processed/updates-*.txt processed/email-*.txt || echo "No state files to add"
           git commit -m "chore: update seen cache, state, email and static dashboard [skip ci]" || echo "No state changes to commit"
           git push || echo "No changes to push"
+
+      - name: Deliver Failure Notification
+        if: failure()
+        env:
+          TELEGRAM_TOKEN_UPDATES: ${{ secrets.TELEGRAM_TOKEN_UPDATES }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python3 scripts/deliver_failure.py --run-id ${{ github.run_id }}
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3

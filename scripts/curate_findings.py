@@ -11,6 +11,7 @@ from datetime import datetime
 # Import NotebookLMClient
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from notebooklm_client import NotebookLMClient
+from models import CurationResult, CurationDetailsResult
 
 # --- Configuration ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -254,8 +255,13 @@ Respond with a JSON object matching the requested schema. Ensure all Russian tra
             logging.error(f"Gemini Curation Step 1 failed: {e}")
             sys.exit(1)
 
-        breaking_marker_detected = step1_result.get("breaking_marker_detected", False)
-        classification_map = {c["id"]: c for c in step1_result.get("classifications", [])}
+        try:
+            validated_result = CurationResult.model_validate(step1_result)
+            breaking_marker_detected = validated_result.breaking_marker_detected
+            classification_map = {c.id: c.model_dump() for c in validated_result.classifications}
+        except Exception as ve:
+            logging.error(f"Pydantic validation failed for CurationResult: {ve}")
+            sys.exit(1)
 
         for item in kept_candidates:
             orig_id = item["original_index"]
@@ -414,8 +420,15 @@ Respond with a JSON object matching the requested schema. Ensure all Russian tra
                     time.sleep(15) # Rate-limit guard delay (15s)
 
                 step2_result = call_gemini(api_key, step2_prompt, step2_schema)
+                
+                try:
+                    validated_details = CurationDetailsResult.model_validate(step2_result)
+                    findings_list = [f.model_dump() for f in validated_details.findings]
+                except Exception as ve:
+                    logging.error(f"Pydantic validation failed for CurationDetailsResult: {ve}")
+                    findings_list = step2_result.get("findings", [])
 
-                for item in step2_result.get("findings", []):
+                for item in findings_list:
                     slug = item.get("slug")
                     matching_finding = next((f for f in batch if f.get("slug") == slug), None)
                     verdict = matching_finding.get("verdict") if matching_finding else "parking"

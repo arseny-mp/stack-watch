@@ -31,60 +31,9 @@ fi
 
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" >> "$LOG_FILE"; }
 
-compile_weekly_rollup() {
-    local rollup_file="$RESEARCH_DIR/processed/weekly_rollup.txt"
-    mkdir -p "$(dirname "$rollup_file")"
-    
-    echo "📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>" > "$rollup_file"
-    echo "Период: за последние 7 дней" >> "$rollup_file"
-    echo "" >> "$rollup_file"
-    
-    # Find last 7 summaries in repo, preserving spaces in paths
-    local files=()
-    local old_ifs="$IFS"
-    IFS=$'\n'
-    files=($(find "$REPO_DIR/project-status/_summary" -name "*-stack-watch.md" 2>/dev/null | sort | tail -n 7 || echo ""))
-    IFS="$old_ifs"
-    
-    if [[ ${#files[@]} -eq 0 ]]; then
-        echo "<i>За прошедшую неделю обновлений не найдено.</i>" >> "$rollup_file"
-        return
-    fi
-    
-    for f in "${files[@]}"; do
-        local fname
-        fname=$(basename "$f")
-        local fdate="${fname%-stack-watch.md}"
-        
-        # Extract Do now and Experiment sections using stateful awk to avoid range pitfalls
-        local do_now exp
-        do_now=$(awk '{ gsub(/\r/, ""); clean = $0; gsub(/^[ \t*•-]+|[ \t]+$/, "", clean); } /^## Do now/ { active = 1; next } /^## / && active { active = 0 } active { if (clean != "" && clean != "(none)" && clean != "_(none)_") print $0 }' "$f" | sed -e 's/^- /  • /' || echo "")
-        exp=$(awk '{ gsub(/\r/, ""); clean = $0; gsub(/^[ \t*•-]+|[ \t]+$/, "", clean); } /^## Experiment/ { active = 1; next } /^## / && active { active = 0 } active { if (clean != "" && clean != "(none)" && clean != "_(none)_") print $0 }' "$f" | sed -e 's/^- /  • /' || echo "")
-        
-        if [[ -n "$do_now" || -n "$exp" ]]; then
-            echo "📅 <b>$fdate:</b>" >> "$rollup_file"
-            if [[ -n "$do_now" ]]; then
-                echo "  <b>Do now:</b>" >> "$rollup_file"
-                echo "$do_now" >> "$rollup_file"
-            fi
-            if [[ -n "$exp" ]]; then
-                echo "  <b>Experiment:</b>" >> "$rollup_file"
-                echo "$exp" >> "$rollup_file"
-            fi
-            echo "" >> "$rollup_file"
-        fi
-    done
-    
-    log "Compiled weekly rollup to $rollup_file"
-    python3 "$RESEARCH_DIR/scripts/deliver.py" --weekly-rollup "$rollup_file" >> "$LOG_FILE" 2>&1 || log "Failed to deliver weekly rollup."
-
-    log "Generating NotebookLM weekly Audio Overview (podcast)..."
-    python3 "$RESEARCH_DIR/scripts/generate_audio_overview.py" >> "$LOG_FILE" 2>&1 || log "Failed to generate weekly Audio Overview."
-}
-
 if [[ "${1:-}" == "--weekly" ]]; then
     log "=== bridge run start (weekly rollup mode) ==="
-    compile_weekly_rollup
+    python3 "$RESEARCH_DIR/scripts/compile_weekly.py" >> "$LOG_FILE" 2>&1 || log "Failed to compile weekly rollup via Python."
     log "=== bridge run end (weekly rollup) ==="
     exit 0
 fi
@@ -390,6 +339,12 @@ fi
 # 5. Static HTML Dashboard Generation
 log "Generating premium status dashboard..."
 python3 "$RESEARCH_DIR/scripts/generate_dashboard.py" >> "$LOG_FILE" 2>&1 || log "Dashboard generation encountered errors."
+
+# 6. Automatic Friday Weekly Rollup Trigger
+if [[ "$(date +%u)" -eq 5 ]]; then
+    log "It is Friday. Triggering automatic weekly rollup..."
+    python3 "$RESEARCH_DIR/scripts/compile_weekly.py" >> "$LOG_FILE" 2>&1 || log "Failed to compile weekly rollup automatically."
+fi
 
 log "=== bridge run end (ok) ==="
 exit 0
