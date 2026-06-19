@@ -67,35 +67,79 @@ def get_component_layer(touches):
     return 4
 
 def parse_summary_findings(summary_file, section_name):
-    if not os.path.exists(summary_file):
-        return []
-        
-    with open(summary_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-        
-    # Find the requested section (e.g., "## Do now" or "## Experiment")
-    pattern = rf"## {re.escape(section_name)}[\s\S]*?(?=## |\Z)"
-    match = re.search(pattern, content)
-    if not match:
-        return []
-        
-    section_content = match.group(0)
-    findings = []
+    daily_dir = os.path.dirname(summary_file)
+    log_additions_file = os.path.join(daily_dir, "log-additions.md")
     
-    # Match bullet lines like "- slug — Title"
-    for line in section_content.split('\n'):
-        line = line.strip()
-        if line.startswith("- "):
-            line = line[2:].strip()
-            # Split on em-dash or double-dash surrounded by spaces
-            parts = re.split(r'\s+(?:—|--)\s+', line, 1)
-            if len(parts) >= 2:
-                slug = parts[0].strip()
-                title = parts[1].strip()
-                if slug and not slug.startswith("_") and slug.lower() != "(none)" and slug.lower() != "(none)_":
-                    findings.append((slug, title))
+    if os.path.exists(log_additions_file):
+        findings = []
+        with open(log_additions_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line.startswith("|"):
+                    continue
+                parts = [p.strip() for p in line.split("|") if p.strip()]
+                if len(parts) < 2:
+                    continue
+                slug = parts[0]
+                verdict = parts[1].lower()
+                
+                # Check mapping
+                match = False
+                if section_name == "Do now (high confidence)" and verdict == "do now":
+                    match = True
+                elif section_name == "Experiment" and verdict == "experiment":
+                    match = True
+                elif section_name == "Parking" and verdict in ["parking", "parking lot"]:
+                    match = True
                     
-    return findings
+                if match:
+                    # Lookup title in external-research/{slug}.md
+                    research_dir = os.path.join(daily_dir, "external-research")
+                    fpath = os.path.join(research_dir, f"{slug}.md")
+                    title = slug
+                    if os.path.exists(fpath):
+                        with open(fpath, 'r', encoding='utf-8') as rf:
+                            for r_line in rf:
+                                r_line = r_line.strip()
+                                if not r_line:
+                                    continue
+                                if '\\n' in r_line:
+                                    r_line = r_line.split('\\n')[0].strip()
+                                if r_line.startswith("#"):
+                                    title = r_line[1:].strip()
+                                break
+                    findings.append((slug, title))
+        return findings
+    else:
+        if not os.path.exists(summary_file):
+            return []
+            
+        with open(summary_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+            
+        # Find the requested section (e.g., "## Do now" or "## Experiment")
+        pattern = rf"## {re.escape(section_name)}[\s\S]*?(?=## |\Z)"
+        match = re.search(pattern, content)
+        if not match:
+            return []
+            
+        section_content = match.group(0)
+        findings = []
+        
+        # Match bullet lines like "- slug — Title"
+        for line in section_content.split('\n'):
+            line = line.strip()
+            if line.startswith("- "):
+                line = line[2:].strip()
+                # Split on em-dash or double-dash surrounded by spaces
+                parts = re.split(r'\s+(?:—|--)\s+', line, 1)
+                if len(parts) >= 2:
+                    slug = parts[0].strip()
+                    title = parts[1].strip()
+                    if slug and not slug.startswith("_") and slug.lower() != "(none)" and slug.lower() != "(none)_":
+                        findings.append((slug, title))
+                        
+        return findings
 
 def lookup_metadata(research_dir, slug):
     fpath = os.path.join(research_dir, f"{slug}.md")
@@ -110,6 +154,9 @@ def lookup_metadata(research_dir, slug):
         
     with open(fpath, 'r', encoding='utf-8') as f:
         content = f.read()
+        
+    if '\\n' in content and '\n' not in content:
+        content = content.replace('\\n', '\n')
         
     url_match = re.search(r'\*\*Original URL:\*\*\s*(.*)', content)
     if url_match:
@@ -188,7 +235,37 @@ def format_findings_group(findings_list, research_dir, immediate_mode):
 
 def build_message(summary_file, research_dir, date_str, immediate_mode):
     stats = ""
-    if os.path.exists(summary_file):
+    daily_dir = os.path.dirname(summary_file)
+    log_additions_file = os.path.join(daily_dir, "log-additions.md")
+    
+    if os.path.exists(log_additions_file):
+        do_now_count = 0
+        experiment_count = 0
+        parking_count = 0
+        with open(log_additions_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line.startswith("|"):
+                    continue
+                parts = [p.strip() for p in line.split("|") if p.strip()]
+                if len(parts) < 2:
+                    continue
+                verdict = parts[1].lower()
+                if verdict == "do now":
+                    do_now_count += 1
+                elif verdict == "experiment":
+                    experiment_count += 1
+                elif verdict in ["parking", "parking lot"]:
+                    parking_count += 1
+        stats_parts = []
+        if do_now_count > 0:
+            stats_parts.append(f"do-now {do_now_count}")
+        if experiment_count > 0:
+            stats_parts.append(f"experiment {experiment_count}")
+        if parking_count > 0:
+            stats_parts.append(f"parking {parking_count}")
+        stats = ", ".join(stats_parts)
+    elif os.path.exists(summary_file):
         with open(summary_file, 'r', encoding='utf-8') as f:
             content = f.read()
             match = re.search(r'\*\*By verdict:\*\*\s*(.*)', content, re.IGNORECASE)

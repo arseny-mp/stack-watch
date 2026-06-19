@@ -645,16 +645,22 @@ Respond with a JSON object matching the requested schema. Ensure all Russian tra
         os.makedirs(research_dir, exist_ok=True)
         for finding in findings:
             filepath = os.path.join(research_dir, finding["filename"])
+            content = finding["content"]
+            if '\\n' in content and '\n' not in content:
+                content = content.replace('\\n', '\n')
             with open(filepath, 'w', encoding='utf-8') as f:
-                f.write(finding["content"])
+                f.write(content)
                 
     if memory_entries:
         mem_dir = os.path.join(daily_dir, "memory-entries")
         os.makedirs(mem_dir, exist_ok=True)
         for entry in memory_entries:
             filepath = os.path.join(mem_dir, entry["filename"])
+            content = entry["content"]
+            if '\\n' in content and '\n' not in content:
+                content = content.replace('\\n', '\n')
             with open(filepath, 'w', encoding='utf-8') as f:
-                f.write(entry["content"])
+                f.write(content)
                 
     if breaking_marker_detected:
         logging.info("Breaking marker detected! Creating breaking-marker file.")
