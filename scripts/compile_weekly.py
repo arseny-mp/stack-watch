@@ -126,6 +126,23 @@ def main():
     summary_dir = os.path.join(WORKSPACE_DIR, "project-status", "_summary")
     rollup_file = os.path.join(WORKSPACE_DIR, "processed", "weekly_rollup.txt")
     
+    # Sync from Google Drive if rclone is configured
+    try:
+        res = subprocess.run(["rclone", "listremotes"], capture_output=True, text=True)
+        if res.returncode == 0 and "gdrive:" in res.stdout:
+            logging.info("Syncing historical summaries from Google Drive via rclone...")
+            os.makedirs(summary_dir, exist_ok=True)
+            subprocess.run([
+                "rclone", "copy",
+                "gdrive:Stack Watch/knowledge-base/general/summaries",
+                summary_dir
+            ], check=True)
+            logging.info("Historical summaries synced successfully.")
+        else:
+            logging.warning("rclone or gdrive remote not configured. Skipping remote summary sync.")
+    except Exception as e:
+        logging.warning(f"Failed to sync summaries via rclone: {e}")
+        
     # Find last 7 daily summaries
     pattern = os.path.join(summary_dir, "*-stack-watch.*")
     summary_files = sorted(glob.glob(pattern))
@@ -147,7 +164,8 @@ def main():
     for fpath in last_7_files:
         fname = os.path.basename(fpath)
         # Extract date YYYY-MM-DD
-        fdate = fname.replace("-stack-watch.md", "")
+        date_match = re.match(r'^(\d{4}-\d{2}-\d{2})', fname)
+        fdate = date_match.group(1) if date_match else fname
         
         do_now, exp = parse_daily_summary_sections(fpath)
         

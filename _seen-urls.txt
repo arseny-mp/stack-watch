@@ -31,7 +31,6 @@ https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://festudio.net/agentpace/
 https://github.com/DeibyGS/claudestat
-https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/JeevanJoshi2061/titan_engine_core
@@ -44,7 +43,6 @@ https://github.com/StoneSteel27/AutomatiQ
 https://github.com/TeamDzX/myllm-connect
 https://github.com/ToxicPine/offloads
 https://github.com/amiinwani/whoburnedmore.com
-https://github.com/anthonystaiger8-bit/memory-model
 https://github.com/anthropics/claude-code/issues/16537
 https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
@@ -73,10 +71,8 @@ https://github.com/github/github-mcp-server/releases/tag/v1.1.0
 https://github.com/github/github-mcp-server/releases/tag/v1.1.1
 https://github.com/github/github-mcp-server/releases/tag/v1.1.2
 https://github.com/gnachman/iTerm2/releases/tag/v20260606-nightly
-https://github.com/gnachman/iTerm2/releases/tag/v3.7.0beta4
 https://github.com/idodekerobo/draft
 https://github.com/las7/memharness
-https://github.com/lobu-ai/lobu
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
 https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
@@ -116,9 +112,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.1
 https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2
 https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
-https://github.com/openclaw/openclaw/releases/tag/v2026.6.19-alpha.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
-https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-beta.1
 https://github.com/roandejager/Hillock
 https://github.com/sathish316/pi-omniagent-extensions/
 https://github.com/thegoodguysla/myco-brain
@@ -159,7 +153,6 @@ https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-mem
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
-https://signetai.sh/
 https://status.claude.com/incidents/xmhsglsz3h3w
 https://support.google.com/notebooklm/answer/16296687?hl=en
 https://support.google.com/notebooklm/answer/17003757?hl=en
@@ -178,11 +171,8 @@ https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/
 https://www.fintechextra.com/news/mem0-opencode-v012-automatic-coding-categories-now-live-607
 https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidance-plugin/
-https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
-https://www.npmjs.com/package/@connectai/selfhost
 https://www.npmjs.com/package/@mem0/cli
 https://www.refine.ink/blog/jemalloc-fragmentation
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
-https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline

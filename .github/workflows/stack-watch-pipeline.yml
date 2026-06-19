@@ -1,6 +1,9 @@
 name: Stack Watch Cloud Pipeline
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '30 9 * * *' # Daily at 09:30 UTC / 15:00 IST / 12:30 MSK
   workflow_dispatch: # Allows manual trigger via GitHub Web UI
@@ -106,7 +109,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add processed/seen_releases.json _seen-urls.txt index.html processed/updates-*.txt processed/email-*.txt || echo "No state files to add"
+          git add processed/seen_releases.json _seen-urls.txt index.html processed/weekly_rollup.txt processed/updates-*.txt processed/email-*.txt || echo "No state files to add"
           git commit -m "chore: update seen cache, state, email and static dashboard [skip ci]" || echo "No state changes to commit"
           git push || echo "No changes to push"
 
