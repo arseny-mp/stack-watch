@@ -39,9 +39,14 @@ def parse_summary_file(file_path):
     }
     
     # Extract Title / Date
-    title_match = re.search(r'#\s+Stack\s+Watch\s+—\s+(\d{4}-\d{2}-\d{2})', content)
+    title_match = re.search(r'#.*(\d{4}-\d{2}-\d{2})', content)
     if title_match:
         data["date"] = title_match.group(1)
+        
+    # Extract candidate counts from the Russian paragraph if present
+    sources_match = re.search(r'просканировано\s+(\d+)\s+источников', content, re.IGNORECASE)
+    if sources_match:
+        data["candidates"] = int(sources_match.group(1))
         
     # Parse metadata lines
     for line in lines:
@@ -67,7 +72,6 @@ def parse_summary_file(file_path):
                 match = re.match(r'([a-zA-Z\-]+)\s+(\d+)', p)
                 if match:
                     key = match.group(1).lower()
-                    # Map parking lot or other names to std keys
                     if "park" in key:
                         key = "parking"
                     elif "do" in key:
@@ -80,22 +84,59 @@ def parse_summary_file(file_path):
     current_section = None
     section_mapping = {
         "do now (high confidence)": "do_now",
+        "do now": "do_now",
+        "выводы, требующие немедленных действий (do now)": "do_now",
         "experiment": "experiment",
+        "эксперименты (experiment)": "experiment",
         "parking": "parking",
+        "на парковке (parking lot)": "parking",
         "unconfirmed / single domain (low confidence)": "unconfirmed",
-        "skipped": "skipped"
+        "skipped": "skipped",
+        "пропущенные обновления (skipped)": "skipped"
     }
     
+    # We will support both old format (- slug — Title) and new format (### {idx}. {title})
+    has_subheadings = {
+        "do_now": False,
+        "experiment": False,
+        "parking": False,
+        "unconfirmed": False,
+        "skipped": False
+    }
+    
+    # First pass: find headers and subheaders
     for line in lines:
         line_strip = line.strip()
         if line_strip.startswith("## "):
             section_name = line_strip.replace("## ", "").strip().lower()
             current_section = section_mapping.get(section_name)
-        elif current_section and line_strip.startswith("- "):
+        elif current_section and line_strip.startswith("### "):
+            has_subheadings[current_section] = True
+            title = re.sub(r'^\d+\.\s*', '', line_strip[4:]).strip()
+            if title and title != "(none)" and title != "_(none)_":
+                data["sections"][current_section].append(title)
+                
+    # Second pass: for sections with no subheadings, parse as bullet points (- item)
+    current_section = None
+    for line in lines:
+        line_strip = line.strip()
+        if line_strip.startswith("## "):
+            section_name = line_strip.replace("## ", "").strip().lower()
+            current_section = section_mapping.get(section_name)
+        elif current_section and line_strip.startswith("- ") and not has_subheadings.get(current_section, False):
             item_text = line_strip[2:].strip()
             if item_text and item_text != "(none)" and item_text != "_(none)_":
                 data["sections"][current_section].append(item_text)
                 
+    # Dynamically compute new findings and verdict counts if they were not parsed from metadata
+    total_findings = len(data["sections"]["do_now"]) + len(data["sections"]["experiment"]) + len(data["sections"]["parking"])
+    if data["new_findings"] == 0 and total_findings > 0:
+        data["new_findings"] = total_findings
+        data["verdicts"]["do-now"] = len(data["sections"]["do_now"])
+        data["verdicts"]["experiment"] = len(data["sections"]["experiment"])
+        data["verdicts"]["parking"] = len(data["sections"]["parking"])
+        data["verdicts"]["skip"] = len(data["sections"]["skipped"])
+        
     return data
 
 def parse_learnings(file_path):
