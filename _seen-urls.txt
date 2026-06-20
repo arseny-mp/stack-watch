@@ -14,6 +14,7 @@ https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
 https://claude.com/blog/artifacts-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
+https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
 https://code.claude.com/docs/en/changelog
@@ -45,8 +46,10 @@ https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.
 https://github.com/StoneSteel27/AutomatiQ
 https://github.com/TeamDzX/myllm-connect
 https://github.com/ToxicPine/offloads
+https://github.com/alex-reysa/glueRun-go
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/anthonystaiger8-bit/memory-model
+https://github.com/anthropics/claude-code/issues
 https://github.com/anthropics/claude-code/issues/16537
 https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
@@ -133,6 +136,7 @@ https://help.openai.com/en/articles/8590148-memory-faq
 https://help.openai.com/en/articles/9624314-model-release-notes
 https://hextrap.com/products/firewall/
 https://hyperbox.sh
+https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://joshlf.com/posts/memory-safety-life-and-death/
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://marktechpost.com
@@ -162,6 +166,7 @@ https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
 https://signetai.sh/
+https://simplybychris.github.io/antigravity-plugin-cc/
 https://status.claude.com/incidents/xmhsglsz3h3w
 https://support.google.com/notebooklm/answer/16296687?hl=en
 https://support.google.com/notebooklm/answer/17003757?hl=en
