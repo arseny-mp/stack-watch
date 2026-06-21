@@ -38,6 +38,7 @@ https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/JeevanJoshi2061/titan_engine_core
+https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
@@ -70,14 +71,18 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 https://github.com/anthropics/claude-code/releases/tag/v2.1.167
 https://github.com/desktop-commander/desktop-commander
+https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
 https://github.com/fabioconcina/claumon
+https://github.com/faisalishfaq2005/loopflow
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
 https://github.com/github/github-mcp-server/releases/tag/v1.1.0
 https://github.com/github/github-mcp-server/releases/tag/v1.1.1
 https://github.com/github/github-mcp-server/releases/tag/v1.1.2
 https://github.com/gnachman/iTerm2/releases/tag/v20260606-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260621-nightly
+https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
 https://github.com/jankdc/bote
 https://github.com/las7/memharness
@@ -95,6 +100,7 @@ https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/moorcheh-ai/memanto
 https://github.com/mupt-ai/relaymux
+https://github.com/nikitadoudikov/claude-pulse
 https://github.com/ollama/ollama/blob/main/docs/gpu.mdx
 https://github.com/ollama/ollama/issues/13942
 https://github.com/ollama/ollama/issues/16415
@@ -121,6 +127,9 @@ https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.1
 https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2
 https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
+https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
+https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
+https://github.com/openclaw/openclaw/releases/tag/v2026.6.20-alpha.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/roandejager/Hillock
@@ -128,6 +137,7 @@ https://github.com/sathish316/pi-omniagent-extensions/
 https://github.com/thegoodguysla/myco-brain
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
+https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 https://help.openai.com/en/articles/20001257
@@ -152,6 +162,9 @@ https://news.ycombinator.com/item?id=48259288
 https://news.ycombinator.com/item?id=48588022
 https://news.ycombinator.com/item?id=48588405
 https://news.ycombinator.com/item?id=48597861
+https://news.ycombinator.com/item?id=48610280
+https://news.ycombinator.com/item?id=48615488
+https://news.ycombinator.com/item?id=48619320
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
@@ -184,6 +197,7 @@ https://www.anthropic.com/news/claude-opus-4-8
 https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/
 https://www.fintechextra.com/news/mem0-opencode-v012-automatic-coding-categories-now-live-607
+https://www.forq.ink/
 https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidance-plugin/
 https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
