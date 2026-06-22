@@ -35,6 +35,7 @@ https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1
 https://festudio.net/agentpace/
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
+https://github.com/GLechevalier/nff
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/JeevanJoshi2061/titan_engine_core
@@ -44,6 +45,7 @@ https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
+https://github.com/Poi5eN/Nexus
 https://github.com/StoneSteel27/AutomatiQ
 https://github.com/TeamDzX/myllm-connect
 https://github.com/ToxicPine/offloads
@@ -70,6 +72,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.161
 https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 https://github.com/anthropics/claude-code/releases/tag/v2.1.167
+https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/desktop-commander/desktop-commander
 https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
@@ -82,6 +85,7 @@ https://github.com/github/github-mcp-server/releases/tag/v1.1.1
 https://github.com/github/github-mcp-server/releases/tag/v1.1.2
 https://github.com/gnachman/iTerm2/releases/tag/v20260606-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260621-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260622-nightly
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
 https://github.com/jankdc/bote
@@ -98,9 +102,11 @@ https://github.com/mem0ai/mem0/releases/tag/v2.0.4
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
+https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
 https://github.com/mupt-ai/relaymux
 https://github.com/nikitadoudikov/claude-pulse
+https://github.com/oleksiijko/pmb/blob/main/README.md
 https://github.com/ollama/ollama/blob/main/docs/gpu.mdx
 https://github.com/ollama/ollama/issues/13942
 https://github.com/ollama/ollama/issues/16415
@@ -131,6 +137,8 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.20-alpha.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
+https://github.com/patibandlavenkatamanideep/memoryops-ai
+https://github.com/raiyanyahya/recall
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/roandejager/Hillock
 https://github.com/sathish316/pi-omniagent-extensions/
@@ -148,7 +156,9 @@ https://hextrap.com/products/firewall/
 https://hyperbox.sh
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://joshlf.com/posts/memory-safety-life-and-death/
+https://keyghost.dev/
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
+https://llama-dash.dev
 https://marktechpost.com
 https://medium.com/@Koukyosyumei/how-claude-code-completely-broke-my-git-worktree-fc74effc9c4e
 https://medium.com/@developer_programmer/i-spent-47-000-on-claude-code-in-90-days-my-cto-asked-me-one-question-and-i-couldnt-answer-it-af3b203f81bb
@@ -165,6 +175,9 @@ https://news.ycombinator.com/item?id=48597861
 https://news.ycombinator.com/item?id=48610280
 https://news.ycombinator.com/item?id=48615488
 https://news.ycombinator.com/item?id=48619320
+https://news.ycombinator.com/item?id=48624168
+https://news.ycombinator.com/item?id=48624574
+https://octamem.com
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
@@ -175,17 +188,20 @@ https://release.bar
 https://releasebot.io/updates/openai
 https://research.openanalysis.net/claude/codex/hacking/ai%20hacking/llm/redteam/policy%20violation/2026/06/16/compromised-claude-hacking.html
 https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/
+https://rzhub.github.io/GateMem/project.html
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
 https://signetai.sh/
 https://simplybychris.github.io/antigravity-plugin-cc/
+https://status.claude.com/incidents/bbcpk0t2cj4p
 https://status.claude.com/incidents/xmhsglsz3h3w
 https://support.google.com/notebooklm/answer/16296687?hl=en
 https://support.google.com/notebooklm/answer/17003757?hl=en
 https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
 https://theaileverageweekly.com/posts/claude-vs-chatgpt-for-code-review-which-is-better.html
+https://thenewstack.io/agentjacking-sentry-mcp-attack/
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
 https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins
 https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
@@ -202,8 +218,10 @@ https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidan
 https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
+https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@mem0/cli
 https://www.refine.ink/blog/jemalloc-fragmentation
 https://www.sqim.dev/
+https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
