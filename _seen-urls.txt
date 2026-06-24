@@ -12,11 +12,13 @@ https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
+https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://claude.com/blog/artifacts-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
+https://cloudcode.one/
 https://code.claude.com/docs/en/changelog
 https://code.claude.com/docs/en/monitoring-usage
 https://code.claude.com/docs/en/security-guidance
@@ -33,6 +35,7 @@ https://devloop.sh
 https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://downdetector.com.br/en/status/claude-ai/
+https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://festudio.net/agentpace/
 https://github.com/Alfredvc/aharness
 https://github.com/DeibyGS/claudestat
@@ -42,6 +45,7 @@ https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/KarelTestSpecial/real-agent-setup
+https://github.com/KerryRitter/parley
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
@@ -50,6 +54,7 @@ https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.
 https://github.com/Perufitlife/awesome-backend-security
 https://github.com/Poi5eN/Nexus
 https://github.com/Pupok462/open-geo
+https://github.com/SaravananJaichandar/world-model-mcp
 https://github.com/StoneSteel27/AutomatiQ
 https://github.com/TeamDzX/myllm-connect
 https://github.com/ToxicPine/offloads
@@ -82,6 +87,7 @@ https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
 https://github.com/fabioconcina/claumon
 https://github.com/faisalishfaq2005/loopflow
+https://github.com/freestyle-voice/freestyle
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
 https://github.com/github/github-mcp-server/releases/tag/v1.1.0
@@ -93,6 +99,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260622-nightly
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
 https://github.com/jankdc/bote
+https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
@@ -150,12 +157,14 @@ https://github.com/raiyanyahya/recall
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/roandejager/Hillock
 https://github.com/sathish316/pi-omniagent-extensions/
+https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/thegoodguysla/myco-brain
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
 https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
+https://github.com/xltvy/openclaw-memgpt
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 https://help.openai.com/en/articles/20001257
 https://help.openai.com/en/articles/6825453-chatgpt-release-notes
@@ -187,12 +196,14 @@ https://news.ycombinator.com/item?id=48615488
 https://news.ycombinator.com/item?id=48619320
 https://news.ycombinator.com/item?id=48624168
 https://news.ycombinator.com/item?id=48624574
+https://news.ycombinator.com/item?id=48659617
 https://octamem.com
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://parametric-memory.dev
 https://parcle.ai/
+https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
 https://pypi.org/project/subagent-fleet/
 https://release.bar
@@ -236,6 +247,7 @@ https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-power
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@mem0/cli
 https://www.refine.ink/blog/jemalloc-fragmentation
+https://www.sipp.sh
 https://www.sqim.dev/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
