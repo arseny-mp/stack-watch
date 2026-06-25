@@ -37,9 +37,12 @@ https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1
 https://downdetector.com.br/en/status/claude-ai/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://festudio.net/agentpace/
+https://fixyourdocs.io/
 https://github.com/Alfredvc/aharness
+https://github.com/CelestoAI/smolfs
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
+https://github.com/Elpulgo/polysbx
 https://github.com/GLechevalier/nff
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
@@ -58,6 +61,7 @@ https://github.com/SaravananJaichandar/world-model-mcp
 https://github.com/StoneSteel27/AutomatiQ
 https://github.com/TeamDzX/myllm-connect
 https://github.com/ToxicPine/offloads
+https://github.com/Watari995/cc-preview
 https://github.com/alex-reysa/glueRun-go
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/anthonystaiger8-bit/memory-model
@@ -81,7 +85,9 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.161
 https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 https://github.com/anthropics/claude-code/releases/tag/v2.1.167
+https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 https://github.com/arsenis-cmd/clai-benchmarks
+https://github.com/bhpark1013/claudenews
 https://github.com/desktop-commander/desktop-commander
 https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
@@ -112,6 +118,7 @@ https://github.com/mem0ai/mem0/releases/tag/v2.0.3
 https://github.com/mem0ai/mem0/releases/tag/v2.0.4
 https://github.com/miopea/swarm
 https://github.com/mirko-pira/skillhealth
+https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
@@ -132,6 +139,7 @@ https://github.com/ollama/ollama/releases/tag/v0.30.0-rc31
 https://github.com/ollama/ollama/releases/tag/v0.30.1-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.10-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1
+https://github.com/ollama/ollama/releases/tag/v0.30.11-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.2
 https://github.com/ollama/ollama/releases/tag/v0.30.5
 https://github.com/ollama/ollama/releases/tag/v0.30.7-rc0
@@ -149,6 +157,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
+https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.20-alpha.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
 https://github.com/openwong2kim/wlog
@@ -156,6 +165,7 @@ https://github.com/patibandlavenkatamanideep/memoryops-ai
 https://github.com/raiyanyahya/recall
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/roandejager/Hillock
+https://github.com/rondoflow/rondoflow
 https://github.com/sathish316/pi-omniagent-extensions/
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
@@ -165,6 +175,7 @@ https://github.com/waldekmastykarz/atifact
 https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
 https://github.com/xltvy/openclaw-memgpt
+https://github.com/yonk-labs/claude-session-analyzer
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 https://help.openai.com/en/articles/20001257
 https://help.openai.com/en/articles/6825453-chatgpt-release-notes
@@ -197,6 +208,8 @@ https://news.ycombinator.com/item?id=48619320
 https://news.ycombinator.com/item?id=48624168
 https://news.ycombinator.com/item?id=48624574
 https://news.ycombinator.com/item?id=48659617
+https://news.ycombinator.com/item?id=48675641
+https://news.ycombinator.com/item?id=48676372
 https://octamem.com
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://openai.com/index/chatgpt-memory-dreaming/
@@ -205,6 +218,7 @@ https://parametric-memory.dev
 https://parcle.ai/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
+https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
 https://release.bar
 https://releasebot.io/updates/openai
@@ -240,6 +254,8 @@ https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/
 https://www.fintechextra.com/news/mem0-opencode-v012-automatic-coding-categories-now-live-607
 https://www.forq.ink/
+https://www.fredrin.dev
+https://www.getmycelium.net/
 https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidance-plugin/
 https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
