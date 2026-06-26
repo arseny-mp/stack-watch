@@ -30,9 +30,9 @@ logging.basicConfig(
 WATCH_LIST = [
     "ChatGPT", "Codex", "Claude Desktop", "Claude Cowork", "Claude Code CLI",
     "Kimi", "Hermes", "OpenClaw", "Ollama", "Gemini", "NotebookLM", "Pi Coding Agent",
-    "GLM", "Minimax", "Qwen", "Wispr Flow", "Antigravity", "OpenHuman", "YouTube", "Telegram",
+    "GLM 5.2", "minimax M3", "Qwen", "Wispr Flow", "Antigravity", "OpenHuman", "GhosteX", "YouTube", "Telegram",
     "Obsidian", "Mem0", "Git", "GitHub", "Chrome", "Desktop Commander",
-    "macOS", "Homebrew", "npm", "tmux", "iTerm2"
+    "macOS", "Homebrew", "npm", "tmux", "iTerm2", "ghostty"
 ]
 
 SKIP_LIST = [

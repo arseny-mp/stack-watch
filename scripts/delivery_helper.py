@@ -12,13 +12,13 @@ def get_component_layer(touches):
     # Layer 1: AI Agents & LLMs
     ai_components = [
         "CHATGPT", "CODEX", "CLAUDE", "KIMI", "HERMES", "OPENCLAW", "OLLAMA",
-        "GEMINI", "NOTEBOOKLM", "PI", "GLM", "MINIMAX", "QWEN", "WISPR", "ANTIGRAVITY"
+        "GEMINI", "NOTEBOOKLM", "PI", "GLM", "MINIMAX", "QWEN", "WISPR", "ANTIGRAVITY", "GHOSTEX"
     ]
     if any(comp in touches_upper for comp in ai_components):
         return 1
         
     # Layer 2: Local Dev Environment
-    dev_components = ["OBSIDIAN", "CHROME", "MACOS", "HOMEBREW", "NPM", "TMUX", "ITERM"]
+    dev_components = ["OBSIDIAN", "CHROME", "MACOS", "HOMEBREW", "NPM", "TMUX", "ITERM", "GHOSTTY"]
     if any(comp in touches_upper for comp in dev_components):
         return 2
         

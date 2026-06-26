@@ -10,7 +10,7 @@ We have a fixed tech stack (section 2). Content about anything in that stack is 
 
 ## 2. Our tech stack (the watch list)
 
-**AI execution tools (17):**
+**AI execution tools (18):**
 
 1. **ChatGPT** (Plus / Pro) — used as the prompt-generation / coordinator layer.
 2. **Codex** (OpenAI CLI) — coding agent on the command line.
@@ -23,30 +23,32 @@ We have a fixed tech stack (section 2). Content about anything in that stack is 
 9. **Gemini** (web, Pro) — used directly and as a bridge to NotebookLM.
 10. **NotebookLM** — knowledge staging layer.
 11. **Pi Coding Agent** — personal developer agent assistant.
-12. **GLM** — Zhipu AI GLM model family and coding assistants.
-13. **Minimax** — MiniMax AI models and developer interfaces.
+12. **GLM 5.2** — Zhipu AI GLM model family and coding assistants.
+13. **minimax M3** — MiniMax AI models and developer interfaces.
 14. **Qwen** — Alibaba Qwen model family and developer tools.
 15. **Wispr Flow** — voice dictation and AI productivity writing tool.
 16. **Antigravity** — agentic AI coding assistant and research executor.
 17. **OpenHuman** — persistent personal AI assistant (developed by Tiny Humans).
+18. **GhosteX** — developer assistant and execution agent.
 
 **Input / output channels (2):**
 
-18. **YouTube** — primary news input (transcripts evaluated against the rubric in section 4).
-19. **Telegram** — output channel for notifications.
+19. **YouTube** — primary news input (transcripts evaluated against the rubric in section 4).
+20. **Telegram** — output channel for notifications.
 
-**Infra layer (8):**
+**Infra layer (9):**
 
-20. **Obsidian** — markdown knowledge bases rendered as vaults.
-21. **Mem0** — vector memory (postgres + pgvector + Ollama embeddings).
-22. **Git / GitHub** — four product repos in active development.
-23. **Chrome** — browser, including the Claude Chrome extension for browser-bridge automation.
-24. **Desktop Commander** — terminal MCP for operations outside the Cowork sandbox.
-25. **macOS / Homebrew / npm** — base operating system and package managers.
-26. **tmux** — terminal multiplexer for session persistence.
-27. **iTerm2** — terminal emulator for macOS.
+21. **Obsidian** — markdown knowledge bases rendered as vaults.
+22. **Mem0** — vector memory (postgres + pgvector + Ollama embeddings).
+23. **Git / GitHub** — four product repos in active development.
+24. **Chrome** — browser, including the Claude Chrome extension for browser-bridge automation.
+25. **Desktop Commander** — terminal MCP for operations outside the Cowork sandbox.
+26. **macOS / Homebrew / npm** — base operating system and package managers.
+27. **tmux** — terminal multiplexer for session persistence.
+28. **iTerm2** — terminal emulator for macOS.
+29. **ghostty** — terminal emulator for macOS.
 
-Any feature release, integration pattern, workflow optimization, pricing change, or limit change touching one of these 27 components is in-scope.
+Any feature release, integration pattern, workflow optimization, pricing change, or limit change touching one of these 29 components is in-scope.
 
 ## 3. Out of scope (auto-skip)
 

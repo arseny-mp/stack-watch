@@ -69,11 +69,11 @@ To allow the downstream Telegram delivery bot (Hermes) to send notifications dir
 
 ---
 
-## 4. Tech Stack Watch List (27 Components)
+## 4. Tech Stack Watch List (29 Components)
 Refer to the master list in `/Users/user/Projects/Research/_rubric.md` for specific criteria. The stack covers:
-- **AI execution tools (17):** ChatGPT, Codex, Claude Cowork, Claude Code CLI, Kimi, Hermes, OpenClaw, Ollama, Gemini, NotebookLM, Pi Coding Agent, GLM, Minimax, Qwen, Wispr Flow, Antigravity, OpenHuman.
+- **AI execution tools (18):** ChatGPT, Codex, Claude Cowork, Claude Code CLI, Kimi, Hermes, OpenClaw, Ollama, Gemini, NotebookLM, Pi Coding Agent, GLM 5.2, minimax M3, Qwen, Wispr Flow, Antigravity, OpenHuman, GhosteX.
 - **Input/Output channels (2):** YouTube, Telegram.
-- **Infra layer (8):** Obsidian, Mem0, Git/GitHub, Chrome, Desktop Commander, macOS/Homebrew/npm, tmux, iTerm2.
+- **Infra layer (9):** Obsidian, Mem0, Git/GitHub, Chrome, Desktop Commander, macOS/Homebrew/npm, tmux, iTerm2, ghostty.
 
 ---
 

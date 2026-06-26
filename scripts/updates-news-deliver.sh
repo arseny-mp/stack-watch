@@ -121,9 +121,9 @@ html_escape() {
 get_component_layer() {
   local touches="$1"
   case "$touches" in
-    *ChatGPT*|*Codex*|*Claude*|*Kimi*|*Hermes*|*OpenClaw*|*Ollama*|*Gemini*|*NotebookLM*|*Pi*|*GLM*|*Minimax*|*Qwen*|*Wispr*|*Antigravity*)
+    *ChatGPT*|*Codex*|*Claude*|*Kimi*|*Hermes*|*OpenClaw*|*Ollama*|*Gemini*|*NotebookLM*|*Pi*|*GLM*|*glm*|*Minimax*|*minimax*|*Qwen*|*Wispr*|*Antigravity*|*GhosteX*|*ghosteX*|*Ghostex*|*ghostex*)
       echo "1" ;;
-    *Obsidian*|*Chrome*|*macOS*|*Homebrew*|*npm*|*tmux*|*iTerm2*)
+    *Obsidian*|*Chrome*|*macOS*|*Homebrew*|*npm*|*tmux*|*iTerm2*|*ghostty*|*Ghostty*)
       echo "2" ;;
     *Mem0*|*Desktop*|*Git*)
       echo "3" ;;
