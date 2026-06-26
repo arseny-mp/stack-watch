@@ -44,12 +44,15 @@ https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Elpulgo/polysbx
 https://github.com/GLechevalier/nff
+https://github.com/GhetauTudor/esi
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/KerryRitter/parley
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
+https://github.com/MatteoLeonesi/claim-memory-graph-sdk
+https://github.com/MerqryLabs/ai-crawler-visibility
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
@@ -88,6 +91,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.167
 https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/bhpark1013/claudenews
+https://github.com/cheapsteak/tbd
 https://github.com/desktop-commander/desktop-commander
 https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
@@ -102,6 +106,7 @@ https://github.com/github/github-mcp-server/releases/tag/v1.1.2
 https://github.com/gnachman/iTerm2/releases/tag/v20260606-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260621-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260622-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
 https://github.com/jankdc/bote
@@ -122,6 +127,7 @@ https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
+https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
 https://github.com/mupt-ai/relaymux
@@ -174,6 +180,7 @@ https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
 https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
+https://github.com/workweave/router
 https://github.com/xltvy/openclaw-memgpt
 https://github.com/yonk-labs/claude-session-analyzer
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
@@ -197,6 +204,7 @@ https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-co
 https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-loop
 https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
+https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/
 https://news.ycombinator.com/item?id=123456
 https://news.ycombinator.com/item?id=48259288
 https://news.ycombinator.com/item?id=48588022
@@ -210,6 +218,8 @@ https://news.ycombinator.com/item?id=48624574
 https://news.ycombinator.com/item?id=48659617
 https://news.ycombinator.com/item?id=48675641
 https://news.ycombinator.com/item?id=48676372
+https://news.ycombinator.com/item?id=48683139
+https://novakit.tech/
 https://octamem.com
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://openai.com/index/chatgpt-memory-dreaming/
@@ -218,11 +228,13 @@ https://parametric-memory.dev
 https://parcle.ai/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
+https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/
 https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
 https://release.bar
 https://releasebot.io/updates/openai
 https://research.openanalysis.net/claude/codex/hacking/ai%20hacking/llm/redteam/policy%20violation/2026/06/16/compromised-claude-hacking.html
+https://rondoflow.app/
 https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/
 https://rzhub.github.io/GateMem/project.html
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
@@ -243,13 +255,16 @@ https://thenewstack.io/agentjacking-sentry-mcp-attack/
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
 https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins
 https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
+https://verity.md
 https://verity.md/
+https://vnoc.vercel.app/project/claudecode
 https://withwillow.ai/platform/claude-policy-ranger
 https://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html
 https://www.aaron-gustafson.com/notebook/2026-06-17-llm-biased-against-accessible-code/
 https://www.androidauthority.com/chatgpt-4-5-o3-retired-3672713/
 https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
 https://www.anthropic.com/news/claude-opus-4-8
+https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/
 https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/
 https://www.fintechextra.com/news/mem0-opencode-v012-automatic-coding-categories-now-live-607
@@ -263,6 +278,7 @@ https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-power
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@mem0/cli
 https://www.refine.ink/blog/jemalloc-fragmentation
+https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
 https://www.sipp.sh
 https://www.sqim.dev/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
