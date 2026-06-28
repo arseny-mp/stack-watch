@@ -38,6 +38,7 @@ https://downdetector.com.br/en/status/claude-ai/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://festudio.net/agentpace/
 https://fixyourdocs.io/
+https://github.com/AkuchiS/yap
 https://github.com/Alfredvc/aharness
 https://github.com/CelestoAI/smolfs
 https://github.com/DeibyGS/claudestat
@@ -110,6 +111,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
 https://github.com/jankdc/bote
+https://github.com/kageroumado/adrafinil
 https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
@@ -174,6 +176,7 @@ https://github.com/raphaelwkago-sketch/rudi
 https://github.com/roandejager/Hillock
 https://github.com/rondoflow/rondoflow
 https://github.com/sathish316/pi-omniagent-extensions/
+https://github.com/shirozuki/claude-cli
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/thegoodguysla/myco-brain
@@ -243,6 +246,7 @@ https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
 https://signetai.sh/
+https://signoz.io/blog/claude-code-model-comparison/
 https://simplybychris.github.io/antigravity-plugin-cc/
 https://status.claude.com/incidents/bbcpk0t2cj4p
 https://status.claude.com/incidents/jbhf20wjmzrf
