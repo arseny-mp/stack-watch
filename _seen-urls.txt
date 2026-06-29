@@ -16,6 +16,7 @@ https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://claude.com/blog/artifacts-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
+https://claude.com/docs/connectors/google/gmail
 https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
 https://cloudcode.one/
@@ -35,6 +36,7 @@ https://devloop.sh
 https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://downdetector.com.br/en/status/claude-ai/
+https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://festudio.net/agentpace/
 https://fixyourdocs.io/
@@ -94,10 +96,12 @@ https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/bhpark1013/claudenews
 https://github.com/cheapsteak/tbd
 https://github.com/desktop-commander/desktop-commander
+https://github.com/edonadei/caliper
 https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
 https://github.com/fabioconcina/claumon
 https://github.com/faisalishfaq2005/loopflow
+https://github.com/fashton28/mux
 https://github.com/freestyle-voice/freestyle
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
@@ -111,10 +115,14 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
 https://github.com/jankdc/bote
+https://github.com/joanseg/specmanager
 https://github.com/kageroumado/adrafinil
+https://github.com/kolegadev/Katra-Agentic-Memory
+https://github.com/kuberwastaken/reference
 https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
+https://github.com/loopedautomation/whisper
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
 https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
@@ -123,12 +131,14 @@ https://github.com/mem0ai/mem0/releases/tag/opencode-v0.2.0
 https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.6
 https://github.com/mem0ai/mem0/releases/tag/v2.0.3
 https://github.com/mem0ai/mem0/releases/tag/v2.0.4
+https://github.com/mindmuxai/brain.md
 https://github.com/miopea/swarm
 https://github.com/mirko-pira/skillhealth
 https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
+https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
 https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
@@ -149,6 +159,7 @@ https://github.com/ollama/ollama/releases/tag/v0.30.10-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1
 https://github.com/ollama/ollama/releases/tag/v0.30.11-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.11-rc1
+https://github.com/ollama/ollama/releases/tag/v0.30.12-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.2
 https://github.com/ollama/ollama/releases/tag/v0.30.5
 https://github.com/ollama/ollama/releases/tag/v0.30.7-rc0
@@ -179,8 +190,10 @@ https://github.com/sathish316/pi-omniagent-extensions/
 https://github.com/shirozuki/claude-cli
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
+https://github.com/superalp1985/fame-knowledge-agent-gateway
 https://github.com/thegoodguysla/myco-brain
 https://github.com/tmux/tmux/releases/tag/3.7
+https://github.com/tomreinert/claude-annotate
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
 https://github.com/woladi/macos-vision-mcp
@@ -204,6 +217,7 @@ https://llama-dash.dev
 https://marktechpost.com
 https://medium.com/@Koukyosyumei/how-claude-code-completely-broke-my-git-worktree-fc74effc9c4e
 https://medium.com/@developer_programmer/i-spent-47-000-on-claude-code-in-90-days-my-cto-asked-me-one-question-and-i-couldnt-answer-it-af3b203f81bb
+https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memory-attacks-33b91c382f40
 https://medium.com/zerogpu/how-to-reduce-ai-compute-costs-with-our-claude-code-plugin-routing-lightweight-ai-tasks-to-small-2a265e19c699
 https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-command
 https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-loop
@@ -224,6 +238,7 @@ https://news.ycombinator.com/item?id=48659617
 https://news.ycombinator.com/item?id=48675641
 https://news.ycombinator.com/item?id=48676372
 https://news.ycombinator.com/item?id=48683139
+https://news.ycombinator.com/item?id=48719260
 https://novakit.tech/
 https://octamem.com
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
@@ -233,6 +248,7 @@ https://parametric-memory.dev
 https://parcle.ai/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
+https://pmbai.dev
 https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/
 https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
