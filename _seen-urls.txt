@@ -7,11 +7,13 @@ https://ai.google.dev/gemini-api/docs/changelog
 https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
 https://aicommander.dev/
 https://aiweekly.co
+https://ama2.me/
 https://apicalculators.com/
 https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
+https://capacitor.kurrent.io/
 https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://claude.com/blog/artifacts-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
@@ -21,6 +23,7 @@ https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
 https://cloudcode.one/
 https://code.claude.com/docs/en/changelog
+https://code.claude.com/docs/en/desktop-linux
 https://code.claude.com/docs/en/monitoring-usage
 https://code.claude.com/docs/en/security-guidance
 https://code.claude.com/docs/en/settings
@@ -40,6 +43,7 @@ https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://festudio.net/agentpace/
 https://fixyourdocs.io/
+https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://github.com/AkuchiS/yap
 https://github.com/Alfredvc/aharness
 https://github.com/CelestoAI/smolfs
@@ -75,6 +79,7 @@ https://github.com/anthropics/claude-code/issues
 https://github.com/anthropics/claude-code/issues/16537
 https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
+https://github.com/anthropics/claude-code/issues/62476
 https://github.com/anthropics/claude-code/issues/63498
 https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 https://github.com/anthropics/claude-code/releases/tag/v2.1.148
@@ -94,7 +99,10 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.167
 https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/bhpark1013/claudenews
+https://github.com/bloomberg/memray
 https://github.com/cheapsteak/tbd
+https://github.com/cloudkj/llayer
+https://github.com/d0nmega/donnyclaude
 https://github.com/desktop-commander/desktop-commander
 https://github.com/edonadei/caliper
 https://github.com/ethanhq/cc-fleet
@@ -103,6 +111,7 @@ https://github.com/fabioconcina/claumon
 https://github.com/faisalishfaq2005/loopflow
 https://github.com/fashton28/mux
 https://github.com/freestyle-voice/freestyle
+https://github.com/ggml-org/llama.cpp/pull/24219
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
 https://github.com/github/github-mcp-server/releases/tag/v1.1.0
@@ -117,6 +126,7 @@ https://github.com/idodekerobo/draft
 https://github.com/jankdc/bote
 https://github.com/joanseg/specmanager
 https://github.com/kageroumado/adrafinil
+https://github.com/kmcheung12/second-opinion
 https://github.com/kolegadev/Katra-Agentic-Memory
 https://github.com/kuberwastaken/reference
 https://github.com/lambda-alpha-labs/Graphenium
@@ -166,6 +176,7 @@ https://github.com/ollama/ollama/releases/tag/v0.30.7-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.9-rc0
 https://github.com/ollama/ollama/releases/tag/v0.30.9-rc1
 https://github.com/ollama/ollama/releases/tag/v0.30.9-rc2
+https://github.com/ollama/ollama/releases/tag/v0.31.0
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
@@ -177,10 +188,12 @@ https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
+https://github.com/openclaw/openclaw/releases/tag/v2026.6.11
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.20-alpha.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
 https://github.com/openwong2kim/wlog
+https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
 https://github.com/raiyanyahya/recall
 https://github.com/raphaelwkago-sketch/rudi
@@ -192,13 +205,16 @@ https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
 https://github.com/thegoodguysla/myco-brain
+https://github.com/tigerless-labs/autoharness
 https://github.com/tmux/tmux/releases/tag/3.7
 https://github.com/tomreinert/claude-annotate
+https://github.com/valmishq/valmis
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
 https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
 https://github.com/workweave/router
+https://github.com/wtfwhs/tengu-decoded
 https://github.com/xltvy/openclaw-memgpt
 https://github.com/yonk-labs/claude-session-analyzer
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
@@ -256,6 +272,7 @@ https://release.bar
 https://releasebot.io/updates/openai
 https://research.openanalysis.net/claude/codex/hacking/ai%20hacking/llm/redteam/policy%20violation/2026/06/16/compromised-claude-hacking.html
 https://rondoflow.app/
+https://runtimewire.com/article/claude-code-s-hidden-china-signal
 https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/
 https://rzhub.github.io/GateMem/project.html
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
@@ -264,6 +281,7 @@ https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integra
 https://signetai.sh/
 https://signoz.io/blog/claude-code-model-comparison/
 https://simplybychris.github.io/antigravity-plugin-cc/
+https://solid.tech
 https://status.claude.com/incidents/bbcpk0t2cj4p
 https://status.claude.com/incidents/jbhf20wjmzrf
 https://status.claude.com/incidents/xmhsglsz3h3w
@@ -274,7 +292,10 @@ https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
 https://theaileverageweekly.com/posts/claude-vs-chatgpt-for-code-review-which-is-better.html
 https://thenewstack.io/agentjacking-sentry-mcp-attack/
+https://thereallo.dev/blog/claude-code-prompt-steganography
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
+https://twitter.com/IntCyberDigest/status/2071971609183678544
+https://twitter.com/samelldev/status/2070213157357072794
 https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins
 https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
 https://verity.md
@@ -306,3 +327,4 @@ https://www.sqim.dev/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
+https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
