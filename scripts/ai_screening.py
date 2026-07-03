@@ -65,7 +65,7 @@ def get_api_key(name):
     return None
 
 def call_gemini(key, prompt):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={key}"
     headers = {"Content-Type": "application/json"}
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -79,14 +79,28 @@ def call_gemini(key, prompt):
     for attempt in range(1, 6):
         try:
             req = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers=headers, method="POST")
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=180) as resp:
                 res = json.loads(resp.read().decode('utf-8'))
                 text = res["candidates"][0]["content"]["parts"][0]["text"]
                 return json.loads(text)
-        except urllib.error.HTTPError as e:
-            if e.code in [429, 500, 503] and attempt < 5:
+        except Exception as e:
+            is_retryable = False
+            error_msg = str(e)
+            
+            if isinstance(e, urllib.error.HTTPError):
+                if e.code in [429, 500, 503]:
+                    is_retryable = True
+                    error_msg = f"HTTP {e.code}"
+            elif isinstance(e, (urllib.error.URLError, TimeoutError)):
+                is_retryable = True
+                error_msg = f"Network/Timeout ({e})"
+            elif "timeout" in error_msg.lower() or "timed out" in error_msg.lower():
+                is_retryable = True
+                error_msg = f"Timeout error ({e})"
+                
+            if is_retryable and attempt < 5:
                 sleep_time = attempt * 30
-                logging.warning(f"Gemini API returned status {e.code}. Retrying in {sleep_time}s (attempt {attempt}/5)...")
+                logging.warning(f"Gemini API error: {error_msg}. Retrying in {sleep_time}s (attempt {attempt}/5)...")
                 time.sleep(sleep_time)
             else:
                 raise e
