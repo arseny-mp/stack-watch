@@ -1,14 +1,9 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-06-26:</b>
+📅 <b>2026-07-03:</b>
   <b>Experiment:</b>
-  • Release v20260626-nightly: Add advanced setting to open tmux windows and tabs in the background — Включить расширенную настройку в iTerm2 для открытия окон и вкладок tmux в фоновом режиме и оценить влияние на удобство работы. (~1 час)
-  • HN: Show HN: Smart model routing directly in Claude, Codex and Cursor — Изучить возможность интеграции "router" для одной из цепочек Claude Code CLI или Codex, чтобы оценить повышение эффективности маршрутизации моделей. Оценить влияние на скорость и точность выполнения задач. (~2 часа)
-  • HN: Show HN: Novakit.tech – pre-built Claude Code skills, no prompting required — Изучить набор "готовых навыков" Novakit.tech и протестировать один из них на одной из наших цепочек Claude Code CLI, чтобы оценить его эффективность и простоту интеграции. (~1.5 часа)
-  • HN: Show HN: Git-lazy-mount mount a repo without cloning it. Works with ordinary Git — Протестировать Git-lazy-mount на одном из менее критичных репозиториев для оценки его стабильности и прироста производительности при работе с большими кодовыми базами. (~1 час)
-  • HN: I made a Claude Code session manager for tmux — Изучить предложенный менеджер сессий и попробовать интегрировать его в один из наших рабочих потоков с Claude Code CLI и tmux для оценки улучшения управления сессиями. (~1.5 часа)
-  • HN: I made a Claude Code skill to check if AI crawlers can read your site — Интегрировать этот навык в одну из наших цепочек Claude Code CLI для проверки видимости тестового или некритичного внутреннего сайта для AI-краулеров и оценить его эффективность и точность. (~1 час)
-  • HN: Show HN: DeepSeek Flash inverted the economics of agent products — Изучить статью для понимания конкретных изменений в экономике или производительности DeepSeek Flash и оценить, как это может повлиять на наши текущие операции с Claude Code CLI. (~1 час)
-  • HN: Show HN: A Claude skill that prunes your AI's memory file, one diff at a time — Протестировать этот навык для Claude Cowork, чтобы оценить его эффективность в управлении размером файла памяти и его влиянии на производительность агента, возможно, в рамках тестовой цепочки. (~1.5 часа)
+  • Release v2.1.200 — Обновить Claude Code CLI до версии v2.1.200 и проверить базовую стабильность работы в тестовом репозитории (~15 минут).
+  • HN: Claude Code Settings That Made Me a Faster Software Architect — Протестировать предложенные настройки конфигурации во временном профиле Claude Code для оценки прироста скорости (~30 минут).
+  • HN: Sous-Chef, a Claude Code plugin where Fable reviews, Codex implements — Установить плагин Sous-Chef и проверить его применимость на одном из внутренних репозиториев (~1 час).
 

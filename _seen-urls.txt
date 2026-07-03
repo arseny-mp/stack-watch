@@ -87,6 +87,7 @@ https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
 https://github.com/anthropics/claude-code/issues/62476
 https://github.com/anthropics/claude-code/issues/63498
+https://github.com/anthropics/claude-code/issues/73125
 https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 https://github.com/anthropics/claude-code/releases/tag/v2.1.148
 https://github.com/anthropics/claude-code/releases/tag/v2.1.149
@@ -103,6 +104,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 https://github.com/anthropics/claude-code/releases/tag/v2.1.167
 https://github.com/anthropics/claude-code/releases/tag/v2.1.191
+https://github.com/anthropics/claude-code/releases/tag/v2.1.200
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
@@ -218,6 +220,7 @@ https://github.com/thegoodguysla/myco-brain
 https://github.com/tigerless-labs/autoharness
 https://github.com/tmux/tmux/releases/tag/3.7
 https://github.com/tmux/tmux/releases/tag/3.7a
+https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
 https://github.com/valmishq/valmis
 https://github.com/vukkt/token-warden
@@ -237,6 +240,7 @@ https://hextrap.com/products/firewall/
 https://hyperbox.sh
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://joshlf.com/posts/memory-safety-life-and-death/
+https://jsdev.space/claude-code-settings-software-architect/
 https://keyghost.dev/
 https://labs.flur.ee/docs/memory
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
