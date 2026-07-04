@@ -34,6 +34,7 @@ https://code.claude.com/docs/en/whats-new/2026-w22
 https://code.claude.com/docs/en/workflows
 https://code.intellios.ai
 https://codeaholicguy.com/2026/06/17/i-read-every-claude-code-hook-so-you-dont-have-to/
+https://contextify.sh/
 https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html
 https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
 https://developers.openai.com/codex/changelog
@@ -88,6 +89,7 @@ https://github.com/anthropics/claude-code/issues/62198
 https://github.com/anthropics/claude-code/issues/62476
 https://github.com/anthropics/claude-code/issues/63498
 https://github.com/anthropics/claude-code/issues/73125
+https://github.com/anthropics/claude-code/issues/74066
 https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 https://github.com/anthropics/claude-code/releases/tag/v2.1.148
 https://github.com/anthropics/claude-code/releases/tag/v2.1.149
@@ -208,6 +210,8 @@ https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
 https://github.com/raiyanyahya/recall
 https://github.com/raphaelwkago-sketch/rudi
+https://github.com/regolo-ai/brick-SR1
+https://github.com/rickardstureborg/claude-needs-input
 https://github.com/roandejager/Hillock
 https://github.com/rondoflow/rondoflow
 https://github.com/samchon/ttsc/tree/master/packages/graph
