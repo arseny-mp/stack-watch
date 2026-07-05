@@ -131,7 +131,8 @@
     "v20260703-nightly",
     "v20260702-nightly: Fix crash in Replace Selection when replacement grows the buffer",
     "v20260704-nightly: Fix infinite registration recursion crash in AI chat",
-    "v3.7.0beta6"
+    "v3.7.0beta6",
+    "v20260705-nightly: PushRelay: loopback /metrics for the self-hosted host"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -191,7 +192,8 @@
     "2026.6.11-beta.1",
     "2026.6.11-beta.2",
     "2026.6.11",
-    "2026.7.1-beta.1"
+    "2026.7.1-beta.1",
+    "2026.7.1-beta.2"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -204,7 +206,21 @@
     "a96189b",
     "0588ec0",
     "7b1170d",
-    "b2a94a2"
+    "b2a94a2",
+    "7097923",
+    "5850690",
+    "3b9d38f",
+    "7529857",
+    "18f09ad",
+    "06a8169",
+    "a714b63",
+    "f2450d7",
+    "9e9dfb9",
+    "1c0fdc3",
+    "f4c86ff",
+    "dab3489",
+    "4307b95",
+    "1a4ecb7"
   ],
   "hn_discovery": [
     "48414924",
@@ -1307,7 +1323,23 @@
     "48778171",
     "48777831",
     "48777790",
-    "48777488"
+    "48777488",
+    "48793542",
+    "48792661",
+    "48791510",
+    "48791474",
+    "48791105",
+    "48790887",
+    "48786769",
+    "48764085",
+    "48757325",
+    "48791696",
+    "48790505",
+    "48789986",
+    "48788594",
+    "48788520",
+    "48788009",
+    "48787627"
   ],
   "tmux": [
     "tmux 3.7-rc",

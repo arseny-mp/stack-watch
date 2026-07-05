@@ -216,6 +216,7 @@ https://github.com/roandejager/Hillock
 https://github.com/rondoflow/rondoflow
 https://github.com/samchon/ttsc/tree/master/packages/graph
 https://github.com/sathish316/pi-omniagent-extensions/
+https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
