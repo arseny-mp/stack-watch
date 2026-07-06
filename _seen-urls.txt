@@ -162,6 +162,7 @@ https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc13
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
+https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e4471632ddf942b06a2
 https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
@@ -208,6 +209,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
+https://github.com/puffinsoft/peek-cli
 https://github.com/raiyanyahya/recall
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/regolo-ai/brick-SR1
@@ -218,6 +220,7 @@ https://github.com/samchon/ttsc/tree/master/packages/graph
 https://github.com/sathish316/pi-omniagent-extensions/
 https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
+https://github.com/shofer-dev/claude-code-live-memory
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
@@ -236,6 +239,7 @@ https://github.com/workweave/router
 https://github.com/wtfwhs/tengu-decoded
 https://github.com/xltvy/openclaw-memgpt
 https://github.com/yonk-labs/claude-session-analyzer
+https://github.com/yuliang615/claude-cache-guard
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 https://help.openai.com/en/articles/20001257
 https://help.openai.com/en/articles/6825453-chatgpt-release-notes
@@ -279,6 +283,7 @@ https://news.ycombinator.com/item?id=48743419
 https://news.ycombinator.com/item?id=48743618
 https://novakit.tech/
 https://octamem.com
+https://old.reddit.com/r/ClaudeAI/comments/1up0614/how_to_build_insanely_powerful_orchestrator_loops/
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
 https://openai.com/index/chatgpt-memory-dreaming/
