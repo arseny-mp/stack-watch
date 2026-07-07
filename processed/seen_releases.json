@@ -27,7 +27,9 @@
     "v0.30.11-rc1",
     "v0.30.12",
     "v0.31.1",
-    "v0.31.0"
+    "v0.31.0",
+    "v0.31.2",
+    "v0.31.2-rc0"
   ],
   "claude code": [
     "v2.1.165",
@@ -65,7 +67,8 @@
     "v2.1.200",
     "v2.1.199",
     "v2.1.198",
-    "v2.1.201"
+    "v2.1.201",
+    "v2.1.202"
   ],
   "mem0": [
     "v2.4.6",
@@ -133,7 +136,8 @@
     "v20260704-nightly: Fix infinite registration recursion crash in AI chat",
     "v3.7.0beta6",
     "v20260705-nightly: PushRelay: loopback /metrics for the self-hosted host",
-    "v20260706-nightly: Refuse companion peers that predate the relay move"
+    "v20260706-nightly: Refuse companion peers that predate the relay move",
+    "v20260707-nightly: Orchestration: Stop cancels the chat's watchers"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -1386,7 +1390,32 @@
     "48795822",
     "48795795",
     "48795380",
-    "48794787"
+    "48794787",
+    "48813355",
+    "48814952",
+    "48814933",
+    "48814472",
+    "48814264",
+    "48813514",
+    "48812163",
+    "48812045",
+    "48811357",
+    "48810964",
+    "48810645",
+    "48810163",
+    "48816190",
+    "48815637",
+    "48816446",
+    "48815957",
+    "48815006",
+    "48814788",
+    "48813262",
+    "48813148",
+    "48813034",
+    "48810390",
+    "48810223",
+    "48809867",
+    "48809210"
   ],
   "tmux": [
     "tmux 3.7-rc",
