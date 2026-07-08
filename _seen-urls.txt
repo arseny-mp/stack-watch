@@ -20,6 +20,7 @@ https://chatgpt.com/apps/mindmap/asdk_app_69e1ea6c505c81918d6c8f0258a64906
 https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://cimons.com/article/balancing-claude-with-glm-5-2-in-mid-level-coding-agent-structuring-prompts
 https://claude.com/blog/artifacts-in-claude-code
+https://claude.com/blog/claude-model-and-effort-level-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://claude.com/docs/connectors/google/gmail
@@ -90,6 +91,7 @@ https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
 https://github.com/anthropics/claude-code/issues/62476
 https://github.com/anthropics/claude-code/issues/63498
+https://github.com/anthropics/claude-code/issues/72274
 https://github.com/anthropics/claude-code/issues/73125
 https://github.com/anthropics/claude-code/issues/74066
 https://github.com/anthropics/claude-code/releases/tag/v2.1.146
@@ -215,6 +217,7 @@ https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
 https://github.com/puffinsoft/peek-cli
 https://github.com/raiyanyahya/recall
+https://github.com/ralfyishere/rules-with-receipts
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/regolo-ai/brick-SR1
 https://github.com/rickardstureborg/claude-needs-input
@@ -323,6 +326,7 @@ https://status.claude.com/incidents/jbhf20wjmzrf
 https://status.claude.com/incidents/xmhsglsz3h3w
 https://support.google.com/notebooklm/answer/16296687?hl=en
 https://support.google.com/notebooklm/answer/17003757?hl=en
+https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/
 https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/
 https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
@@ -347,6 +351,7 @@ https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/
 https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.endorlabs.com/learn/endor-labs-ai-sast-finds-zero-day-cve-2026-55407-buffa
 https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/
+https://www.engadget.com/ai/anthropic-brings-claudes-learning-mode-to-regular-users-and-devs-170018471.html
 https://www.fintechextra.com/news/mem0-opencode-v012-automatic-coding-categories-now-live-607
 https://www.forq.ink/
 https://www.fredrin.dev
@@ -365,3 +370,4 @@ https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
+https://yolo-auto.com/news/memory-options-for-agents
