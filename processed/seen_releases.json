@@ -31,7 +31,8 @@
     "v0.31.2",
     "v0.31.2-rc0",
     "v0.31.2-rc1",
-    "v0.31.2-rc2"
+    "v0.31.2-rc2",
+    "v0.32.0-rc0"
   ],
   "claude code": [
     "v2.1.165",
@@ -73,7 +74,8 @@
     "v2.1.202",
     "v2.1.204",
     "v2.1.203",
-    "v2.1.205"
+    "v2.1.205",
+    "v2.1.206"
   ],
   "mem0": [
     "v2.4.6",
@@ -143,7 +145,8 @@
     "v20260705-nightly: PushRelay: loopback /metrics for the self-hosted host",
     "v20260706-nightly: Refuse companion peers that predate the relay move",
     "v20260707-nightly: Orchestration: Stop cancels the chat's watchers",
-    "v20260709-nightly: Add AI economy model, and fix manual-model catalog fidelity"
+    "v20260709-nightly: Add AI economy model, and fix manual-model catalog fidelity",
+    "v20260710-nightly: Orchestrator AI safety gate for autonomous command execution"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -1506,7 +1509,48 @@
     "48831814",
     "48830941",
     "48830914",
-    "48830794"
+    "48830794",
+    "48858436",
+    "48855138",
+    "48854224",
+    "48849618",
+    "48846153",
+    "48846086",
+    "48858177",
+    "48856473",
+    "48856350",
+    "48852172",
+    "48851812",
+    "48851313",
+    "48850924",
+    "48850838",
+    "48848840",
+    "48848490",
+    "48847930",
+    "48847672",
+    "48847662",
+    "48847623",
+    "48847526",
+    "48853028",
+    "48858171",
+    "48857277",
+    "48856799",
+    "48856586",
+    "48854792",
+    "48854574",
+    "48854066",
+    "48853610",
+    "48853159",
+    "48851086",
+    "48848460",
+    "48848209",
+    "48848046",
+    "48847887",
+    "48847222",
+    "48847170",
+    "48846515",
+    "48845255",
+    "48844990"
   ],
   "tmux": [
     "tmux 3.7-rc",

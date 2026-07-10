@@ -54,6 +54,7 @@ https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
 https://github.com/Alfredvc/aharness
 https://github.com/CelestoAI/smolfs
+https://github.com/Clear-Sights/Makoto
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Elpulgo/polysbx
@@ -112,10 +113,12 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.167
 https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 https://github.com/anthropics/claude-code/releases/tag/v2.1.200
 https://github.com/anthropics/claude-code/releases/tag/v2.1.202
+https://github.com/anthropics/claude-code/releases/tag/v2.1.206
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
+https://github.com/browser-memory/bmem
 https://github.com/cheapsteak/tbd
 https://github.com/cloudkj/llayer
 https://github.com/d0nmega/donnyclaude
@@ -138,6 +141,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260621-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260622-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260701-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
@@ -199,6 +203,7 @@ https://github.com/ollama/ollama/releases/tag/v0.30.9-rc2
 https://github.com/ollama/ollama/releases/tag/v0.31.0
 https://github.com/ollama/ollama/releases/tag/v0.31.2-rc1
 https://github.com/ollama/ollama/releases/tag/v0.31.2-rc2
+https://github.com/ollama/ollama/releases/tag/v0.32.0-rc0
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
@@ -223,6 +228,7 @@ https://github.com/ralfyishere/rules-with-receipts
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/regolo-ai/brick-SR1
 https://github.com/rickardstureborg/claude-needs-input
+https://github.com/riktar/memledger
 https://github.com/roandejager/Hillock
 https://github.com/robert-auger/safer-dependencies
 https://github.com/rondoflow/rondoflow
@@ -354,6 +360,7 @@ https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt
 https://www.androidauthority.com/chatgpt-4-5-o3-retired-3672713/
 https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
 https://www.anthropic.com/news/claude-opus-4-8
+https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476
 https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/
 https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.endorlabs.com/learn/endor-labs-ai-sast-finds-zero-day-cve-2026-55407-buffa

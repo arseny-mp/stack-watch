@@ -1,9 +1,10 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-07-03:</b>
+📅 <b>2026-07-10:</b>
   <b>Experiment:</b>
-  • Release v2.1.200 — Обновить Claude Code CLI до версии v2.1.200 и проверить базовую стабильность работы в тестовом репозитории (~15 минут).
-  • HN: Claude Code Settings That Made Me a Faster Software Architect — Протестировать предложенные настройки конфигурации во временном профиле Claude Code для оценки прироста скорости (~30 минут).
-  • HN: Sous-Chef, a Claude Code plugin where Fable reviews, Codex implements — Установить плагин Sous-Chef и проверить его применимость на одном из внутренних репозиториев (~1 час).
+  • Release v2.1.206 — Обновить Claude Code локально через npm (`npm install -g @anthropic-ai/claude-code@2.1.206`) и протестировать стабильность работы в текущих репозиториях (~30 минут).
+  • Release v20260710-nightly: Orchestrator AI safety gate for autonomous command execution — Установить ночную сборку iTerm2 и настроить шлюз безопасности для перехвата и валидации потенциально опасных автономных команд (~1 час).
+  • HN: Show HN: Makoto the Claude Code plugin that keeps the AI honest — Склонировать репозиторий Makoto, интегрировать плагин в рабочий процесс Claude Code и проверить его влияние на качество ответов в тестовой сессии (~1 час).
+  • HN: Browser-Memory — Склонировать репозиторий bmem, настроить локальный запуск и протестировать сохранение состояния сессии при управлении Chrome через скрипты автоматизации (~1.5 часа).
 
