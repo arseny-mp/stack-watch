@@ -66,6 +66,7 @@ https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/KerryRitter/parley
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
+https://github.com/Mamasodikov/hasharot
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
 https://github.com/MerqryLabs/ai-crawler-visibility
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
@@ -81,6 +82,7 @@ https://github.com/StoneSteel27/AutomatiQ
 https://github.com/TeamDzX/myllm-connect
 https://github.com/Toadoum/ai-research-skill
 https://github.com/ToxicPine/offloads
+https://github.com/Trivo25/code-airlock
 https://github.com/Watari995/cc-preview
 https://github.com/aalksii/creditwatcher
 https://github.com/alex-reysa/glueRun-go
@@ -114,6 +116,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 https://github.com/anthropics/claude-code/releases/tag/v2.1.200
 https://github.com/anthropics/claude-code/releases/tag/v2.1.202
 https://github.com/anthropics/claude-code/releases/tag/v2.1.206
+https://github.com/anthropics/claude-code/releases/tag/v2.1.207
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/bhpark1013/claudenews
