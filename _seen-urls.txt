@@ -126,6 +126,7 @@ https://github.com/cheapsteak/tbd
 https://github.com/cloudkj/llayer
 https://github.com/d0nmega/donnyclaude
 https://github.com/desktop-commander/desktop-commander
+https://github.com/dotbrt/dejaview
 https://github.com/edonadei/caliper
 https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
@@ -182,6 +183,8 @@ https://github.com/moorcheh-ai/memanto
 https://github.com/mupt-ai/relaymux
 https://github.com/nikhilkagita04/continuum
 https://github.com/nikitadoudikov/claude-pulse
+https://github.com/nikvdp/searxng-ai-kit
+https://github.com/ninjahawk/Confessor
 https://github.com/oleksiijko/pmb/blob/main/README.md
 https://github.com/ollama/ollama/blob/main/docs/gpu.mdx
 https://github.com/ollama/ollama/issues/13942
@@ -306,6 +309,7 @@ https://news.ycombinator.com/item?id=48743618
 https://news.ycombinator.com/item?id=48810964
 https://novakit.tech/
 https://octamem.com
+https://old.reddit.com/r/ClaudeAI/comments/1tc9oa0/claude_code_weekly_limits_are_increasing_50_now/
 https://old.reddit.com/r/ClaudeAI/comments/1up0614/how_to_build_insanely_powerful_orchestrator_loops/
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
