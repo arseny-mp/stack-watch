@@ -149,7 +149,8 @@
     "v20260707-nightly: Orchestration: Stop cancels the chat's watchers",
     "v20260709-nightly: Add AI economy model, and fix manual-model catalog fidelity",
     "v20260710-nightly: Orchestrator AI safety gate for autonomous command execution",
-    "v20260712-nightly: Auto-request/auto-send: switch peer switcher without stealing focus"
+    "v20260712-nightly: Auto-request/auto-send: switch peer switcher without stealing focus",
+    "v20260713-nightly: Throttle Companion history-tile requests to avoid flooding the relay"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -213,7 +214,8 @@
     "2026.7.1-beta.2",
     "v2026.7.1-beta.3",
     "2026.7.1-beta.5",
-    "v2026.7.1-beta.4"
+    "v2026.7.1-beta.4",
+    "2026.7.1-beta.6"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -1616,7 +1618,37 @@
     "48873318",
     "48872907",
     "48871412",
-    "48870807"
+    "48870807",
+    "48889775",
+    "48882687",
+    "48881112",
+    "48880594",
+    "48890575",
+    "48890319",
+    "48887733",
+    "48886809",
+    "48886544",
+    "48886272",
+    "48884990",
+    "48883540",
+    "48883275",
+    "48883257",
+    "48883064",
+    "48882253",
+    "48891263",
+    "48890994",
+    "48890206",
+    "48889522",
+    "48888539",
+    "48887281",
+    "48885564",
+    "48885515",
+    "48884002",
+    "48882798",
+    "48881331",
+    "48880307",
+    "48880167",
+    "48880165"
   ],
   "tmux": [
     "tmux 3.7-rc",
