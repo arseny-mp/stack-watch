@@ -77,7 +77,9 @@
     "v2.1.203",
     "v2.1.205",
     "v2.1.206",
-    "v2.1.207"
+    "v2.1.207",
+    "v2.1.209",
+    "v2.1.208"
   ],
   "mem0": [
     "v2.4.6",
@@ -106,7 +108,10 @@
     "v3.0.13",
     "v0.2.1",
     "v1.0.14",
-    "v0.2.10"
+    "v0.2.10",
+    "v2.0.12",
+    "v3.1.0",
+    "v0.2.11"
   ],
   "iterm2": [
     "v20260605-nightly: Cockpit: watch statusless sessions by screen observation",
@@ -150,7 +155,8 @@
     "v20260709-nightly: Add AI economy model, and fix manual-model catalog fidelity",
     "v20260710-nightly: Orchestrator AI safety gate for autonomous command execution",
     "v20260712-nightly: Auto-request/auto-send: switch peer switcher without stealing focus",
-    "v20260713-nightly: Throttle Companion history-tile requests to avoid flooding the relay"
+    "v20260713-nightly: Throttle Companion history-tile requests to avoid flooding the relay",
+    "v20260714-nightly: Tab subtitle: let the focused pane's status win"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -215,7 +221,8 @@
     "v2026.7.1-beta.3",
     "2026.7.1-beta.5",
     "v2026.7.1-beta.4",
-    "2026.7.1-beta.6"
+    "2026.7.1-beta.6",
+    "2026.7.1"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -1648,7 +1655,47 @@
     "48881331",
     "48880307",
     "48880167",
-    "48880165"
+    "48880165",
+    "48883305",
+    "48904750",
+    "48903047",
+    "48903007",
+    "48902426",
+    "48902347",
+    "48900770",
+    "48900319",
+    "48900288",
+    "48899529",
+    "48899321",
+    "48898736",
+    "48898604",
+    "48898409",
+    "48897975",
+    "48897859",
+    "48897613",
+    "48897554",
+    "48896257",
+    "48895463",
+    "48893610",
+    "48904605",
+    "48903561",
+    "48902825",
+    "48902505",
+    "48902044",
+    "48901548",
+    "48901349",
+    "48901051",
+    "48900786",
+    "48900527",
+    "48898570",
+    "48896948",
+    "48894351",
+    "48894277",
+    "48893163",
+    "48892955",
+    "48892881",
+    "48892588",
+    "48891809"
   ],
   "tmux": [
     "tmux 3.7-rc",

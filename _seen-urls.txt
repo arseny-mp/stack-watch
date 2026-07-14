@@ -117,6 +117,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.200
 https://github.com/anthropics/claude-code/releases/tag/v2.1.202
 https://github.com/anthropics/claude-code/releases/tag/v2.1.206
 https://github.com/anthropics/claude-code/releases/tag/v2.1.207
+https://github.com/anthropics/claude-code/releases/tag/v2.1.209
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/bhpark1013/claudenews
@@ -156,6 +157,7 @@ https://github.com/kageroumado/adrafinil
 https://github.com/kmcheung12/second-opinion
 https://github.com/kolegadev/Katra-Agentic-Memory
 https://github.com/kuberwastaken/reference
+https://github.com/lacion/fleet-deck
 https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
@@ -275,12 +277,14 @@ https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://jazzyalex.github.io/agent-sessions/
 https://joshlf.com/posts/memory-safety-life-and-death/
 https://jsdev.space/claude-code-settings-software-architect/
+https://kastra.ai/
 https://keyghost.dev/
 https://labs.flur.ee/docs/memory
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://llama-dash.dev
 https://marktechpost.com
 https://medium.com/@Koukyosyumei/how-claude-code-completely-broke-my-git-worktree-fc74effc9c4e
+https://medium.com/@Koukyosyumei/how-to-quantitatively-evaluate-prompt-quality-in-claude-code-and-codex-47f2f27f4bc5
 https://medium.com/@developer_programmer/i-spent-47-000-on-claude-code-in-90-days-my-cto-asked-me-one-question-and-i-couldnt-answer-it-af3b203f81bb
 https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memory-attacks-33b91c382f40
 https://medium.com/zerogpu/how-to-reduce-ai-compute-costs-with-our-claude-code-plugin-routing-lightweight-ai-tasks-to-small-2a265e19c699
@@ -338,6 +342,7 @@ https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integra
 https://signetai.sh/
 https://signoz.io/blog/claude-code-model-comparison/
 https://simplybychris.github.io/antigravity-plugin-cc/
+https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/
 https://solid.tech
 https://status.claude.com/incidents/bbcpk0t2cj4p
 https://status.claude.com/incidents/jbhf20wjmzrf
