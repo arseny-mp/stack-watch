@@ -118,16 +118,19 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.202
 https://github.com/anthropics/claude-code/releases/tag/v2.1.206
 https://github.com/anthropics/claude-code/releases/tag/v2.1.207
 https://github.com/anthropics/claude-code/releases/tag/v2.1.209
+https://github.com/anthropics/claude-code/releases/tag/v2.1.210
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
 https://github.com/browser-memory/bmem
 https://github.com/cheapsteak/tbd
+https://github.com/chebykinn/glp-ram
 https://github.com/cloudkj/llayer
 https://github.com/d0nmega/donnyclaude
 https://github.com/desktop-commander/desktop-commander
 https://github.com/dotbrt/dejaview
+https://github.com/dylanp12/alluvia
 https://github.com/edonadei/caliper
 https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
@@ -227,6 +230,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.6.11
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.20-alpha.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
+https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
@@ -241,6 +245,7 @@ https://github.com/roandejager/Hillock
 https://github.com/robert-auger/safer-dependencies
 https://github.com/rondoflow/rondoflow
 https://github.com/samchon/ttsc/tree/master/packages/graph
+https://github.com/sashamitrovich/milepost
 https://github.com/sathish316/pi-omniagent-extensions/
 https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
@@ -272,6 +277,7 @@ https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 https://help.openai.com/en/articles/8590148-memory-faq
 https://help.openai.com/en/articles/9624314-model-release-notes
 https://hextrap.com/products/firewall/
+https://hiver.sh
 https://hyperbox.sh
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://jazzyalex.github.io/agent-sessions/
@@ -290,6 +296,7 @@ https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memor
 https://medium.com/zerogpu/how-to-reduce-ai-compute-costs-with-our-claude-code-plugin-routing-lightweight-ai-tasks-to-small-2a265e19c699
 https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-command
 https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-loop
+https://mentedb.com/compare/mem0
 https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
 https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/
@@ -322,6 +329,7 @@ https://openai.com/index/codex-for-every-role-tool-workflow/
 https://parametric-memory.dev
 https://parcle.ai/
 https://patrickmccanna.net/inspecting-claude-codes-network-traffic-with-linux-namespaces-and-mitm-proxying-part-1/
+https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
 https://pmbai.dev
@@ -397,4 +405,5 @@ https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
+https://ykdojo.github.io/claude-code-tips/content/the-missing-private-github-search.html
 https://yolo-auto.com/news/memory-options-for-agents
