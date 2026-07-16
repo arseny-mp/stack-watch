@@ -85,6 +85,7 @@ https://github.com/ToxicPine/offloads
 https://github.com/Trivo25/code-airlock
 https://github.com/Watari995/cc-preview
 https://github.com/aalksii/creditwatcher
+https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/alex-reysa/glueRun-go
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/anthonystaiger8-bit/memory-model
@@ -119,6 +120,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.206
 https://github.com/anthropics/claude-code/releases/tag/v2.1.207
 https://github.com/anthropics/claude-code/releases/tag/v2.1.209
 https://github.com/anthropics/claude-code/releases/tag/v2.1.210
+https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/bhpark1013/claudenews
@@ -215,6 +217,7 @@ https://github.com/ollama/ollama/releases/tag/v0.31.0
 https://github.com/ollama/ollama/releases/tag/v0.31.2-rc1
 https://github.com/ollama/ollama/releases/tag/v0.31.2-rc2
 https://github.com/ollama/ollama/releases/tag/v0.32.0-rc0
+https://github.com/ollama/ollama/releases/tag/v0.32.1
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
@@ -250,6 +253,7 @@ https://github.com/sathish316/pi-omniagent-extensions/
 https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
 https://github.com/shofer-dev/claude-code-live-memory
+https://github.com/softcane/cc-session-recover
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
