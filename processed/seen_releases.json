@@ -83,7 +83,8 @@
     "v2.1.209",
     "v2.1.208",
     "v2.1.210",
-    "v2.1.211"
+    "v2.1.211",
+    "v2.1.212"
   ],
   "mem0": [
     "v2.4.6",
@@ -163,7 +164,8 @@
     "v20260714-nightly: Tab subtitle: let the focused pane's status win",
     "v20260715-nightly",
     "v20260716-nightly: Companion: repair the project generator to emit all three targets",
-    "v3.7.0beta7"
+    "v3.7.0beta7",
+    "v20260717-nightly: Companion: AirDrop all logs as one zip, not just the newest file"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -240,7 +242,17 @@
     "release-publish/0f7fbfa0039f-20260715",
     "release-publish/f4f5bb15d46a-20260715",
     "release-publish/d8b3e1c093f2-20260715",
-    "release-publish/c3927271fad7-20260715"
+    "release-publish/c3927271fad7-20260715",
+    "2026.7.2-beta.2",
+    "release-publish/8858944a81c5-20260717",
+    "release-publish/08987d8f409b-20260717",
+    "release-publish/73d04395defe-20260717",
+    "release-publish/9b80f9a8b1df-20260717",
+    "release-publish/0e9db6005954-20260717",
+    "release-publish/0e9db600595-20260717",
+    "release-publish/d8dd59bf8f60-20260717",
+    "release-publish/ced50f88e928-20260717",
+    "release-publish/a9ac13b2efd7-20260717"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -1796,7 +1808,48 @@
     "48921700",
     "48921561",
     "48921329",
-    "48921310"
+    "48921310",
+    "48944255",
+    "48940521",
+    "48944489",
+    "48943863",
+    "48942922",
+    "48942827",
+    "48942554",
+    "48942532",
+    "48942090",
+    "48942088",
+    "48940976",
+    "48940173",
+    "48939454",
+    "48938858",
+    "48938725",
+    "48937867",
+    "48937785",
+    "48937132",
+    "48937020",
+    "48936889",
+    "48936307",
+    "48935997",
+    "48943344",
+    "48942038",
+    "48936451",
+    "48936271",
+    "48945125",
+    "48943648",
+    "48943417",
+    "48942397",
+    "48941533",
+    "48940594",
+    "48938802",
+    "48936790",
+    "48936549",
+    "48934870",
+    "48934807",
+    "48934733",
+    "48934662",
+    "48934394",
+    "48933174"
   ],
   "tmux": [
     "tmux 3.7-rc",
@@ -1826,6 +1879,7 @@
     "v0.61.2",
     "v0.61.0",
     "v0.59.1",
-    "v0.59.0"
+    "v0.59.0",
+    "v0.61.8"
   ]
 }

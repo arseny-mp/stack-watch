@@ -1,10 +1,13 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-07-10:</b>
+📅 <b>2026-07-17:</b>
+  <b>Do now:</b>
+  • HN: NotebookLM is now Gemini Notebook — Обновить ссылки в базе знаний Obsidian, шаблоны инструкций и обновить интеграционные закладки Chrome под новый интерфейс Gemini Notebook (~30 минут).
   <b>Experiment:</b>
-  • Release v2.1.206 — Обновить Claude Code локально через npm (`npm install -g @anthropic-ai/claude-code@2.1.206`) и протестировать стабильность работы в текущих репозиториях (~30 минут).
-  • Release v20260710-nightly: Orchestrator AI safety gate for autonomous command execution — Установить ночную сборку iTerm2 и настроить шлюз безопасности для перехвата и валидации потенциально опасных автономных команд (~1 час).
-  • HN: Show HN: Makoto the Claude Code plugin that keeps the AI honest — Склонировать репозиторий Makoto, интегрировать плагин в рабочий процесс Claude Code и проверить его влияние на качество ответов в тестовой сессии (~1 час).
-  • HN: Browser-Memory — Склонировать репозиторий bmem, настроить локальный запуск и протестировать сохранение состояния сессии при управлении Chrome через скрипты автоматизации (~1.5 часа).
+  • Release v2.1.212 — Обновить Claude Code CLI до версии v2.1.212 через npm и запустить в тестовой цепочке для оценки стабильности (~30 минут).
+  • Release openclaw 2026.7.2-beta.2 — Обновить OpenClaw до версии 2026.7.2-beta.2 в тестовом окружении и проверить корректность опроса уведомлений (~1 час).
+  • HN: Show HN: cc-context-telemetry - context and rate-limit % in Claude Code's bar — Установить cc-context-telemetry и настроить интеграцию со статус-баром активной сессии Claude Code CLI (~1 час).
+  • HN: Fixed Deep research and web fetch in Claude Code : full open source — Подключить webify-mcp к конфигурации Claude Code CLI и запустить серию тестов на автономный сбор данных с веб-страниц (~1.5 часа).
+  • HN: Show HN: Tmux tab markers for Claude Code, Grok, and pi sessions — Добавить скрипт tmux-agent-tabs в рабочую конфигурацию .tmux.conf и проверить индикацию вкладок при запуске сессий Claude Code и Pi (~1 час).
 
