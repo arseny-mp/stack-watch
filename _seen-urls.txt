@@ -25,6 +25,7 @@ https://claude.com/blog/claude-model-and-effort-level-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://claude.com/docs/connectors/google/gmail
+https://cli.agentproto.sh
 https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
 https://cloudcode.one/
@@ -91,6 +92,7 @@ https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alex-reysa/glueRun-go
 https://github.com/amiinwani/whoburnedmore.com
+https://github.com/anlor1002-alt/regressionledger
 https://github.com/anthonystaiger8-bit/memory-model
 https://github.com/anthropics/claude-code/issues
 https://github.com/anthropics/claude-code/issues/16537
@@ -133,6 +135,7 @@ https://github.com/browser-memory/bmem
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
 https://github.com/cloudkj/llayer
+https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
 https://github.com/desktop-commander/desktop-commander
 https://github.com/dotbrt/dejaview
@@ -330,10 +333,13 @@ https://news.ycombinator.com/item?id=48719260
 https://news.ycombinator.com/item?id=48743419
 https://news.ycombinator.com/item?id=48743618
 https://news.ycombinator.com/item?id=48810964
+https://news.ycombinator.com/item?id=48950625
+https://news.ycombinator.com/item?id=48951167
 https://novakit.tech/
 https://octamem.com
 https://old.reddit.com/r/ClaudeAI/comments/1tc9oa0/claude_code_weekly_limits_are_increasing_50_now/
 https://old.reddit.com/r/ClaudeAI/comments/1up0614/how_to_build_insanely_powerful_orchestrator_loops/
+https://old.reddit.com/r/ClaudeCode/comments/1uz5tpl/tilepack_repos_docs_files_and_prompts_into_images/
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
 https://openai.com/index/chatgpt-memory-dreaming/
@@ -345,6 +351,7 @@ https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
 https://pmbai.dev
+https://portal.cybercorpresearch.com/
 https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/
 https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
@@ -364,6 +371,7 @@ https://signoz.io/blog/claude-code-model-comparison/
 https://simplybychris.github.io/antigravity-plugin-cc/
 https://snippai.dev
 https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/
+https://sokkan.ch
 https://solid.tech
 https://status.claude.com/incidents/bbcpk0t2cj4p
 https://status.claude.com/incidents/jbhf20wjmzrf
@@ -407,6 +415,7 @@ https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidan
 https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
+https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@mem0/cli
 https://www.refine.ink/blog/jemalloc-fragmentation
