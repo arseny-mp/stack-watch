@@ -201,6 +201,7 @@ https://github.com/nikhilkagita04/continuum
 https://github.com/nikitadoudikov/claude-pulse
 https://github.com/nikvdp/searxng-ai-kit
 https://github.com/ninjahawk/Confessor
+https://github.com/nrkoka786/synapse
 https://github.com/oleksiijko/pmb/blob/main/README.md
 https://github.com/ollama/ollama/blob/main/docs/gpu.mdx
 https://github.com/ollama/ollama/issues/13942
@@ -236,6 +237,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.1
 https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2
 https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
+https://github.com/openclaw/openclaw/releases/tag/release-publish%2F556a2ee276f0-20260718
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.11
@@ -260,6 +262,7 @@ https://github.com/rondoflow/rondoflow
 https://github.com/samchon/ttsc/tree/master/packages/graph
 https://github.com/sashamitrovich/milepost
 https://github.com/sathish316/pi-omniagent-extensions/
+https://github.com/saurabhav88/EnviousWispr
 https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
 https://github.com/shofer-dev/claude-code-live-memory
@@ -402,6 +405,7 @@ https://www.androidauthority.com/chatgpt-4-5-o3-retired-3672713/
 https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
 https://www.anthropic.com/news/claude-opus-4-8
 https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476
+https://www.claudeusage.com/leaderboard
 https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/
 https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.endorlabs.com/learn/endor-labs-ai-sast-finds-zero-day-cve-2026-55407-buffa

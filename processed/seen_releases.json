@@ -85,7 +85,8 @@
     "v2.1.210",
     "v2.1.211",
     "v2.1.212",
-    "v2.1.214"
+    "v2.1.214",
+    "v2.1.215"
   ],
   "mem0": [
     "v2.4.6",
@@ -167,7 +168,8 @@
     "v20260716-nightly: Companion: repair the project generator to emit all three targets",
     "v3.7.0beta7",
     "v20260717-nightly: Companion: AirDrop all logs as one zip, not just the newest file",
-    "v20260718-nightly: Orchestration: start_code_review reloads instead of typing"
+    "v20260718-nightly: Orchestration: start_code_review reloads instead of typing",
+    "v20260719-nightly: Companion: on-screen keyboard for live sessions"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -254,7 +256,9 @@
     "release-publish/0e9db600595-20260717",
     "release-publish/d8dd59bf8f60-20260717",
     "release-publish/ced50f88e928-20260717",
-    "release-publish/a9ac13b2efd7-20260717"
+    "release-publish/a9ac13b2efd7-20260717",
+    "2026.7.2-beta.3",
+    "release-publish/556a2ee276f0-20260718: feat(cron): add per-job dynamic cadence (#110978)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -1883,7 +1887,37 @@
     "48949018",
     "48948816",
     "48947475",
-    "48947364"
+    "48947364",
+    "48965880",
+    "48966690",
+    "48966624",
+    "48966569",
+    "48966560",
+    "48966140",
+    "48966044",
+    "48964950",
+    "48964755",
+    "48964346",
+    "48964237",
+    "48961288",
+    "48961120",
+    "48959392",
+    "48959308",
+    "48957809",
+    "48957135",
+    "48957109",
+    "48957874",
+    "48963964",
+    "48966182",
+    "48965355",
+    "48960887",
+    "48960797",
+    "48959693",
+    "48959447",
+    "48958560",
+    "48958474",
+    "48958273",
+    "48958080"
   ],
   "tmux": [
     "tmux 3.7-rc",
