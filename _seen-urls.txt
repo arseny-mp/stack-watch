@@ -135,6 +135,7 @@ https://github.com/browser-memory/bmem
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
 https://github.com/cloudkj/llayer
+https://github.com/cyrusNuevoDia/gpt-workflow
 https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
 https://github.com/desktop-commander/desktop-commander
@@ -228,6 +229,7 @@ https://github.com/ollama/ollama/releases/tag/v0.31.2-rc1
 https://github.com/ollama/ollama/releases/tag/v0.31.2-rc2
 https://github.com/ollama/ollama/releases/tag/v0.32.0-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.1
+https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0-alpha.3
@@ -266,6 +268,7 @@ https://github.com/saurabhav88/EnviousWispr
 https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
 https://github.com/shofer-dev/claude-code-live-memory
+https://github.com/softcane/aloud
 https://github.com/softcane/cc-session-recover
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
@@ -301,6 +304,7 @@ https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://jazzyalex.github.io/agent-sessions/
 https://joshlf.com/posts/memory-safety-life-and-death/
 https://jsdev.space/claude-code-settings-software-architect/
+https://karanbansal.in/blog/loop-engineering/
 https://kastra.ai/
 https://keyghost.dev/
 https://labs.flur.ee/docs/memory
@@ -338,6 +342,8 @@ https://news.ycombinator.com/item?id=48743618
 https://news.ycombinator.com/item?id=48810964
 https://news.ycombinator.com/item?id=48950625
 https://news.ycombinator.com/item?id=48951167
+https://news.ycombinator.com/item?id=48968447
+https://news.ycombinator.com/item?id=48972273
 https://novakit.tech/
 https://octamem.com
 https://old.reddit.com/r/ClaudeAI/comments/1tc9oa0/claude_code_weekly_limits_are_increasing_50_now/
@@ -347,6 +353,7 @@ https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
+https://org-edge.com/sysedge.html
 https://parametric-memory.dev
 https://parcle.ai/
 https://patrickmccanna.net/inspecting-claude-codes-network-traffic-with-linux-namespaces-and-mitm-proxying-part-1/
