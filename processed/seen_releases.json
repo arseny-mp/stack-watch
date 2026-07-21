@@ -35,7 +35,8 @@
     "v0.32.0-rc0",
     "v0.32.0",
     "v0.32.1",
-    "v0.32.1-rc0"
+    "v0.32.1-rc0",
+    "v0.32.2"
   ],
   "claude code": [
     "v2.1.165",
@@ -86,7 +87,8 @@
     "v2.1.211",
     "v2.1.212",
     "v2.1.214",
-    "v2.1.215"
+    "v2.1.215",
+    "v2.1.216"
   ],
   "mem0": [
     "v2.4.6",
@@ -169,7 +171,8 @@
     "v3.7.0beta7",
     "v20260717-nightly: Companion: AirDrop all logs as one zip, not just the newest file",
     "v20260718-nightly: Orchestration: start_code_review reloads instead of typing",
-    "v20260719-nightly: Companion: on-screen keyboard for live sessions"
+    "v20260719-nightly: Companion: on-screen keyboard for live sessions",
+    "v20260721-nightly: Makefile: allow overriding the defaults suite via SUITE"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -258,7 +261,8 @@
     "release-publish/ced50f88e928-20260717",
     "release-publish/a9ac13b2efd7-20260717",
     "2026.7.2-beta.3",
-    "release-publish/556a2ee276f0-20260718: feat(cron): add per-job dynamic cadence (#110978)"
+    "release-publish/556a2ee276f0-20260718: feat(cron): add per-job dynamic cadence (#110978)",
+    "v2026.6.33"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -1942,7 +1946,44 @@
     "48976361",
     "48975403",
     "48968990",
-    "48967506"
+    "48967506",
+    "48990514",
+    "48989416",
+    "48989357",
+    "48989188",
+    "48989141",
+    "48988194",
+    "48987547",
+    "48986943",
+    "48986313",
+    "48985846",
+    "48985365",
+    "48984994",
+    "48984355",
+    "48983943",
+    "48983245",
+    "48983088",
+    "48982875",
+    "48981446",
+    "48981438",
+    "48980286",
+    "48979697",
+    "48989685",
+    "48989360",
+    "48988139",
+    "48987618",
+    "48987429",
+    "48987214",
+    "48984705",
+    "48984536",
+    "48982964",
+    "48982752",
+    "48982643",
+    "48982389",
+    "48979395",
+    "48979201",
+    "48978301",
+    "48977579"
   ],
   "tmux": [
     "tmux 3.7-rc",
