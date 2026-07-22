@@ -19,6 +19,7 @@ https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/
 https://brianbell-x.github.io/weight-compression/
 https://capacitor.kurrent.io/
 https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second
+https://chalk.appkit.studio
 https://chatgpt.com/apps/mindmap/asdk_app_69e1ea6c505c81918d6c8f0258a64906
 https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://cimons.com/article/balancing-claude-with-glm-5-2-in-mid-level-coding-agent-structuring-prompts
@@ -66,6 +67,7 @@ https://github.com/GLechevalier/nff
 https://github.com/GhetauTudor/esi
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
+https://github.com/IterateAI/compression
 https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/KerryRitter/parley
@@ -130,11 +132,13 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.210
 https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 https://github.com/anthropics/claude-code/releases/tag/v2.1.216
+https://github.com/anthropics/claude-code/releases/tag/v2.1.217
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
 https://github.com/browser-memory/bmem
+https://github.com/bruno-de-queiroz/hoop
 https://github.com/cfitzgerald-pd/effort-router
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
