@@ -1,13 +1,11 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-07-17:</b>
-  <b>Do now:</b>
-  • HN: NotebookLM is now Gemini Notebook — Обновить ссылки в базе знаний Obsidian, шаблоны инструкций и обновить интеграционные закладки Chrome под новый интерфейс Gemini Notebook (~30 минут).
+📅 <b>2026-07-24:</b>
   <b>Experiment:</b>
-  • Release v2.1.212 — Обновить Claude Code CLI до версии v2.1.212 через npm и запустить в тестовой цепочке для оценки стабильности (~30 минут).
-  • Release openclaw 2026.7.2-beta.2 — Обновить OpenClaw до версии 2026.7.2-beta.2 в тестовом окружении и проверить корректность опроса уведомлений (~1 час).
-  • HN: Show HN: cc-context-telemetry - context and rate-limit % in Claude Code's bar — Установить cc-context-telemetry и настроить интеграцию со статус-баром активной сессии Claude Code CLI (~1 час).
-  • HN: Fixed Deep research and web fetch in Claude Code : full open source — Подключить webify-mcp к конфигурации Claude Code CLI и запустить серию тестов на автономный сбор данных с веб-страниц (~1.5 часа).
-  • HN: Show HN: Tmux tab markers for Claude Code, Grok, and pi sessions — Добавить скрипт tmux-agent-tabs в рабочую конфигурацию .tmux.conf и проверить индикацию вкладок при запуске сессий Claude Code и Pi (~1 час).
+  • Release v2.1.218 — Обновить Claude Code CLI до версии v2.1.218 и протестировать на базовых командах в тестовом репозитории (~15 минут).
+  • Release Mem0 Python SDK (v2.0.13) — Проверить изменения в v2.0.13 на совместимость с текущим кодом интеграции Mem0 в изолированном окружении (~30 минут).
+  • Release v2026.7.2-beta.4 — Обновить OpenClaw до версии v2026.7.2-beta.4 на тестовом инстансе и запустить лог-поллер для проверки работы (~30 минут).
+  • HN: Claude Code hooks that block find/sed/cat, redirect to native tools — Установить и протестировать хуки claude-no-bash-detour в тестовом репозитории с Claude Code CLI (~45 минут).
+  • HN: Show HN: Run Claude Code Through Codex, Kimi, Grok, or Cursor — Настроить claude-code-proxy и запустить базовую сессию Claude Code через Kimi в экспериментальной папке (~1 час).
 

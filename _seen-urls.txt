@@ -3,6 +3,7 @@ https://9to5google.com/2026/05/25/google-ai-plus-pro-ultra-gemini-features/
 https://9to5mac.com/2026/05/21/openai-improves-codex-ios-experience-with-turn-completion-alerts-new-commands-more/
 https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/
 https://agentsim.dev
+https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/
 https://ai.google.dev/gemini-api/docs/changelog
 https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
 https://aicommander.dev/
@@ -53,6 +54,7 @@ https://downdetector.com.br/en/status/claude-ai/
 https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://festudio.net/agentpace/
+https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion
 https://fixyourdocs.io/
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://github.com/AkuchiS/yap
@@ -65,6 +67,7 @@ https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Elpulgo/polysbx
 https://github.com/GLechevalier/nff
 https://github.com/GhetauTudor/esi
+https://github.com/HabibiCodeCH/claude-no-bash-detour
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/IterateAI/compression
@@ -133,6 +136,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 https://github.com/anthropics/claude-code/releases/tag/v2.1.216
 https://github.com/anthropics/claude-code/releases/tag/v2.1.217
+https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/bhpark1013/claudenews
@@ -168,6 +172,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260622-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260701-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
@@ -191,6 +196,7 @@ https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
 https://github.com/mem0ai/mem0/releases/tag/opencode-v0.1.2
 https://github.com/mem0ai/mem0/releases/tag/opencode-v0.2.0
 https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.6
+https://github.com/mem0ai/mem0/releases/tag/v2.0.13
 https://github.com/mem0ai/mem0/releases/tag/v2.0.3
 https://github.com/mem0ai/mem0/releases/tag/v2.0.4
 https://github.com/mindmuxai/brain.md
@@ -238,6 +244,7 @@ https://github.com/ollama/ollama/releases/tag/v0.31.2-rc2
 https://github.com/ollama/ollama/releases/tag/v0.32.0-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.1
 https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0
+https://github.com/ollama/ollama/releases/tag/v0.32.3
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
@@ -257,10 +264,12 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.6.20-alpha.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2
+https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.4
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
 https://github.com/puffinsoft/peek-cli
+https://github.com/raine/claude-code-proxy
 https://github.com/raiyanyahya/recall
 https://github.com/ralfyishere/rules-with-receipts
 https://github.com/raphaelwkago-sketch/rudi
