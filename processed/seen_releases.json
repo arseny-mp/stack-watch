@@ -42,7 +42,8 @@
     "v0.32.2-rc1",
     "v0.32.2-rc0",
     "v0.32.3",
-    "v0.32.3-rc0"
+    "v0.32.3-rc0",
+    "v0.32.4"
   ],
   "claude code": [
     "v2.1.165",
@@ -96,7 +97,9 @@
     "v2.1.215",
     "v2.1.216",
     "v2.1.217",
-    "v2.1.218"
+    "v2.1.218",
+    "v2.1.220",
+    "v2.1.219"
   ],
   "mem0": [
     "v2.4.6",
@@ -186,7 +189,8 @@
     "v20260721-nightly: Makefile: allow overriding the defaults suite via SUITE",
     "v20260722-nightly",
     "v20260724-nightly: Improve tab dragging performance and drop-target stability",
-    "v20260723-nightly: Keep private data out of the always-on retrospective log ring"
+    "v20260723-nightly: Keep private data out of the always-on retrospective log ring",
+    "v20260725-nightly: Screenshot window: confirm Copy to Clipboard visually"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -277,7 +281,8 @@
     "2026.7.2-beta.3",
     "release-publish/556a2ee276f0-20260718: feat(cron): add per-job dynamic cadence (#110978)",
     "v2026.6.33",
-    "v2026.7.2-beta.4"
+    "v2026.7.2-beta.4",
+    "v2026.7.2-beta.5"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -2080,7 +2085,44 @@
     "49022097",
     "49020619",
     "49019694",
-    "49019271"
+    "49019271",
+    "49045343",
+    "49040025",
+    "49046425",
+    "49046289",
+    "49045925",
+    "49045271",
+    "49045140",
+    "49044662",
+    "49044039",
+    "49043889",
+    "49043095",
+    "49042653",
+    "49042509",
+    "49042416",
+    "49040821",
+    "49040647",
+    "49039047",
+    "49038922",
+    "49038856",
+    "49037978",
+    "49037829",
+    "49035946",
+    "49044891",
+    "49046319",
+    "49045760",
+    "49045664",
+    "49044520",
+    "49041470",
+    "49041256",
+    "49040911",
+    "49040862",
+    "49040606",
+    "49038748",
+    "49038400",
+    "49037506",
+    "49036085",
+    "49035056"
   ],
   "tmux": [
     "tmux 3.7-rc",
