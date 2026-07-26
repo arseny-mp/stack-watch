@@ -9,6 +9,7 @@ https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
 https://aicommander.dev/
 https://aiweekly.co
 https://ama2.me/
+https://antigma.ai/blog/2026/07/25/short-prompt-small-models
 https://apicalculators.com/
 https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
@@ -28,6 +29,7 @@ https://claude.com/blog/artifacts-in-claude-code
 https://claude.com/blog/claude-model-and-effort-level-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
+https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
 https://cli.agentproto.sh
 https://cliptop.app/
@@ -141,6 +143,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 https://github.com/anthropics/claude-code/releases/tag/v2.1.220
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
+https://github.com/avenna01-ceo/claude-code-survival-kr
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
 https://github.com/browser-memory/bmem

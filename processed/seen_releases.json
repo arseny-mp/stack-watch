@@ -43,7 +43,8 @@
     "v0.32.2-rc0",
     "v0.32.3",
     "v0.32.3-rc0",
-    "v0.32.4"
+    "v0.32.4",
+    "v0.32.4-rc0"
   ],
   "claude code": [
     "v2.1.165",
@@ -134,7 +135,9 @@
     "v0.2.11",
     "v2.0.13",
     "v3.1.1",
-    "v0.2.2"
+    "v0.2.2",
+    "v2.0.14",
+    "v3.1.2"
   ],
   "iterm2": [
     "v20260605-nightly: Cockpit: watch statusless sessions by screen observation",
@@ -190,7 +193,8 @@
     "v20260722-nightly",
     "v20260724-nightly: Improve tab dragging performance and drop-target stability",
     "v20260723-nightly: Keep private data out of the always-on retrospective log ring",
-    "v20260725-nightly: Screenshot window: confirm Copy to Clipboard visually"
+    "v20260725-nightly: Screenshot window: confirm Copy to Clipboard visually",
+    "v20260726-nightly: Generalize the orphaned-modal-sheet guard and harden it for nesting"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -2122,7 +2126,45 @@
     "49038400",
     "49037506",
     "49036085",
-    "49035056"
+    "49035056",
+    "49055093",
+    "49050356",
+    "49056689",
+    "49056316",
+    "49056022",
+    "49055752",
+    "49055227",
+    "49054070",
+    "49053523",
+    "49051762",
+    "49051361",
+    "49051072",
+    "49050042",
+    "49050011",
+    "49049978",
+    "49048571",
+    "49048051",
+    "49048037",
+    "49046999",
+    "49046592",
+    "49053918",
+    "49053809",
+    "49052449",
+    "49052064",
+    "49051282",
+    "49050065",
+    "49050058",
+    "49050008",
+    "49049884",
+    "49049823",
+    "49049427",
+    "49048504",
+    "49048352",
+    "49047977",
+    "49047539",
+    "49047097",
+    "49046973",
+    "49046960"
   ],
   "tmux": [
     "tmux 3.7-rc",
