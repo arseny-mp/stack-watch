@@ -40,6 +40,7 @@ https://code.claude.com/docs/en/desktop-linux
 https://code.claude.com/docs/en/monitoring-usage
 https://code.claude.com/docs/en/security-guidance
 https://code.claude.com/docs/en/settings
+https://code.claude.com/docs/en/whats-new
 https://code.claude.com/docs/en/whats-new/2026-w22
 https://code.claude.com/docs/en/workflows
 https://code.intellios.ai
@@ -68,6 +69,7 @@ https://github.com/Clear-Sights/Makoto
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Elpulgo/polysbx
+https://github.com/FrigadeHQ/yap
 https://github.com/GLechevalier/nff
 https://github.com/GhetauTudor/esi
 https://github.com/HabibiCodeCH/claude-no-bash-detour
@@ -85,13 +87,16 @@ https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
+https://github.com/NevaMind-AI/memU
 https://github.com/Perseus-Computing-LLC/mimir
 https://github.com/Perufitlife/awesome-backend-security
 https://github.com/Piebald-AI/claude-code-system-prompts
 https://github.com/Poi5eN/Nexus
 https://github.com/Pupok462/open-geo
+https://github.com/RimantasZ/contextspy
 https://github.com/SaravananJaichandar/world-model-mcp
 https://github.com/StoneSteel27/AutomatiQ
+https://github.com/SuperNotesOnline/ThinkFull
 https://github.com/TeamDzX/myllm-connect
 https://github.com/Toadoum/ai-research-skill
 https://github.com/ToxicPine/offloads
@@ -148,6 +153,7 @@ https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
 https://github.com/browser-memory/bmem
 https://github.com/bruno-de-queiroz/hoop
+https://github.com/burakgon/ai-usage-menubar
 https://github.com/cfitzgerald-pd/effort-router
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
@@ -342,6 +348,7 @@ https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://llama-dash.dev
 https://lore.link/blog/how-we-built-share
 https://marktechpost.com
+https://mauroepce.dev/blog/trust-boundaries-claude-code
 https://medium.com/@Koukyosyumei/how-claude-code-completely-broke-my-git-worktree-fc74effc9c4e
 https://medium.com/@Koukyosyumei/how-to-quantitatively-evaluate-prompt-quality-in-claude-code-and-codex-47f2f27f4bc5
 https://medium.com/@developer_programmer/i-spent-47-000-on-claude-code-in-90-days-my-cto-asked-me-one-question-and-i-couldnt-answer-it-af3b203f81bb
@@ -382,6 +389,7 @@ https://old.reddit.com/r/ClaudeAI/comments/1up0614/how_to_build_insanely_powerfu
 https://old.reddit.com/r/ClaudeCode/comments/1uz5tpl/tilepack_repos_docs_files_and_prompts_into_images/
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
+https://ollama.com/library/kimi-k3
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://org-edge.com/sysedge.html
