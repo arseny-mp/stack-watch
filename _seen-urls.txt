@@ -149,8 +149,10 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.220
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
+https://github.com/barvhaim/code-security-skills
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
+https://github.com/braincompany/sessiongrep
 https://github.com/browser-memory/bmem
 https://github.com/bruno-de-queiroz/hoop
 https://github.com/burakgon/ai-usage-menubar
@@ -303,6 +305,7 @@ https://github.com/shofer-dev/claude-code-live-memory
 https://github.com/slash9494/ai-config-sync-manager
 https://github.com/softcane/aloud
 https://github.com/softcane/cc-session-recover
+https://github.com/softcane/hamza
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
@@ -396,6 +399,7 @@ https://org-edge.com/sysedge.html
 https://parametric-memory.dev
 https://parcle.ai/
 https://patrickmccanna.net/inspecting-claude-codes-network-traffic-with-linux-namespaces-and-mitm-proxying-part-1/
+https://pchalasani.github.io/claude-code-tools/
 https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
@@ -414,6 +418,7 @@ https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-mem
 https://rzhub.github.io/GateMem/project.html
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
+https://sessionradar.com
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
 https://signetai.sh/
 https://signoz.io/blog/claude-code-model-comparison/
