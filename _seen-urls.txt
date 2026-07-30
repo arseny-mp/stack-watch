@@ -56,6 +56,7 @@ https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1
 https://downdetector.com.br/en/status/claude-ai/
 https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
+https://extraheadroom.com/
 https://festudio.net/agentpace/
 https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion
 https://fixyourdocs.io/
@@ -79,6 +80,7 @@ https://github.com/IterateAI/compression
 https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/KerryRitter/parley
+https://github.com/KonghaYao/peri
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
 https://github.com/Mamasodikov/hasharot
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
@@ -102,6 +104,7 @@ https://github.com/Toadoum/ai-research-skill
 https://github.com/ToxicPine/offloads
 https://github.com/Trivo25/code-airlock
 https://github.com/Watari995/cc-preview
+https://github.com/YoanWai/agent-manager
 https://github.com/aalksii/creditwatcher
 https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/alagiz/cc-context-telemetry
@@ -159,12 +162,14 @@ https://github.com/burakgon/ai-usage-menubar
 https://github.com/cfitzgerald-pd/effort-router
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
+https://github.com/clay-good/OpenLore
 https://github.com/cloudkj/llayer
 https://github.com/cyrusNuevoDia/gpt-workflow
 https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
 https://github.com/desktop-commander/desktop-commander
 https://github.com/dotbrt/dejaview
+https://github.com/drumih/turbo-fieldfare
 https://github.com/dylanp12/alluvia
 https://github.com/edonadei/caliper
 https://github.com/ethanhq/cc-fleet
@@ -173,6 +178,7 @@ https://github.com/fabioconcina/claumon
 https://github.com/faisalishfaq2005/loopflow
 https://github.com/fashton28/mux
 https://github.com/freestyle-voice/freestyle
+https://github.com/funador/claude-code-merge-queue
 https://github.com/ggml-org/llama.cpp/pull/24219
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
@@ -186,6 +192,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260701-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
+https://github.com/hbkdad/arc
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
@@ -290,8 +297,10 @@ https://github.com/raphaelwkago-sketch/rudi
 https://github.com/ravsau/wrap
 https://github.com/razzant/claudexor
 https://github.com/regolo-ai/brick-SR1
+https://github.com/rekol-io/rekol
 https://github.com/rickardstureborg/claude-needs-input
 https://github.com/riktar/memledger
+https://github.com/rivora-dev/rivora
 https://github.com/roandejager/Hillock
 https://github.com/robert-auger/safer-dependencies
 https://github.com/rondoflow/rondoflow
@@ -318,6 +327,7 @@ https://github.com/tmux/tmux/releases/tag/3.7
 https://github.com/tmux/tmux/releases/tag/3.7a
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
+https://github.com/toshipepe/tokimeter
 https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
 https://github.com/vitalysim/browser-bridge
@@ -362,6 +372,7 @@ https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-lo
 https://mentedb.com/compare/mem0
 https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
+https://near.ai/blog/introducing-ironclaw-1-0
 https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/
 https://news.ycombinator.com/item?id=123456
 https://news.ycombinator.com/item?id=48259288
@@ -385,6 +396,8 @@ https://news.ycombinator.com/item?id=48950625
 https://news.ycombinator.com/item?id=48951167
 https://news.ycombinator.com/item?id=48968447
 https://news.ycombinator.com/item?id=48972273
+https://news.ycombinator.com/item?id=49097150
+https://news.ycombinator.com/item?id=49098966
 https://novakit.tech/
 https://octamem.com
 https://old.reddit.com/r/ClaudeAI/comments/1tc9oa0/claude_code_weekly_limits_are_increasing_50_now/
