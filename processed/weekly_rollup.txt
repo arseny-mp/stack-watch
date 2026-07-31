@@ -1,11 +1,8 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-07-24:</b>
+📅 <b>2026-07-31:</b>
   <b>Experiment:</b>
-  • Release v2.1.218 — Обновить Claude Code CLI до версии v2.1.218 и протестировать на базовых командах в тестовом репозитории (~15 минут).
-  • Release Mem0 Python SDK (v2.0.13) — Проверить изменения в v2.0.13 на совместимость с текущим кодом интеграции Mem0 в изолированном окружении (~30 минут).
-  • Release v2026.7.2-beta.4 — Обновить OpenClaw до версии v2026.7.2-beta.4 на тестовом инстансе и запустить лог-поллер для проверки работы (~30 минут).
-  • HN: Claude Code hooks that block find/sed/cat, redirect to native tools — Установить и протестировать хуки claude-no-bash-detour в тестовом репозитории с Claude Code CLI (~45 минут).
-  • HN: Show HN: Run Claude Code Through Codex, Kimi, Grok, or Cursor — Настроить claude-code-proxy и запустить базовую сессию Claude Code через Kimi в экспериментальной папке (~1 час).
+  • HN: Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus — Скачать модель Kimi K3 в Ollama и провести базовые тесты генерации кода (~1 час).
+  • HN: I aggregated 32 Claude Code sessions: 96.8% of tokens went to re-reading history — Протестировать практику принудительного перезапуска сессии Claude Code каждые 15 команд для экономии контекста (~0.5 часа).
 

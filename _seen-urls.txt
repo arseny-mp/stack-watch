@@ -47,6 +47,7 @@ https://code.intellios.ai
 https://codeaholicguy.com/2026/06/17/i-read-every-claude-code-hook-so-you-dont-have-to/
 https://contextify.sh/
 https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html
+https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30
 https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
 https://developers.openai.com/codex/changelog
 https://developers.openai.com/codex/sites
@@ -83,6 +84,7 @@ https://github.com/KerryRitter/parley
 https://github.com/KonghaYao/peri
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
 https://github.com/Mamasodikov/hasharot
+https://github.com/MaorBril/agentic
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
 https://github.com/MerqryLabs/ai-crawler-visibility
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
@@ -192,6 +194,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260701-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
+https://github.com/hamzarehmandeveloper/claude-account
 https://github.com/hbkdad/arc
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
@@ -398,6 +401,7 @@ https://news.ycombinator.com/item?id=48968447
 https://news.ycombinator.com/item?id=48972273
 https://news.ycombinator.com/item?id=49097150
 https://news.ycombinator.com/item?id=49098966
+https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
 https://old.reddit.com/r/ClaudeAI/comments/1tc9oa0/claude_code_weekly_limits_are_increasing_50_now/
