@@ -203,7 +203,8 @@
     "v3.7.0beta8",
     "v20260729-nightly: Open web URLs handed to iTerm2 in the built-in browser. Issue 12431",
     "v20260730-nightly: AI chat: live-cover Responses delta mode surviving pre-reduce (Phase 7)",
-    "v20260731-nightly: InlineImages: add RLog tracing for missing-image (brown) diagnosis"
+    "v20260731-nightly: InlineImages: add RLog tracing for missing-image (brown) diagnosis",
+    "v20260801-nightly: Fix Make Screenshot dropping ASCII ligatures; dedupe offscreen render"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -296,7 +297,8 @@
     "v2026.6.33",
     "v2026.7.2-beta.4",
     "v2026.7.2-beta.5",
-    "2026.7.2-beta.5"
+    "2026.7.2-beta.5",
+    "2026.7.2-beta.6"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -2364,7 +2366,37 @@
     "49111556",
     "49111322",
     "49111060",
-    "49110853"
+    "49110853",
+    "49130127",
+    "49129347",
+    "49128661",
+    "49128458",
+    "49127828",
+    "49126310",
+    "49125918",
+    "49125917",
+    "49123528",
+    "49123254",
+    "49122903",
+    "49133145",
+    "49131920",
+    "49131353",
+    "49131262",
+    "49130190",
+    "49128753",
+    "49128186",
+    "49127983",
+    "49127947",
+    "49127646",
+    "49127567",
+    "49127497",
+    "49126792",
+    "49126644",
+    "49126255",
+    "49126056",
+    "49125187",
+    "49125058",
+    "49124733"
   ],
   "tmux": [
     "tmux 3.7-rc",

@@ -16,6 +16,7 @@ https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-dire
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
 https://astgl.com/p/skill-mining-claude-code-config-patterns
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
+https://blog.disintegrator.dev/posts/lnav-claude-code/
 https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
 https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/
 https://brianbell-x.github.io/weight-compression/
@@ -66,11 +67,13 @@ https://github.com/APareek89/power-coding
 https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
 https://github.com/Alfredvc/aharness
+https://github.com/Bhavya6187/tandem
 https://github.com/CelestoAI/smolfs
 https://github.com/Clear-Sights/Makoto
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Elpulgo/polysbx
+https://github.com/ForeverSc/pinfix
 https://github.com/FrigadeHQ/yap
 https://github.com/GLechevalier/nff
 https://github.com/GhetauTudor/esi
@@ -459,6 +462,7 @@ https://thereallo.dev/blog/claude-code-prompt-steganography
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/samelldev/status/2070213157357072794
+https://uml.gpmai.workers.dev
 https://velaterm.com/
 https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins
 https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
@@ -485,11 +489,13 @@ https://www.fredrin.dev
 https://www.getmycelium.net/
 https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidance-plugin/
 https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/
+https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
 https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@mem0/cli
+https://www.npmjs.com/package/shellphone
 https://www.refine.ink/blog/jemalloc-fragmentation
 https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/
 https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
