@@ -46,6 +46,7 @@ https://code.claude.com/docs/en/whats-new/2026-w22
 https://code.claude.com/docs/en/workflows
 https://code.intellios.ai
 https://codeaholicguy.com/2026/06/17/i-read-every-claude-code-hook-so-you-dont-have-to/
+https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/
 https://contextify.sh/
 https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html
 https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30

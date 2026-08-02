@@ -140,7 +140,12 @@
     "v0.2.2",
     "v2.0.14",
     "v3.1.2",
-    "Mem0 n8n Integration"
+    "Mem0 n8n Integration",
+    "v3.0.1",
+    "v2.0.15",
+    "v3.1.3",
+    "v0.1.4",
+    "v1.0.15"
   ],
   "iterm2": [
     "v20260605-nightly: Cockpit: watch statusless sessions by screen observation",
@@ -204,7 +209,8 @@
     "v20260729-nightly: Open web URLs handed to iTerm2 in the built-in browser. Issue 12431",
     "v20260730-nightly: AI chat: live-cover Responses delta mode surviving pre-reduce (Phase 7)",
     "v20260731-nightly: InlineImages: add RLog tracing for missing-image (brown) diagnosis",
-    "v20260801-nightly: Fix Make Screenshot dropping ASCII ligatures; dedupe offscreen render"
+    "v20260801-nightly: Fix Make Screenshot dropping ASCII ligatures; dedupe offscreen render",
+    "v20260802-nightly: Enable right-to-left script support by default (issue 4361)"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -298,7 +304,15 @@
     "v2026.7.2-beta.4",
     "v2026.7.2-beta.5",
     "2026.7.2-beta.5",
-    "2026.7.2-beta.6"
+    "2026.7.2-beta.6",
+    "release-publish/10a390ed7fa8-20260802",
+    "release-publish/9bc3c2955500-20260802",
+    "release-publish/5dca33a8fb67-20260802",
+    "2026.7.2-beta.7",
+    "release-publish/7c9794b5c65c-20260801",
+    "release-publish/eb8c22ed13f9-20260801",
+    "release-publish/deffca656500-20260801",
+    "release-publish/728084497329-20260801"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -2396,7 +2410,33 @@
     "49126056",
     "49125187",
     "49125058",
-    "49124733"
+    "49124733",
+    "49135861",
+    "49142870",
+    "49142778",
+    "49142313",
+    "49141897",
+    "49141871",
+    "49141107",
+    "49141048",
+    "49139845",
+    "49137410",
+    "49136162",
+    "49135973",
+    "49135234",
+    "49134381",
+    "49133771",
+    "49133255",
+    "49137817",
+    "49134441",
+    "49122859",
+    "49142084",
+    "49141426",
+    "49141028",
+    "49140080",
+    "49138953",
+    "49134468",
+    "49134127"
   ],
   "tmux": [
     "tmux 3.7-rc",
