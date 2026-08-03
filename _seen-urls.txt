@@ -207,6 +207,7 @@ https://github.com/itsmeduncan/commonplace
 https://github.com/jankdc/bote
 https://github.com/jhickner/tmux-agent-tabs
 https://github.com/joanseg/specmanager
+https://github.com/joey-io/gauge
 https://github.com/kageroumado/adrafinil
 https://github.com/kmcheung12/second-opinion
 https://github.com/kolegadev/Katra-Agentic-Memory
@@ -494,6 +495,7 @@ https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
 https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
+https://www.nlmtools.com/blog/notebooklm-collections-guide
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/shellphone
