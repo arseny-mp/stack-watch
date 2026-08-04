@@ -102,7 +102,8 @@
     "v2.1.217",
     "v2.1.218",
     "v2.1.220",
-    "v2.1.219"
+    "v2.1.219",
+    "v2.1.221"
   ],
   "mem0": [
     "v2.4.6",
@@ -211,7 +212,10 @@
     "v20260731-nightly: InlineImages: add RLog tracing for missing-image (brown) diagnosis",
     "v20260801-nightly: Fix Make Screenshot dropping ASCII ligatures; dedupe offscreen render",
     "v20260802-nightly: Enable right-to-left script support by default (issue 4361)",
-    "v20260803-nightly: Fully linkify long URLs: fix hard newlines, IDN, and images"
+    "v20260803-nightly: Fully linkify long URLs: fix hard newlines, IDN, and images",
+    "v20260804-nightly: Default the uv Python runtime to on for macOS 13+",
+    "v3.7.0beta9",
+    "v3.6.0beta9"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -313,7 +317,9 @@
     "release-publish/7c9794b5c65c-20260801",
     "release-publish/eb8c22ed13f9-20260801",
     "release-publish/deffca656500-20260801",
-    "release-publish/728084497329-20260801"
+    "release-publish/728084497329-20260801",
+    "2026.7.1-2",
+    "2026.7.1-1"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -2467,7 +2473,44 @@
     "49148176",
     "49145408",
     "49145115",
-    "49143719"
+    "49143719",
+    "49165219",
+    "49156657",
+    "49167132",
+    "49167083",
+    "49166899",
+    "49166844",
+    "49166538",
+    "49166289",
+    "49165868",
+    "49165807",
+    "49165187",
+    "49164763",
+    "49161957",
+    "49160189",
+    "49159363",
+    "49157997",
+    "49157983",
+    "49157807",
+    "49157652",
+    "49157496",
+    "49157403",
+    "49156779",
+    "49166308",
+    "49164643",
+    "49163346",
+    "49161617",
+    "49161353",
+    "49160376",
+    "49159148",
+    "49158573",
+    "49158518",
+    "49158497",
+    "49157306",
+    "49156680",
+    "49156306",
+    "49156055",
+    "49155409"
   ],
   "tmux": [
     "tmux 3.7-rc",
