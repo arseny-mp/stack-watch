@@ -156,10 +156,12 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.217
 https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 https://github.com/anthropics/claude-code/releases/tag/v2.1.220
 https://github.com/anthropics/claude-code/releases/tag/v2.1.221
+https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
 https://github.com/barvhaim/code-security-skills
+https://github.com/berwinsingh/oldhand
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
 https://github.com/braincompany/sessiongrep
@@ -172,6 +174,7 @@ https://github.com/chebykinn/glp-ram
 https://github.com/chipmates/cctap
 https://github.com/clay-good/OpenLore
 https://github.com/cloudkj/llayer
+https://github.com/craigstoller/claude-code-sessions/blob/main/docs/the-session-that-synced-itself.md
 https://github.com/cyrusNuevoDia/gpt-workflow
 https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
@@ -200,6 +203,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260626-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260701-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/hamzarehmandeveloper/claude-account
 https://github.com/hbkdad/arc
 https://github.com/hyperb1iss/sibyl
@@ -277,6 +281,7 @@ https://github.com/ollama/ollama/releases/tag/v0.32.1
 https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.3
 https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0
+https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
@@ -315,6 +320,7 @@ https://github.com/rivora-dev/rivora
 https://github.com/roandejager/Hillock
 https://github.com/robert-auger/safer-dependencies
 https://github.com/rondoflow/rondoflow
+https://github.com/ronle/clayrune
 https://github.com/samchon/ttsc/tree/master/packages/graph
 https://github.com/sashamitrovich/milepost
 https://github.com/sathish316/pi-omniagent-extensions/
@@ -332,6 +338,7 @@ https://github.com/superalp1985/fame-knowledge-agent-gateway
 https://github.com/thegoodguysla/myco-brain
 https://github.com/theoriclabs/agent-convert
 https://github.com/tigerless-labs/autoharness
+https://github.com/tikalk/adlc-team-skills
 https://github.com/tiliondev/fortress/tree/main/mcp
 https://github.com/tiny-cloud-ventures/amnesia
 https://github.com/tmux/tmux/releases/tag/3.7
@@ -459,6 +466,7 @@ https://status.claude.com/incidents/xmhsglsz3h3w
 https://support.google.com/notebooklm/answer/16296687?hl=en
 https://support.google.com/notebooklm/answer/17003757?hl=en
 https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/
+https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/
 https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/
 https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
@@ -484,6 +492,7 @@ https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
 https://www.anthropic.com/news/claude-opus-4-8
 https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476
 https://www.claudeusage.com/leaderboard
+https://www.costclaw.io/
 https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/
 https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
 https://www.endorlabs.com/learn/endor-labs-ai-sast-finds-zero-day-cve-2026-55407-buffa
@@ -503,6 +512,7 @@ https://www.nlmtools.com/blog/notebooklm-collections-guide
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/shellphone
+https://www.reddit.com/r/ClaudeCode/comments/1vfcs18/a_terminalbased_jupyter_notebook_that_helps/
 https://www.refine.ink/blog/jemalloc-fragmentation
 https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/
 https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
