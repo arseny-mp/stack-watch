@@ -71,6 +71,7 @@ https://github.com/Alfredvc/aharness
 https://github.com/Bhavya6187/tandem
 https://github.com/CelestoAI/smolfs
 https://github.com/Clear-Sights/Makoto
+https://github.com/ConradLu2740/ProactiveAgent
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Elpulgo/polysbx
@@ -157,6 +158,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 https://github.com/anthropics/claude-code/releases/tag/v2.1.220
 https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 https://github.com/anthropics/claude-code/releases/tag/v2.1.222
+https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -417,6 +419,7 @@ https://news.ycombinator.com/item?id=48968447
 https://news.ycombinator.com/item?id=48972273
 https://news.ycombinator.com/item?id=49097150
 https://news.ycombinator.com/item?id=49098966
+https://news.ycombinator.com/item?id=49193794
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
