@@ -65,6 +65,7 @@ https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-a
 https://fixyourdocs.io/
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://github.com/APareek89/power-coding
+https://github.com/Aident-AI/aident-skill
 https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
 https://github.com/Alfredvc/aharness
@@ -159,6 +160,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.220
 https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 https://github.com/anthropics/claude-code/releases/tag/v2.1.223
+https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -180,6 +182,7 @@ https://github.com/craigstoller/claude-code-sessions/blob/main/docs/the-session-
 https://github.com/cyrusNuevoDia/gpt-workflow
 https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
+https://github.com/dachev/plan-review
 https://github.com/desktop-commander/desktop-commander
 https://github.com/dotbrt/dejaview
 https://github.com/drumih/turbo-fieldfare
@@ -348,6 +351,7 @@ https://github.com/tmux/tmux/releases/tag/3.7a
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
 https://github.com/toshipepe/tokimeter
+https://github.com/uber/ADR
 https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
 https://github.com/vitalysim/browser-bridge
@@ -516,6 +520,7 @@ https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in
 https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/shellphone
 https://www.reddit.com/r/ClaudeCode/comments/1vfcs18/a_terminalbased_jupyter_notebook_that_helps/
+https://www.reddit.com/r/LocalLLaMA/comments/1vhivsb/prompt_injection_in_ollama_gemma4_and/
 https://www.refine.ink/blog/jemalloc-fragmentation
 https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/
 https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
