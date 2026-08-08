@@ -37,6 +37,7 @@ https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
 https://cloudcode.one/
 https://code.claude.com/docs/en/changelog
+https://code.claude.com/docs/en/cross-session-messaging
 https://code.claude.com/docs/en/desktop-linux
 https://code.claude.com/docs/en/monitoring-usage
 https://code.claude.com/docs/en/security-guidance
@@ -48,6 +49,7 @@ https://code.intellios.ai
 https://codeaholicguy.com/2026/06/17/i-read-every-claude-code-hook-so-you-dont-have-to/
 https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/
 https://contextify.sh/
+https://cowchat.cowboy.inc/
 https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html
 https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30
 https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
@@ -80,6 +82,7 @@ https://github.com/ForeverSc/pinfix
 https://github.com/FrigadeHQ/yap
 https://github.com/GLechevalier/nff
 https://github.com/GhetauTudor/esi
+https://github.com/Graphify-Labs/graphify
 https://github.com/HabibiCodeCH/claude-no-bash-detour
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/HtooTayZa/sawtooth-memory
@@ -161,6 +164,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 https://github.com/anthropics/claude-code/releases/tag/v2.1.224
+https://github.com/anthropics/claude-code/releases/tag/v2.1.226
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -333,6 +337,7 @@ https://github.com/saurabhav88/EnviousWispr
 https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
 https://github.com/shofer-dev/claude-code-live-memory
+https://github.com/skorotkiewicz/zero-mem
 https://github.com/slash9494/ai-config-sync-manager
 https://github.com/softcane/aloud
 https://github.com/softcane/cc-session-recover
@@ -481,6 +486,8 @@ https://theaileverageweekly.com/posts/claude-vs-chatgpt-for-code-review-which-is
 https://thenewstack.io/agentjacking-sentry-mcp-attack/
 https://thereallo.dev/blog/claude-code-prompt-steganography
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
+https://tim-schipper.nl/en/blog/claude-code-context-management
+https://twitter.com/ClaudeDevs/status/2085794862608318627
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/samelldev/status/2070213157357072794
 https://uml.gpmai.workers.dev
@@ -521,6 +528,7 @@ https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/shellphone
 https://www.reddit.com/r/ClaudeCode/comments/1vfcs18/a_terminalbased_jupyter_notebook_that_helps/
 https://www.reddit.com/r/LocalLLaMA/comments/1vhivsb/prompt_injection_in_ollama_gemma4_and/
+https://www.reddit.com/r/vibecoding/comments/1vifa9f/i_got_a_browser_running_inside_the_terminal_and/
 https://www.refine.ink/blog/jemalloc-fragmentation
 https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/
 https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
