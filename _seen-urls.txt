@@ -9,6 +9,7 @@ https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
 https://aicommander.dev/
 https://aiweekly.co
 https://ama2.me/
+https://anona-labs.github.io/mirror/
 https://antigma.ai/blog/2026/07/25/short-prompt-small-models
 https://apicalculators.com/
 https://apiyi.com
@@ -215,6 +216,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/hamzarehmandeveloper/claude-account
 https://github.com/hbkdad/arc
+https://github.com/hetpatel-11/agent-hop
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
@@ -353,6 +355,7 @@ https://github.com/tiliondev/fortress/tree/main/mcp
 https://github.com/tiny-cloud-ventures/amnesia
 https://github.com/tmux/tmux/releases/tag/3.7
 https://github.com/tmux/tmux/releases/tag/3.7a
+https://github.com/tohid4n/qwen3.8-max-local-coding
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
 https://github.com/toshipepe/tokimeter
@@ -467,6 +470,7 @@ https://sessionradar.com
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
 https://signetai.sh/
 https://signoz.io/blog/claude-code-model-comparison/
+https://simonwillison.net/2026/Aug/8/auto-mode/
 https://simplybychris.github.io/antigravity-plugin-cc/
 https://snippai.dev
 https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/
@@ -496,6 +500,7 @@ https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-int
 https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
 https://verity.md
 https://verity.md/
+https://vibsync.com/
 https://vnoc.vercel.app/project/claudecode
 https://withwillow.ai/platform/claude-policy-ranger
 https://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html
