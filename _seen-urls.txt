@@ -28,6 +28,7 @@ https://chatgpt.com/apps/mindmap/asdk_app_69e1ea6c505c81918d6c8f0258a64906
 https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://cimons.com/article/balancing-claude-with-glm-5-2-in-mid-level-coding-agent-structuring-prompts
 https://claude.com/blog/artifacts-in-claude-code
+https://claude.com/blog/auto-mode-default-in-claude-code
 https://claude.com/blog/claude-model-and-effort-level-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
@@ -403,6 +404,7 @@ https://medium.com/zerogpu/how-to-reduce-ai-compute-costs-with-our-claude-code-p
 https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-command
 https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-loop
 https://mentedb.com/compare/mem0
+https://meshintelligence.substack.com/p/how-to-use-github-as-long-term-memory
 https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
 https://near.ai/blog/introducing-ironclaw-1-0
@@ -502,6 +504,7 @@ https://verity.md
 https://verity.md/
 https://vibsync.com/
 https://vnoc.vercel.app/project/claudecode
+https://whetstone.akbarsha.dev/
 https://withwillow.ai/platform/claude-policy-ranger
 https://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html
 https://www.aaron-gustafson.com/notebook/2026-06-17-llm-biased-against-accessible-code/
