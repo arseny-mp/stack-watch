@@ -15,6 +15,7 @@ https://apicalculators.com/
 https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
+https://arcbox.dev/blog/macos-vm-memory-ratchet
 https://astgl.com/p/skill-mining-claude-code-config-patterns
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
 https://blog.disintegrator.dev/posts/lnav-claude-code/
@@ -118,6 +119,7 @@ https://github.com/ToxicPine/offloads
 https://github.com/Trivo25/code-airlock
 https://github.com/Watari995/cc-preview
 https://github.com/YoanWai/agent-manager
+https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
 https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/alagiz/cc-context-telemetry
@@ -125,12 +127,14 @@ https://github.com/alex-reysa/glueRun-go
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/anlor1002-alt/regressionledger
 https://github.com/anthonystaiger8-bit/memory-model
+https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3
 https://github.com/anthropics/claude-code/issues
 https://github.com/anthropics/claude-code/issues/16537
 https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
 https://github.com/anthropics/claude-code/issues/62476
 https://github.com/anthropics/claude-code/issues/63498
+https://github.com/anthropics/claude-code/issues/65961
 https://github.com/anthropics/claude-code/issues/72274
 https://github.com/anthropics/claude-code/issues/73125
 https://github.com/anthropics/claude-code/issues/74066
@@ -167,6 +171,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 https://github.com/anthropics/claude-code/releases/tag/v2.1.226
+https://github.com/anthropics/claude-code/releases/tag/v2.1.227
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -237,6 +242,7 @@ https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
 https://github.com/loopedautomation/whisper
+https://github.com/mateusdcc/pi-gpt-search
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
 https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
@@ -294,6 +300,7 @@ https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.3
 https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0
+https://github.com/ollama/ollama/releases/tag/v0.32.8
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
@@ -314,6 +321,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.6.9-alpha.6
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.4
+https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.1
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
@@ -434,6 +442,8 @@ https://news.ycombinator.com/item?id=48972273
 https://news.ycombinator.com/item?id=49097150
 https://news.ycombinator.com/item?id=49098966
 https://news.ycombinator.com/item?id=49193794
+https://news.ycombinator.com/item?id=49254381
+https://news.ycombinator.com/item?id=49254919
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -442,6 +452,7 @@ https://old.reddit.com/r/ClaudeAI/comments/1up0614/how_to_build_insanely_powerfu
 https://old.reddit.com/r/ClaudeCode/comments/1uz5tpl/tilepack_repos_docs_files_and_prompts_into_images/
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
+https://ollama.com/blog/muse-glimmer
 https://ollama.com/library/kimi-k3
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
@@ -474,6 +485,7 @@ https://signetai.sh/
 https://signoz.io/blog/claude-code-model-comparison/
 https://simonwillison.net/2026/Aug/8/auto-mode/
 https://simplybychris.github.io/antigravity-plugin-cc/
+https://smeltworks.com/claudemd/
 https://snippai.dev
 https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/
 https://sokkan.ch
