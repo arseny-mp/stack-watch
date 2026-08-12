@@ -16,6 +16,7 @@ https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
 https://arcbox.dev/blog/macos-vm-memory-ratchet
+https://arxiv.org/abs/2608.11095
 https://astgl.com/p/skill-mining-claude-code-config-patterns
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
 https://blog.disintegrator.dev/posts/lnav-claude-code/
@@ -138,6 +139,7 @@ https://github.com/anthropics/claude-code/issues/65961
 https://github.com/anthropics/claude-code/issues/72274
 https://github.com/anthropics/claude-code/issues/73125
 https://github.com/anthropics/claude-code/issues/74066
+https://github.com/anthropics/claude-code/issues/78431
 https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 https://github.com/anthropics/claude-code/releases/tag/v2.1.148
 https://github.com/anthropics/claude-code/releases/tag/v2.1.149
@@ -172,6 +174,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 https://github.com/anthropics/claude-code/releases/tag/v2.1.226
 https://github.com/anthropics/claude-code/releases/tag/v2.1.227
+https://github.com/anthropics/claude-code/releases/tag/v2.1.228
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -233,6 +236,7 @@ https://github.com/joanseg/specmanager
 https://github.com/joey-io/gauge
 https://github.com/kageroumado/adrafinil
 https://github.com/kamihork/cckeep
+https://github.com/karanb192/hindcast
 https://github.com/kmcheung12/second-opinion
 https://github.com/kolegadev/Katra-Agentic-Memory
 https://github.com/kuberwastaken/reference
@@ -462,6 +466,7 @@ https://parcle.ai/
 https://patrickmccanna.net/inspecting-claude-codes-network-traffic-with-linux-namespaces-and-mitm-proxying-part-1/
 https://pchalasani.github.io/claude-code-tools/
 https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/
+https://phasespace.co/blog/git-blame-for-your-agents-memory/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
 https://pmbai.dev
@@ -544,8 +549,11 @@ https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-power
 https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
 https://www.nlmtools.com/blog/notebooklm-collections-guide
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
+https://www.npmjs.com/package/@cognitive-fab/polycheck
 https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/shellphone
+https://www.reddit.com/r/ClaudeAI/comments/1vknrjx/building_a_purerust_sandboxed_localfirst_browser/
+https://www.reddit.com/r/ClaudeAI/comments/1vm2w0e/a_lightweight_rootless_container_sandbox_for/
 https://www.reddit.com/r/ClaudeCode/comments/1vfcs18/a_terminalbased_jupyter_notebook_that_helps/
 https://www.reddit.com/r/LocalLLaMA/comments/1vhivsb/prompt_injection_in_ollama_gemma4_and/
 https://www.reddit.com/r/vibecoding/comments/1vifa9f/i_got_a_browser_running_inside_the_terminal_and/
