@@ -96,6 +96,7 @@ https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/KerryRitter/parley
 https://github.com/KonghaYao/peri
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
+https://github.com/Lukeesec/mux-beacon
 https://github.com/Mamasodikov/hasharot
 https://github.com/MaorBril/agentic
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
@@ -104,6 +105,7 @@ https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
+https://github.com/NanoNets/Graft
 https://github.com/NevaMind-AI/memU
 https://github.com/Perseus-Computing-LLC/mimir
 https://github.com/Perufitlife/awesome-backend-security
@@ -119,6 +121,7 @@ https://github.com/Toadoum/ai-research-skill
 https://github.com/ToxicPine/offloads
 https://github.com/Trivo25/code-airlock
 https://github.com/Watari995/cc-preview
+https://github.com/Ymirke/tmux-agent-switcher
 https://github.com/YoanWai/agent-manager
 https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
@@ -175,6 +178,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 https://github.com/anthropics/claude-code/releases/tag/v2.1.226
 https://github.com/anthropics/claude-code/releases/tag/v2.1.227
 https://github.com/anthropics/claude-code/releases/tag/v2.1.228
+https://github.com/anthropics/claude-code/releases/tag/v2.1.231
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -241,6 +245,7 @@ https://github.com/kmcheung12/second-opinion
 https://github.com/kolegadev/Katra-Agentic-Memory
 https://github.com/kuberwastaken/reference
 https://github.com/kunal12203/webify-mcp
+https://github.com/labzink/cc-probeline
 https://github.com/lacion/fleet-deck
 https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
@@ -300,6 +305,7 @@ https://github.com/ollama/ollama/releases/tag/v0.31.2-rc1
 https://github.com/ollama/ollama/releases/tag/v0.31.2-rc2
 https://github.com/ollama/ollama/releases/tag/v0.32.0-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.1
+https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.3
 https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0
@@ -343,6 +349,7 @@ https://github.com/riktar/memledger
 https://github.com/rivora-dev/rivora
 https://github.com/roandejager/Hillock
 https://github.com/robert-auger/safer-dependencies
+https://github.com/robertkeus/peter
 https://github.com/rondoflow/rondoflow
 https://github.com/ronle/clayrune
 https://github.com/samchon/ttsc/tree/master/packages/graph
@@ -395,6 +402,7 @@ https://hextrap.com/products/firewall/
 https://hiver.sh
 https://hyperbox.sh
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
+https://itmeetsot.eu/posts/2026-08-12-opus5_automode/
 https://jankovd.substack.com/p/claude-can-read-your-secrets
 https://jazzyalex.github.io/agent-sessions/
 https://joshlf.com/posts/memory-safety-life-and-death/
