@@ -179,6 +179,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.226
 https://github.com/anthropics/claude-code/releases/tag/v2.1.227
 https://github.com/anthropics/claude-code/releases/tag/v2.1.228
 https://github.com/anthropics/claude-code/releases/tag/v2.1.231
+https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -194,6 +195,7 @@ https://github.com/cfitzgerald-pd/effort-router
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
 https://github.com/chipmates/cctap
+https://github.com/choiyounggi/cliclaw
 https://github.com/clay-good/OpenLore
 https://github.com/cloudkj/llayer
 https://github.com/craigstoller/claude-code-sessions/blob/main/docs/the-session-that-synced-itself.md
@@ -201,6 +203,7 @@ https://github.com/cyrusNuevoDia/gpt-workflow
 https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
 https://github.com/dachev/plan-review
+https://github.com/danielLublinsky/Skill_Atlas
 https://github.com/desktop-commander/desktop-commander
 https://github.com/dotbrt/dejaview
 https://github.com/drumih/turbo-fieldfare
@@ -230,6 +233,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/hamzarehmandeveloper/claude-account
 https://github.com/hbkdad/arc
 https://github.com/hetpatel-11/agent-hop
+https://github.com/horilla98/agent-kit
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
@@ -240,6 +244,7 @@ https://github.com/joanseg/specmanager
 https://github.com/joey-io/gauge
 https://github.com/kageroumado/adrafinil
 https://github.com/kamihork/cckeep
+https://github.com/kanjani-ai-research/Vesta
 https://github.com/karanb192/hindcast
 https://github.com/kmcheung12/second-opinion
 https://github.com/kolegadev/Katra-Agentic-Memory
@@ -261,6 +266,7 @@ https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.6
 https://github.com/mem0ai/mem0/releases/tag/v2.0.13
 https://github.com/mem0ai/mem0/releases/tag/v2.0.3
 https://github.com/mem0ai/mem0/releases/tag/v2.0.4
+https://github.com/memcode-ai/memcode
 https://github.com/mindmuxai/brain.md
 https://github.com/miopea/swarm
 https://github.com/mirko-pira/skillhealth
@@ -332,6 +338,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.4
 https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.1
+https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.2
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
@@ -515,6 +522,7 @@ https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
 https://theaileverageweekly.com/posts/claude-vs-chatgpt-for-code-review-which-is-better.html
 https://thenewstack.io/agentjacking-sentry-mcp-attack/
+https://thenewstack.io/openai-chatgpt-computer-history/
 https://thereallo.dev/blog/claude-code-prompt-steganography
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
 https://tim-schipper.nl/en/blog/claude-code-context-management

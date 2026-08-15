@@ -54,7 +54,11 @@
     "v0.32.8-rc0",
     "v0.32.9",
     "v0.32.10",
-    "v0.32.10-rc0"
+    "v0.32.10-rc0",
+    "v0.32.13",
+    "v0.32.12",
+    "v0.32.11",
+    "v0.32.10-rc1"
   ],
   "claude code": [
     "v2.1.165",
@@ -120,7 +124,9 @@
     "v2.1.227",
     "v2.1.228",
     "v2.1.231",
-    "v2.1.229"
+    "v2.1.229",
+    "v2.1.233",
+    "v2.1.232"
   ],
   "mem0": [
     "v2.4.6",
@@ -243,7 +249,8 @@
     "v20260805-nightly: Offer physical-key bindings when a shortcut fails after a layout change",
     "v20260806-nightly: Restore sessions whose working directory is gone (issue 12955)",
     "v20260807-nightly: Improve the scrollable side tab bar and make it a real setting",
-    "v20260808-nightly: Extend scrollable tab bar to horizontal orientations"
+    "v20260808-nightly: Extend scrollable tab bar to horizontal orientations",
+    "v20260814-nightly: Tab groups: review fixes, drag drop feedback, cleanup"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -353,7 +360,10 @@
     "v2026.8.1-beta.1",
     "release-publish/f4987deb94b8-1786361493",
     "release-publish/8371831eba5e-1786610071",
-    "release-publish/716f996be8db-1786550775"
+    "release-publish/716f996be8db-1786550775",
+    "2026.8.1-beta.2",
+    "release-publish/57fabb2c9c35-1786621048",
+    "release-publish/abd63c06c2f5-1786646045"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -2864,7 +2874,48 @@
     "49274335",
     "49273404",
     "49271447",
-    "49270630"
+    "49270630",
+    "49286299",
+    "49305628",
+    "49305190",
+    "49305115",
+    "49304849",
+    "49301230",
+    "49301165",
+    "49300800",
+    "49299985",
+    "49299146",
+    "49298901",
+    "49297267",
+    "49297179",
+    "49296844",
+    "49295425",
+    "49294922",
+    "49294529",
+    "49293875",
+    "49291723",
+    "49290887",
+    "49289464",
+    "49309134",
+    "49308738",
+    "49308530",
+    "49307927",
+    "49307407",
+    "49305685",
+    "49304377",
+    "49304202",
+    "49303386",
+    "49303272",
+    "49302149",
+    "49299386",
+    "49298820",
+    "49298420",
+    "49297082",
+    "49295330",
+    "49294383",
+    "49294369",
+    "49293216",
+    "49292758"
   ],
   "tmux": [
     "tmux 3.7-rc",
