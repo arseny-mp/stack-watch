@@ -58,7 +58,8 @@
     "v0.32.13",
     "v0.32.12",
     "v0.32.11",
-    "v0.32.10-rc1"
+    "v0.32.10-rc1",
+    "v0.32.14"
   ],
   "claude code": [
     "v2.1.165",
@@ -250,7 +251,8 @@
     "v20260806-nightly: Restore sessions whose working directory is gone (issue 12955)",
     "v20260807-nightly: Improve the scrollable side tab bar and make it a real setting",
     "v20260808-nightly: Extend scrollable tab bar to horizontal orientations",
-    "v20260814-nightly: Tab groups: review fixes, drag drop feedback, cleanup"
+    "v20260814-nightly: Tab groups: review fixes, drag drop feedback, cleanup",
+    "v20260816-nightly: Tab groups: collapsible groups with animated collapse/expand"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -2915,7 +2917,33 @@
     "49294383",
     "49294369",
     "49293216",
-    "49292758"
+    "49292758",
+    "49315777",
+    "49314164",
+    "49318271",
+    "49317809",
+    "49314731",
+    "49311785",
+    "49309309",
+    "49302705",
+    "49298684",
+    "49301648",
+    "49318120",
+    "49317415",
+    "49316320",
+    "49314932",
+    "49314509",
+    "49314460",
+    "49314378",
+    "49314204",
+    "49313459",
+    "49313250",
+    "49312921",
+    "49312845",
+    "49312670",
+    "49311581",
+    "49310834",
+    "49309390"
   ],
   "tmux": [
     "tmux 3.7-rc",
