@@ -136,6 +136,7 @@ https://github.com/anthropics/claude-code/issues
 https://github.com/anthropics/claude-code/issues/16537
 https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
+https://github.com/anthropics/claude-code/issues/6235
 https://github.com/anthropics/claude-code/issues/62476
 https://github.com/anthropics/claude-code/issues/63498
 https://github.com/anthropics/claude-code/issues/65961
@@ -464,6 +465,7 @@ https://news.ycombinator.com/item?id=49098966
 https://news.ycombinator.com/item?id=49193794
 https://news.ycombinator.com/item?id=49254381
 https://news.ycombinator.com/item?id=49254919
+https://news.ycombinator.com/item?id=49325946
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -483,6 +485,7 @@ https://patrickmccanna.net/inspecting-claude-codes-network-traffic-with-linux-na
 https://pchalasani.github.io/claude-code-tools/
 https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/
 https://phasespace.co/blog/git-blame-for-your-agents-memory/
+https://philippdubach.com/posts/kimi-k3-inside-claude-code/
 https://pipevoice.app/
 https://platform.claude.com/docs/en/release-notes/overview
 https://pmbai.dev
@@ -526,6 +529,7 @@ https://thenewstack.io/agentjacking-sentry-mcp-attack/
 https://thenewstack.io/openai-chatgpt-computer-history/
 https://thereallo.dev/blog/claude-code-prompt-steganography
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
+https://thomas-witt.com/blog/blog-subagent-model-pin/
 https://tim-schipper.nl/en/blog/claude-code-context-management
 https://twitter.com/ClaudeDevs/status/2085794862608318627
 https://twitter.com/IntCyberDigest/status/2071971609183678544
@@ -583,5 +587,6 @@ https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
+https://www.zhcinstitute.com/research/oh-my-claudecode-multi-agent-field-notes/
 https://ykdojo.github.io/claude-code-tips/content/the-missing-private-github-search.html
 https://yolo-auto.com/news/memory-options-for-agents
