@@ -128,7 +128,8 @@
     "v2.1.231",
     "v2.1.229",
     "v2.1.233",
-    "v2.1.232"
+    "v2.1.232",
+    "v2.1.234"
   ],
   "mem0": [
     "v2.4.6",
@@ -253,7 +254,9 @@
     "v20260807-nightly: Improve the scrollable side tab bar and make it a real setting",
     "v20260808-nightly: Extend scrollable tab bar to horizontal orientations",
     "v20260814-nightly: Tab groups: review fixes, drag drop feedback, cleanup",
-    "v20260816-nightly: Tab groups: collapsible groups with animated collapse/expand"
+    "v20260816-nightly: Tab groups: collapsible groups with animated collapse/expand",
+    "v3.7.0beta10",
+    "v20260818-nightly: Tab groups: collapsible groups with animated collapse/expand"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -367,7 +370,8 @@
     "2026.8.1-beta.2",
     "release-publish/57fabb2c9c35-1786621048",
     "release-publish/abd63c06c2f5-1786646045",
-    "PR #124528 Gateway profile evidence"
+    "PR #124528 Gateway profile evidence",
+    "pr-124528-profiles"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -2965,7 +2969,44 @@
     "49320178",
     "49319814",
     "49319583",
-    "49319262"
+    "49319262",
+    "49343465",
+    "49339675",
+    "49330604",
+    "49342872",
+    "49342012",
+    "49339210",
+    "49338780",
+    "49337325",
+    "49336757",
+    "49336452",
+    "49336157",
+    "49335595",
+    "49332326",
+    "49332320",
+    "49331004",
+    "49330285",
+    "49329819",
+    "49332584",
+    "49330403",
+    "49342416",
+    "49341774",
+    "49339547",
+    "49337913",
+    "49337630",
+    "49337587",
+    "49337475",
+    "49337198",
+    "49337193",
+    "49335765",
+    "49334960",
+    "49334546",
+    "49334358",
+    "49334132",
+    "49332751",
+    "49332669",
+    "49331884",
+    "49331867"
   ],
   "tmux": [
     "tmux 3.7-rc",
@@ -2973,7 +3014,8 @@
     "tmux 3.7a",
     "tmux 3.6b",
     "tmux 3.6a",
-    "tmux 3.7b"
+    "tmux 3.7b",
+    "tmux 3.7c"
   ],
   "openhuman": [
     "v0.57.40",

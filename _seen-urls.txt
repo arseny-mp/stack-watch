@@ -144,6 +144,7 @@ https://github.com/anthropics/claude-code/issues/72274
 https://github.com/anthropics/claude-code/issues/73125
 https://github.com/anthropics/claude-code/issues/74066
 https://github.com/anthropics/claude-code/issues/78431
+https://github.com/anthropics/claude-code/issues/79773
 https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 https://github.com/anthropics/claude-code/releases/tag/v2.1.148
 https://github.com/anthropics/claude-code/releases/tag/v2.1.149
@@ -206,6 +207,7 @@ https://github.com/d0nmega/donnyclaude
 https://github.com/dachev/plan-review
 https://github.com/danielLublinsky/Skill_Atlas
 https://github.com/desktop-commander/desktop-commander
+https://github.com/divadbaroon/claude-plugins
 https://github.com/dotbrt/dejaview
 https://github.com/drumih/turbo-fieldfare
 https://github.com/dylanp12/alluvia
@@ -216,6 +218,7 @@ https://github.com/fabioconcina/claumon
 https://github.com/faisalishfaq2005/loopflow
 https://github.com/fashton28/mux
 https://github.com/freestyle-voice/freestyle
+https://github.com/fu351/Doberman-Core
 https://github.com/funador/claude-code-merge-queue
 https://github.com/ggml-org/llama.cpp/pull/24219
 https://github.com/github/github-mcp-server/pull/2571
@@ -517,6 +520,7 @@ https://solid.tech
 https://status.claude.com/incidents/bbcpk0t2cj4p
 https://status.claude.com/incidents/jbhf20wjmzrf
 https://status.claude.com/incidents/xmhsglsz3h3w
+https://statuslin.es
 https://support.google.com/notebooklm/answer/16296687?hl=en
 https://support.google.com/notebooklm/answer/17003757?hl=en
 https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/
