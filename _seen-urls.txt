@@ -22,6 +22,7 @@ https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-no
 https://blog.disintegrator.dev/posts/lnav-claude-code/
 https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
 https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/
+https://blogs.zethian.com/when-deny-doesnt-win.html
 https://brianbell-x.github.io/weight-compression/
 https://capacitor.kurrent.io/
 https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second
@@ -54,6 +55,7 @@ https://codeaholicguy.com/2026/06/17/i-read-every-claude-code-hook-so-you-dont-h
 https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/
 https://contextify.sh/
 https://cowchat.cowboy.inc/
+https://cronloop.ai/
 https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html
 https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30
 https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
@@ -101,6 +103,7 @@ https://github.com/Mamasodikov/hasharot
 https://github.com/MaorBril/agentic
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
 https://github.com/MerqryLabs/ai-crawler-visibility
+https://github.com/MongLong0214/commitlore
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
@@ -127,6 +130,7 @@ https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
 https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/alagiz/cc-context-telemetry
+https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
 https://github.com/alex-reysa/glueRun-go
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/anlor1002-alt/regressionledger
@@ -226,6 +230,7 @@ https://github.com/github/github-mcp-server/releases/tag/v1.0.5
 https://github.com/github/github-mcp-server/releases/tag/v1.1.0
 https://github.com/github/github-mcp-server/releases/tag/v1.1.1
 https://github.com/github/github-mcp-server/releases/tag/v1.1.2
+https://github.com/gmhoward9289-ops/roost
 https://github.com/gnachman/iTerm2/releases/tag/v20260606-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260621-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260622-nightly
@@ -397,6 +402,7 @@ https://github.com/valmishq/valmis
 https://github.com/vitalysim/browser-bridge
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
+https://github.com/wdhwg001/csift
 https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
 https://github.com/workweave/router
@@ -423,6 +429,7 @@ https://karanbansal.in/blog/loop-engineering/
 https://kastra.ai/
 https://keyghost.dev/
 https://labs.flur.ee/docs/memory
+https://labyrinthanalyticsconsulting.com/blog/claude-memory-primitive-vs-loreconvo-vs-claude-mem-vs-mem0
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://llama-dash.dev
 https://lore.link/blog/how-we-built-share
