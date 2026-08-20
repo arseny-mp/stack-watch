@@ -78,6 +78,7 @@ https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
 https://github.com/Alfredvc/aharness
 https://github.com/Bhavya6187/tandem
+https://github.com/Bigbonus/ollama-context-window-check
 https://github.com/CelestoAI/smolfs
 https://github.com/Clear-Sights/Makoto
 https://github.com/ConradLu2740/ProactiveAgent
@@ -126,6 +127,7 @@ https://github.com/Trivo25/code-airlock
 https://github.com/Watari995/cc-preview
 https://github.com/Ymirke/tmux-agent-switcher
 https://github.com/YoanWai/agent-manager
+https://github.com/Yu-Xiao-Sheng/codex-memory-trim
 https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
 https://github.com/adityaarunsinghal/cc-hindsight
@@ -186,6 +188,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.227
 https://github.com/anthropics/claude-code/releases/tag/v2.1.228
 https://github.com/anthropics/claude-code/releases/tag/v2.1.231
 https://github.com/anthropics/claude-code/releases/tag/v2.1.233
+https://github.com/anthropics/claude-code/releases/tag/v2.1.237
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -221,9 +224,11 @@ https://github.com/exmergo/skill-no-em-dashes
 https://github.com/fabioconcina/claumon
 https://github.com/faisalishfaq2005/loopflow
 https://github.com/fashton28/mux
+https://github.com/flashlan/vibe-kanban-alternative
 https://github.com/freestyle-voice/freestyle
 https://github.com/fu351/Doberman-Core
 https://github.com/funador/claude-code-merge-queue
+https://github.com/gavingolden/flow/
 https://github.com/ggml-org/llama.cpp/pull/24219
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
@@ -239,6 +244,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260701-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260820-nightly
 https://github.com/hamzarehmandeveloper/claude-account
 https://github.com/hbkdad/arc
 https://github.com/hetpatel-11/agent-hop
@@ -322,11 +328,13 @@ https://github.com/ollama/ollama/releases/tag/v0.32.0-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.1
 https://github.com/ollama/ollama/releases/tag/v0.32.10-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0
+https://github.com/ollama/ollama/releases/tag/v0.32.15
 https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.3
 https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.8
+https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
 https://github.com/openai/codex/releases/tag/rust-v0.134.0
@@ -433,6 +441,7 @@ https://labyrinthanalyticsconsulting.com/blog/claude-memory-primitive-vs-lorecon
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://llama-dash.dev
 https://lore.link/blog/how-we-built-share
+https://lukasvonkunhardt.com/obsidian-claude-code-setup/
 https://marktechpost.com
 https://mauroepce.dev/blog/trust-boundaries-claude-code
 https://medium.com/@Koukyosyumei/how-claude-code-completely-broke-my-git-worktree-fc74effc9c4e
@@ -543,6 +552,7 @@ https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
 https://thomas-witt.com/blog/blog-subagent-model-pin/
 https://tim-schipper.nl/en/blog/claude-code-context-management
 https://twitter.com/ClaudeDevs/status/2085794862608318627
+https://twitter.com/ClaudeDevs/status/2090245922685063634
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/samelldev/status/2070213157357072794
 https://uml.gpmai.workers.dev
@@ -595,6 +605,7 @@ https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
 https://www.sipp.sh
 https://www.sqim.dev/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
+https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
