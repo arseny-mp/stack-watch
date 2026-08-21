@@ -85,6 +85,7 @@ https://github.com/ConradLu2740/ProactiveAgent
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/Elpulgo/polysbx
+https://github.com/EricAndrechek/Pacer
 https://github.com/ForeverSc/pinfix
 https://github.com/FrigadeHQ/yap
 https://github.com/GLechevalier/nff
@@ -189,6 +190,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.228
 https://github.com/anthropics/claude-code/releases/tag/v2.1.231
 https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 https://github.com/anthropics/claude-code/releases/tag/v2.1.237
+https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
@@ -245,6 +247,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260820-nightly
+https://github.com/gvzdv/claudish-to-english
 https://github.com/hamzarehmandeveloper/claude-account
 https://github.com/hbkdad/arc
 https://github.com/hetpatel-11/agent-hop

@@ -1,8 +1,7 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-08-07:</b>
+📅 <b>2026-08-21:</b>
   <b>Experiment:</b>
-  • Release v2.1.224 — Обновить Claude Code CLI глобально через npm до версии v2.1.224 и провести базовые тесты (~15 минут)
-  • HN: Show HN: Plan Review – independent review for Claude Code plans — Установить инструмент plan-review, запустить на пробной сложной задаче и оценить качество генерируемых замечаний к плану (~30 минут)
+  • Release v2.1.238 — Обновить CLI с помощью команды npm install -g @anthropic-ai/claude-code@2.1.238 и проверить базовую стабильность в одном из рабочих процессов (~30 минут).
 
