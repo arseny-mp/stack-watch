@@ -64,7 +64,10 @@
     "v0.32.15",
     "v0.32.15-rc2",
     "v0.32.15-rc1",
-    "v0.32.15-rc0"
+    "v0.32.15-rc0",
+    "v0.33.0",
+    "v0.33.0-rc1",
+    "v0.33.0-rc0"
   ],
   "claude code": [
     "v2.1.165",
@@ -137,7 +140,8 @@
     "v2.1.235",
     "v2.1.237",
     "v2.1.236",
-    "v2.1.238"
+    "v2.1.238",
+    "v2.1.239"
   ],
   "mem0": [
     "v2.4.6",
@@ -267,7 +271,8 @@
     "v20260818-nightly: Tab groups: collapsible groups with animated collapse/expand",
     "v20260819-nightly: Fix blob-replay truncation live test's token budget",
     "v20260820-nightly: Add a Settings toggle and Update Now button for AI model updates",
-    "v3.7.0beta11"
+    "v3.7.0beta11",
+    "v20260822-nightly: Fix AI chat permission button label not updating"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -388,7 +393,13 @@
     "release-publish/b6d7394a98a8-1787299755",
     "release-publish/45ed68e6ea62-1787220256: fix(release): accept trusted Codex scan layouts (#126588)",
     "release-publish/c28c279afa37-1787225611: fix(release): keep frozen validation independent of main (#126622)",
-    "release-publish/a4493e2521b0-32410682801"
+    "release-publish/a4493e2521b0-32410682801",
+    "release-publish/922296b847b4-1787363514",
+    "release-publish/0368cbf252d8-1787307721",
+    "release-publish/1a3aa6a36af7-1787336410",
+    "release-publish/f908e32050d1-1787335706",
+    "release-publish/c6d9a5dedc60-1787335804",
+    "release-publish/afc3535d2585-1787336757"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -3146,7 +3157,43 @@
     "49375760",
     "49373873",
     "49373709",
-    "49373651"
+    "49373651",
+    "49395936",
+    "49394859",
+    "49390543",
+    "49396175",
+    "49395637",
+    "49394827",
+    "49394794",
+    "49393346",
+    "49393051",
+    "49392644",
+    "49391464",
+    "49390739",
+    "49389466",
+    "49386922",
+    "49386183",
+    "49386001",
+    "49389744",
+    "49379224",
+    "49391762",
+    "49397330",
+    "49396920",
+    "49396875",
+    "49396299",
+    "49395758",
+    "49395756",
+    "49393393",
+    "49393285",
+    "49392057",
+    "49390363",
+    "49390308",
+    "49389535",
+    "49389417",
+    "49388930",
+    "49387576",
+    "49386519",
+    "49386122"
   ],
   "tmux": [
     "tmux 3.7-rc",
@@ -3184,6 +3231,7 @@
     "v0.63.9",
     "v0.63.12",
     "v0.63.11",
-    "v0.63.7"
+    "v0.63.7",
+    "v0.63.17"
   ]
 }
