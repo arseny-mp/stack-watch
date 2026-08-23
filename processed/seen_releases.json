@@ -141,7 +141,9 @@
     "v2.1.237",
     "v2.1.236",
     "v2.1.238",
-    "v2.1.239"
+    "v2.1.239",
+    "v2.1.241",
+    "v2.1.240"
   ],
   "mem0": [
     "v2.4.6",
@@ -272,7 +274,8 @@
     "v20260819-nightly: Fix blob-replay truncation live test's token budget",
     "v20260820-nightly: Add a Settings toggle and Update Now button for AI model updates",
     "v3.7.0beta11",
-    "v20260822-nightly: Fix AI chat permission button label not updating"
+    "v20260822-nightly: Fix AI chat permission button label not updating",
+    "v20260823-nightly: Add palette-index color bindings (SetColors=name=i:N)"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -399,7 +402,9 @@
     "release-publish/1a3aa6a36af7-1787336410",
     "release-publish/f908e32050d1-1787335706",
     "release-publish/c6d9a5dedc60-1787335804",
-    "release-publish/afc3535d2585-1787336757"
+    "release-publish/afc3535d2585-1787336757",
+    "release-publish/61f27aadfebd-1787477342: fix(release): repair frozen beta validation blockers (#128137)",
+    "release-publish/c96e81375014-1787462685"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -3193,7 +3198,36 @@
     "49388930",
     "49387576",
     "49386519",
-    "49386122"
+    "49386122",
+    "49398366",
+    "49405405",
+    "49404457",
+    "49403691",
+    "49403092",
+    "49402521",
+    "49401549",
+    "49399942",
+    "49399188",
+    "49398966",
+    "49398601",
+    "49407298",
+    "49407241",
+    "49407171",
+    "49406523",
+    "49405354",
+    "49405261",
+    "49404856",
+    "49404002",
+    "49403979",
+    "49403218",
+    "49403106",
+    "49402001",
+    "49401956",
+    "49401434",
+    "49401086",
+    "49399425",
+    "49399040",
+    "49398856"
   ],
   "tmux": [
     "tmux 3.7-rc",

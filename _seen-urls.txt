@@ -63,6 +63,7 @@ https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
 https://developers.openai.com/codex/changelog
 https://developers.openai.com/codex/sites
 https://devloop.sh
+https://digg.com/tech/fktxxvtg
 https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://downdetector.com.br/en/status/claude-ai/
@@ -194,7 +195,9 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 https://github.com/anthropics/claude-code/releases/tag/v2.1.237
 https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 https://github.com/anthropics/claude-code/releases/tag/v2.1.239
+https://github.com/anthropics/claude-code/releases/tag/v2.1.241
 https://github.com/arsenis-cmd/clai-benchmarks
+https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
 https://github.com/barvhaim/code-security-skills
@@ -218,6 +221,7 @@ https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
 https://github.com/dachev/plan-review
 https://github.com/danielLublinsky/Skill_Atlas
+https://github.com/dat999zx/knowl
 https://github.com/desktop-commander/desktop-commander
 https://github.com/divadbaroon/claude-plugins
 https://github.com/dotbrt/dejaview
@@ -354,6 +358,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2
 https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F556a2ee276f0-20260718
+https://github.com/openclaw/openclaw/releases/tag/release-publish%2F61f27aadfebd-1787477342
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.11
@@ -538,6 +543,7 @@ https://signetai.sh/
 https://signoz.io/blog/claude-code-model-comparison/
 https://simonwillison.net/2026/Aug/8/auto-mode/
 https://simplybychris.github.io/antigravity-plugin-cc/
+https://skillworks.kynth.studio
 https://smeltworks.com/claudemd/
 https://snippai.dev
 https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/
@@ -564,6 +570,7 @@ https://tim-schipper.nl/en/blog/claude-code-context-management
 https://twitter.com/ClaudeDevs/status/2085794862608318627
 https://twitter.com/ClaudeDevs/status/2090245922685063634
 https://twitter.com/IntCyberDigest/status/2071971609183678544
+https://twitter.com/argofowl/status/2091150597374537729
 https://twitter.com/samelldev/status/2070213157357072794
 https://uml.gpmai.workers.dev
 https://velaterm.com/
