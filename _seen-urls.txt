@@ -374,6 +374,7 @@ https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
 https://github.com/proliferate-ai/proliferate
+https://github.com/ptmrio/harness-subagent
 https://github.com/puffinsoft/peek-cli
 https://github.com/raine/claude-code-proxy
 https://github.com/raiyanyahya/recall

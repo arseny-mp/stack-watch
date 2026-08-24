@@ -404,7 +404,13 @@
     "release-publish/c6d9a5dedc60-1787335804",
     "release-publish/afc3535d2585-1787336757",
     "release-publish/61f27aadfebd-1787477342: fix(release): repair frozen beta validation blockers (#128137)",
-    "release-publish/c96e81375014-1787462685"
+    "release-publish/c96e81375014-1787462685",
+    "2026.8.1-beta.3",
+    "release-publish/70562c67feb1-1787485695",
+    "release-publish/eed27fdb88c0-1787493831: fix(release): admit final beta QA evidence (#128231)",
+    "release-publish/e9a46d218504-1787525305",
+    "release-publish/cc41f1b5ec7f-1787529727",
+    "release-publish/a13760c68543-1787527212"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -3227,7 +3233,11 @@
     "49401086",
     "49399425",
     "49399040",
-    "49398856"
+    "49398856",
+    "49408449",
+    "49409084",
+    "49408093",
+    "49407632"
   ],
   "tmux": [
     "tmux 3.7-rc",
