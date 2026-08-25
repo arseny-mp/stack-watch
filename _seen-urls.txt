@@ -87,6 +87,7 @@ https://github.com/Clear-Sights/Makoto
 https://github.com/ConradLu2740/ProactiveAgent
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
+https://github.com/DiegoSalazar/AiSyncing
 https://github.com/Elpulgo/polysbx
 https://github.com/EricAndrechek/Pacer
 https://github.com/ForeverSc/pinfix
@@ -118,9 +119,11 @@ https://github.com/NevaMind-AI/memU
 https://github.com/Perseus-Computing-LLC/mimir
 https://github.com/Perufitlife/awesome-backend-security
 https://github.com/Piebald-AI/claude-code-system-prompts
+https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompts/system-prompt-autonomous-operation-guidelines.md
 https://github.com/Poi5eN/Nexus
 https://github.com/Pupok462/open-geo
 https://github.com/RimantasZ/contextspy
+https://github.com/Santosh-Prasad-Verma/ClaudeGate
 https://github.com/SaravananJaichandar/world-model-mcp
 https://github.com/StoneSteel27/AutomatiQ
 https://github.com/SuperNotesOnline/ThinkFull
@@ -196,6 +199,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.237
 https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 https://github.com/anthropics/claude-code/releases/tag/v2.1.241
+https://github.com/anthropics/claude-code/releases/tag/v2.1.245
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -286,8 +290,10 @@ https://github.com/mateusdcc/pi-gpt-search
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
 https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
+https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.16
 https://github.com/mem0ai/mem0/releases/tag/opencode-v0.1.2
 https://github.com/mem0ai/mem0/releases/tag/opencode-v0.2.0
+https://github.com/mem0ai/mem0/releases/tag/pi-agent-v0.1.5
 https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.6
 https://github.com/mem0ai/mem0/releases/tag/v2.0.13
 https://github.com/mem0ai/mem0/releases/tag/v2.0.3
@@ -377,6 +383,7 @@ https://github.com/proliferate-ai/proliferate
 https://github.com/ptmrio/harness-subagent
 https://github.com/puffinsoft/peek-cli
 https://github.com/raine/claude-code-proxy
+https://github.com/rainmanjam/poka-yoke
 https://github.com/raiyanyahya/recall
 https://github.com/ralfyishere/rules-with-receipts
 https://github.com/raphaelwkago-sketch/rudi
@@ -430,7 +437,9 @@ https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
 https://github.com/workweave/router
 https://github.com/wtfwhs/tengu-decoded
+https://github.com/xhluca/session-migrate
 https://github.com/xltvy/openclaw-memgpt
+https://github.com/ykdojo/claude-code-tips
 https://github.com/yonk-labs/claude-session-analyzer
 https://github.com/yuliang615/claude-cache-guard
 https://helgesver.re/articles/claude-code-bang-command-caveat
