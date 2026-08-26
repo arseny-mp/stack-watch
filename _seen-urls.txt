@@ -200,6 +200,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 https://github.com/anthropics/claude-code/releases/tag/v2.1.241
 https://github.com/anthropics/claude-code/releases/tag/v2.1.245
+https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -352,6 +353,7 @@ https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.8
 https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2
+https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -517,6 +519,7 @@ https://old.reddit.com/r/ClaudeAI/comments/1tc9oa0/claude_code_weekly_limits_are
 https://old.reddit.com/r/ClaudeAI/comments/1up0614/how_to_build_insanely_powerful_orchestrator_loops/
 https://old.reddit.com/r/ClaudeCode/comments/1uz5tpl/tilepack_repos_docs_files_and_prompts_into_images/
 https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
+https://ollama.com/blog/claude-desktop
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
 https://ollama.com/blog/muse-glimmer
 https://ollama.com/library/kimi-k3
