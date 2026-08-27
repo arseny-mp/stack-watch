@@ -16,6 +16,7 @@ https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
 https://arcbox.dev/blog/macos-vm-memory-ratchet
+https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/
 https://arxiv.org/abs/2608.11095
 https://astgl.com/p/skill-mining-claude-code-config-patterns
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
@@ -55,6 +56,7 @@ https://code.intellios.ai
 https://codeaholicguy.com/2026/06/17/i-read-every-claude-code-hook-so-you-dont-have-to/
 https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/
 https://contextify.sh/
+https://contextuallabs.dev
 https://cowchat.cowboy.inc/
 https://cronloop.ai/
 https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html
@@ -67,6 +69,7 @@ https://digg.com/tech/fktxxvtg
 https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://downdetector.com.br/en/status/claude-ai/
+https://embracethered.com/blog/posts/2026/breaking-claude-acode-opus-5-and-automode/
 https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://extraheadroom.com/
@@ -93,10 +96,12 @@ https://github.com/EricAndrechek/Pacer
 https://github.com/ForeverSc/pinfix
 https://github.com/FrigadeHQ/yap
 https://github.com/GLechevalier/nff
+https://github.com/Get-Concord-AI/concord-mcp
 https://github.com/GhetauTudor/esi
 https://github.com/Graphify-Labs/graphify
 https://github.com/HabibiCodeCH/claude-no-bash-detour
 https://github.com/Hash-7777/HashMeterAi
+https://github.com/Helter5/agentbridge
 https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/IterateAI/compression
 https://github.com/JeevanJoshi2061/titan_engine_core
@@ -158,6 +163,7 @@ https://github.com/anthropics/claude-code/issues/73125
 https://github.com/anthropics/claude-code/issues/74066
 https://github.com/anthropics/claude-code/issues/78431
 https://github.com/anthropics/claude-code/issues/79773
+https://github.com/anthropics/claude-code/issues/79808
 https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 https://github.com/anthropics/claude-code/releases/tag/v2.1.148
 https://github.com/anthropics/claude-code/releases/tag/v2.1.149
@@ -201,6 +207,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 https://github.com/anthropics/claude-code/releases/tag/v2.1.241
 https://github.com/anthropics/claude-code/releases/tag/v2.1.245
 https://github.com/anthropics/claude-code/releases/tag/v2.1.246
+https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -237,6 +244,7 @@ https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
 https://github.com/fabioconcina/claumon
 https://github.com/faisalishfaq2005/loopflow
+https://github.com/faizannraza/wattage
 https://github.com/fashton28/mux
 https://github.com/flashlan/vibe-kanban-alternative
 https://github.com/freestyle-voice/freestyle
@@ -367,6 +375,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F556a2ee276f0-20260718
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F61f27aadfebd-1787477342
+https://github.com/openclaw/openclaw/releases/tag/release-publish%2F8afa8f339eb6-1787798436
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.11
@@ -512,6 +521,8 @@ https://news.ycombinator.com/item?id=49193794
 https://news.ycombinator.com/item?id=49254381
 https://news.ycombinator.com/item?id=49254919
 https://news.ycombinator.com/item?id=49325946
+https://news.ycombinator.com/item?id=49466646
+https://news.ycombinator.com/item?id=49467974
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -622,6 +633,7 @@ https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-runni
 https://www.nlmtools.com/blog/notebooklm-collections-guide
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
 https://www.npmjs.com/package/@cognitive-fab/polycheck
+https://www.npmjs.com/package/@lanes-sh/link
 https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/shellphone
 https://www.reddit.com/r/ClaudeAI/comments/1vknrjx/building_a_purerust_sandboxed_localfirst_browser/
