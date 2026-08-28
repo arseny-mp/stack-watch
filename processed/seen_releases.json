@@ -74,7 +74,9 @@
     "v0.33.2-rc0",
     "v0.33.1",
     "v0.33.1-rc1",
-    "v0.33.1-rc0"
+    "v0.33.1-rc0",
+    "v0.33.2",
+    "v0.33.2-rc1"
   ],
   "claude code": [
     "v2.1.165",
@@ -154,7 +156,10 @@
     "v2.1.245",
     "v2.1.243",
     "v2.1.246",
-    "v2.1.247"
+    "v2.1.247",
+    "v2.1.251",
+    "v2.1.250",
+    "v2.1.248"
   ],
   "mem0": [
     "v2.4.6",
@@ -294,7 +299,8 @@
     "v3.7.0beta11",
     "v20260822-nightly: Fix AI chat permission button label not updating",
     "v20260823-nightly: Add palette-index color bindings (SetColors=name=i:N)",
-    "v20260825-nightly: Remember HTTP basic-auth credentials in the built-in browser"
+    "v20260825-nightly: Remember HTTP basic-auth credentials in the built-in browser",
+    "v20260828-nightly: AI command suggestions: replace the line for natural-language prompts"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -436,7 +442,17 @@
     "release-publish/38fd9ad6e417-1787824804",
     "release-publish/21b41efc7bb8-1787818100",
     "release-publish/8afa8f339eb6-1787798436: fix(release): restore direct package Telegram acceptance (#129912)",
-    "release-publish/1c80cf86cfd0-1787823217: fix(release): reuse validation evidence after tooling updates (#130850)"
+    "release-publish/1c80cf86cfd0-1787823217: fix(release): reuse validation evidence after tooling updates (#130850)",
+    "2026.9.1-beta.1",
+    "release-publish/404719374e60-1787933925: fix(release): resume protected child publication (#131878)",
+    "release-publish/491769bded58-1787929537",
+    "release-publish/468054f93c43-1787921799: fix(agents): surface Claude OAuth expiry in channels (#131345)",
+    "release-publish/2133a924eef0-1787945469",
+    "release-publish/62c77b0fb51c-1787927225",
+    "release-publish/17a1225314cd-1787924262",
+    "release-publish/6ddb9f049fb3-1787938179",
+    "release-publish/5cb2eee257bc-1787929714",
+    "release-publish/5cb2eee257bc-1787929587"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -490,7 +506,18 @@
     "86b9438",
     "599dafc",
     "d811ba1",
-    "53dbe83"
+    "53dbe83",
+    "cda92bd",
+    "d6402ef",
+    "40a8de8",
+    "11845d5",
+    "cf05b37",
+    "642a911",
+    "18ce197",
+    "562feeb",
+    "71e3cfb",
+    "781a93d",
+    "8102fbe"
   ],
   "hn_discovery": [
     "48414924",
@@ -3369,7 +3396,46 @@
     "49460419",
     "49459539",
     "49458969",
-    "49456492"
+    "49456492",
+    "49483503",
+    "49481277",
+    "49480110",
+    "49477063",
+    "49484082",
+    "49483436",
+    "49483190",
+    "49482455",
+    "49482426",
+    "49481969",
+    "49479661",
+    "49479470",
+    "49477029",
+    "49476048",
+    "49475656",
+    "49474952",
+    "49473362",
+    "49466704",
+    "49476043",
+    "49472635",
+    "49471714",
+    "49484013",
+    "49483929",
+    "49483498",
+    "49482939",
+    "49478610",
+    "49478525",
+    "49478291",
+    "49478170",
+    "49478009",
+    "49477732",
+    "49477519",
+    "49475761",
+    "49475443",
+    "49475311",
+    "49473723",
+    "49473188",
+    "49472155",
+    "49471721"
   ],
   "tmux": [
     "tmux 3.7-rc",

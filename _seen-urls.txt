@@ -208,6 +208,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.241
 https://github.com/anthropics/claude-code/releases/tag/v2.1.245
 https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 https://github.com/anthropics/claude-code/releases/tag/v2.1.247
+https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -373,6 +374,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.1
 https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2
 https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
+https://github.com/openclaw/openclaw/releases/tag/release-publish%2F468054f93c43-1787921799
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F556a2ee276f0-20260718
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F61f27aadfebd-1787477342
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F8afa8f339eb6-1787798436

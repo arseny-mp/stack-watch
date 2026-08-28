@@ -1,7 +1,8 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-08-21:</b>
+📅 <b>2026-08-28:</b>
   <b>Experiment:</b>
-  • Release v2.1.238 — Обновить CLI с помощью команды npm install -g @anthropic-ai/claude-code@2.1.238 и проверить базовую стабильность в одном из рабочих процессов (~30 минут).
+  • Release v2.1.251 — Обновить Claude Code CLI до версии v2.1.251 через npm и проверить базовую работоспособность в одном из проектов (~15 минут).
+  • Release release-publish/468054f93c43-1787921799: fix(agents): surface Claude OAuth expiry in channels (#131345) — Обновить тестовую копию OpenClaw и симулировать истечение токена Claude для проверки оповещений (~30 минут).
 
