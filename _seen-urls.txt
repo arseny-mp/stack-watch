@@ -21,6 +21,7 @@ https://arxiv.org/abs/2608.11095
 https://astgl.com/p/skill-mining-claude-code-config-patterns
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
 https://blog.disintegrator.dev/posts/lnav-claude-code/
+https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/
 https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
 https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/
 https://blogs.zethian.com/when-deny-doesnt-win.html
@@ -401,6 +402,7 @@ https://github.com/raiyanyahya/recall
 https://github.com/ralfyishere/rules-with-receipts
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/ravsau/wrap
+https://github.com/raysonmeng/agent-bridge
 https://github.com/razzant/claudexor
 https://github.com/regolo-ai/brick-SR1
 https://github.com/rekol-io/rekol
@@ -452,6 +454,7 @@ https://github.com/workweave/router
 https://github.com/wtfwhs/tengu-decoded
 https://github.com/xhluca/session-migrate
 https://github.com/xltvy/openclaw-memgpt
+https://github.com/yevhens-hue/claude-skills-starter-kit
 https://github.com/ykdojo/claude-code-tips
 https://github.com/yonk-labs/claude-session-analyzer
 https://github.com/yuliang615/claude-cache-guard
@@ -525,6 +528,7 @@ https://news.ycombinator.com/item?id=49254919
 https://news.ycombinator.com/item?id=49325946
 https://news.ycombinator.com/item?id=49466646
 https://news.ycombinator.com/item?id=49467974
+https://news.ycombinator.com/item?id=49488963
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -575,6 +579,7 @@ https://snippai.dev
 https://software.rajivprab.com/2026/07/13/using-subagents-to-improve-claude-code/
 https://sokkan.ch
 https://solid.tech
+https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware/
 https://status.claude.com/incidents/bbcpk0t2cj4p
 https://status.claude.com/incidents/jbhf20wjmzrf
 https://status.claude.com/incidents/xmhsglsz3h3w
@@ -649,6 +654,7 @@ https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
 https://www.sipp.sh
 https://www.sqim.dev/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
+https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372
 https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline

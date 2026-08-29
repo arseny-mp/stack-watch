@@ -300,7 +300,8 @@
     "v20260822-nightly: Fix AI chat permission button label not updating",
     "v20260823-nightly: Add palette-index color bindings (SetColors=name=i:N)",
     "v20260825-nightly: Remember HTTP basic-auth credentials in the built-in browser",
-    "v20260828-nightly: AI command suggestions: replace the line for natural-language prompts"
+    "v20260828-nightly: AI command suggestions: replace the line for natural-language prompts",
+    "v20260829-nightly: Alt-screen bidi migration: run after custom-folder prefs are copied down"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -3435,7 +3436,26 @@
     "49473723",
     "49473188",
     "49472155",
-    "49471721"
+    "49471721",
+    "49489819",
+    "49489198",
+    "49489082",
+    "49488963",
+    "49488021",
+    "49486912",
+    "49484600",
+    "49490087",
+    "49489554",
+    "49489465",
+    "49489299",
+    "49488275",
+    "49487838",
+    "49487822",
+    "49487351",
+    "49487341",
+    "49486744",
+    "49485416",
+    "49484280"
   ],
   "tmux": [
     "tmux 3.7-rc",
