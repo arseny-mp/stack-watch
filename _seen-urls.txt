@@ -71,6 +71,7 @@ https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://downdetector.com.br/en/status/claude-ai/
 https://embracethered.com/blog/posts/2026/breaking-claude-acode-opus-5-and-automode/
+https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
 https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://extraheadroom.com/
@@ -159,6 +160,7 @@ https://github.com/anthropics/claude-code/issues/6235
 https://github.com/anthropics/claude-code/issues/62476
 https://github.com/anthropics/claude-code/issues/63498
 https://github.com/anthropics/claude-code/issues/65961
+https://github.com/anthropics/claude-code/issues/66504
 https://github.com/anthropics/claude-code/issues/72274
 https://github.com/anthropics/claude-code/issues/73125
 https://github.com/anthropics/claude-code/issues/74066
@@ -240,6 +242,7 @@ https://github.com/desktop-commander/desktop-commander
 https://github.com/divadbaroon/claude-plugins
 https://github.com/dotbrt/dejaview
 https://github.com/drumih/turbo-fieldfare
+https://github.com/duqaXxX/seedeep
 https://github.com/dylanp12/alluvia
 https://github.com/edonadei/caliper
 https://github.com/ethanhq/cc-fleet
@@ -529,6 +532,7 @@ https://news.ycombinator.com/item?id=49325946
 https://news.ycombinator.com/item?id=49466646
 https://news.ycombinator.com/item?id=49467974
 https://news.ycombinator.com/item?id=49488963
+https://news.ycombinator.com/item?id=49497992
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -600,6 +604,7 @@ https://thomas-witt.com/blog/blog-subagent-model-pin/
 https://tim-schipper.nl/en/blog/claude-code-context-management
 https://twitter.com/ClaudeDevs/status/2085794862608318627
 https://twitter.com/ClaudeDevs/status/2090245922685063634
+https://twitter.com/ClaudeDevs/status/2093742321473065266
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/argofowl/status/2091150597374537729
 https://twitter.com/samelldev/status/2070213157357072794
