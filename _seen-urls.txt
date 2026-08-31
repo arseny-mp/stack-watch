@@ -2,6 +2,7 @@
 https://9to5google.com/2026/05/25/google-ai-plus-pro-ultra-gemini-features/
 https://9to5mac.com/2026/05/21/openai-improves-codex-ios-experience-with-turn-completion-alerts-new-commands-more/
 https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/
+https://adithyanak.com/optimal-hermes-mnemosyne-memory-architecture/
 https://agentsim.dev
 https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/
 https://ai.google.dev/gemini-api/docs/changelog
@@ -70,6 +71,7 @@ https://digg.com/tech/fktxxvtg
 https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://downdetector.com.br/en/status/claude-ai/
+https://draper.chat/dev/the-ultimate-claude-code-parallelisation-guide-2026
 https://embracethered.com/blog/posts/2026/breaking-claude-acode-opus-5-and-automode/
 https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
 https://empirical.gauzza.com/
@@ -430,6 +432,7 @@ https://github.com/softcane/aloud
 https://github.com/softcane/cc-session-recover
 https://github.com/softcane/hamza
 https://github.com/sofumel/claude-handoff-revive
+https://github.com/solodynamo/Ration
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
 https://github.com/thegoodguysla/myco-brain
@@ -470,6 +473,7 @@ https://help.openai.com/en/articles/9624314-model-release-notes
 https://hextrap.com/products/firewall/
 https://hiver.sh
 https://hyperbox.sh
+https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://itmeetsot.eu/posts/2026-08-12-opus5_automode/
 https://jankovd.substack.com/p/claude-can-read-your-secrets
@@ -533,6 +537,7 @@ https://news.ycombinator.com/item?id=49466646
 https://news.ycombinator.com/item?id=49467974
 https://news.ycombinator.com/item?id=49488963
 https://news.ycombinator.com/item?id=49497992
+https://news.ycombinator.com/item?id=49499700
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -605,6 +610,7 @@ https://tim-schipper.nl/en/blog/claude-code-context-management
 https://twitter.com/ClaudeDevs/status/2085794862608318627
 https://twitter.com/ClaudeDevs/status/2090245922685063634
 https://twitter.com/ClaudeDevs/status/2093742321473065266
+https://twitter.com/ClaudeDevs/status/2093742322525810912
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/argofowl/status/2091150597374537729
 https://twitter.com/samelldev/status/2070213157357072794
