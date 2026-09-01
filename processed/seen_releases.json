@@ -159,7 +159,8 @@
     "v2.1.247",
     "v2.1.251",
     "v2.1.250",
-    "v2.1.248"
+    "v2.1.248",
+    "v2.1.252"
   ],
   "mem0": [
     "v2.4.6",
@@ -303,7 +304,8 @@
     "v20260828-nightly: AI command suggestions: replace the line for natural-language prompts",
     "v20260829-nightly: Alt-screen bidi migration: run after custom-folder prefs are copied down",
     "v20260830-nightly: Add \"Prevent sleep\" profile setting and \"Set Profile Setting\" trigger",
-    "v20260831-nightly: Overlay suite name on dock icon when launched with -suite"
+    "v20260831-nightly: Overlay suite name on dock icon when launched with -suite",
+    "v20260901-nightly: Companion: link the setup wizard to the App Store at launch"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -459,7 +461,13 @@
     "2026.8.1",
     "release-publish/6107afa77d77-33347278689: fix(release): consume verified historical release evidence (#133675)",
     "release-publish/3952c695cb49-33340032114",
-    "release-publish/3d99a7f08e26-33333262829"
+    "release-publish/3d99a7f08e26-33333262829",
+    "release-publish/54183c0c9688-33471448769: fix(release): preserve original attempts in reused validation (#134820)",
+    "release-publish/31c0ccedfe05-33460424250",
+    "release-publish/8fc5024659a9-33487439567",
+    "release-publish/ce9ef22169f5-33473514087",
+    "release-publish/ab170d5fe879-33457206751",
+    "release-publish/d0c8f02d99b4-33442491455: test(e2e): preserve offline upgrade fixtures and restart proof (#134442)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -3538,7 +3546,43 @@
     "49504922",
     "49504689",
     "49503175",
-    "49502214"
+    "49502214",
+    "49518040",
+    "49515293",
+    "49521409",
+    "49521319",
+    "49520778",
+    "49520078",
+    "49519639",
+    "49518593",
+    "49516318",
+    "49515667",
+    "49515320",
+    "49514603",
+    "49513804",
+    "49512406",
+    "49508735",
+    "49499789",
+    "49485169",
+    "49446606",
+    "49475159",
+    "49522168",
+    "49521329",
+    "49520278",
+    "49519901",
+    "49519843",
+    "49519515",
+    "49517999",
+    "49517365",
+    "49517229",
+    "49516836",
+    "49516682",
+    "49515748",
+    "49514845",
+    "49513338",
+    "49513287",
+    "49512846",
+    "49512276"
   ],
   "tmux": [
     "tmux 3.7-rc",

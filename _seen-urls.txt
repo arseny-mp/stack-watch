@@ -27,6 +27,7 @@ https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini
 https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/
 https://blogs.zethian.com/when-deny-doesnt-win.html
 https://brianbell-x.github.io/weight-compression/
+https://cacheanalyzer.com/
 https://capacitor.kurrent.io/
 https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second
 https://chalk.appkit.studio
@@ -62,6 +63,7 @@ https://contextuallabs.dev
 https://cowchat.cowboy.inc/
 https://cronloop.ai/
 https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html
+https://day50.dev/woahllama/
 https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30
 https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
 https://developers.openai.com/codex/changelog
@@ -214,6 +216,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.245
 https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 https://github.com/anthropics/claude-code/releases/tag/v2.1.251
+https://github.com/anthropics/claude-code/releases/tag/v2.1.252
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -538,6 +541,7 @@ https://news.ycombinator.com/item?id=49467974
 https://news.ycombinator.com/item?id=49488963
 https://news.ycombinator.com/item?id=49497992
 https://news.ycombinator.com/item?id=49499700
+https://news.ycombinator.com/item?id=49515667
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -601,6 +605,7 @@ https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/
 https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
 https://theaileverageweekly.com/posts/claude-vs-chatgpt-for-code-review-which-is-better.html
+https://thenewstack.io/agent-harness-token-costs/
 https://thenewstack.io/agentjacking-sentry-mcp-attack/
 https://thenewstack.io/openai-chatgpt-computer-history/
 https://thereallo.dev/blog/claude-code-prompt-steganography
