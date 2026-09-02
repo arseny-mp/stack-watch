@@ -76,7 +76,8 @@
     "v0.33.1-rc1",
     "v0.33.1-rc0",
     "v0.33.2",
-    "v0.33.2-rc1"
+    "v0.33.2-rc1",
+    "v0.33.3"
   ],
   "claude code": [
     "v2.1.165",
@@ -160,7 +161,9 @@
     "v2.1.251",
     "v2.1.250",
     "v2.1.248",
-    "v2.1.252"
+    "v2.1.252",
+    "v2.1.258",
+    "v2.1.257"
   ],
   "mem0": [
     "v2.4.6",
@@ -217,7 +220,9 @@
     "v0.1.5",
     "v1.0.16",
     "v0.1.0",
-    "v0.2.13"
+    "v0.2.13",
+    "v2.0.20",
+    "v3.1.8"
   ],
   "iterm2": [
     "v20260605-nightly: Cockpit: watch statusless sessions by screen observation",
@@ -305,7 +310,8 @@
     "v20260829-nightly: Alt-screen bidi migration: run after custom-folder prefs are copied down",
     "v20260830-nightly: Add \"Prevent sleep\" profile setting and \"Set Profile Setting\" trigger",
     "v20260831-nightly: Overlay suite name on dock icon when launched with -suite",
-    "v20260901-nightly: Companion: link the setup wizard to the App Store at launch"
+    "v20260901-nightly: Companion: link the setup wizard to the App Store at launch",
+    "v3.7.0beta12"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -467,7 +473,9 @@
     "release-publish/8fc5024659a9-33487439567",
     "release-publish/ce9ef22169f5-33473514087",
     "release-publish/ab170d5fe879-33457206751",
-    "release-publish/d0c8f02d99b4-33442491455: test(e2e): preserve offline upgrade fixtures and restart proof (#134442)"
+    "release-publish/d0c8f02d99b4-33442491455: test(e2e): preserve offline upgrade fixtures and restart proof (#134442)",
+    "2026.8.2",
+    "release-publish/57d8e21ccea0-33525047092"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -535,7 +543,9 @@
     "8102fbe",
     "579c390",
     "a6cdbf4",
-    "ebaccfd"
+    "ebaccfd",
+    "2e3e4c7",
+    "3aa19f5"
   ],
   "hn_discovery": [
     "48414924",
@@ -3582,7 +3592,48 @@
     "49513338",
     "49513287",
     "49512846",
-    "49512276"
+    "49512276",
+    "49533006",
+    "49523381",
+    "49535198",
+    "49535187",
+    "49535048",
+    "49535001",
+    "49533731",
+    "49533331",
+    "49533308",
+    "49533216",
+    "49532209",
+    "49531472",
+    "49528322",
+    "49528310",
+    "49527817",
+    "49527376",
+    "49526313",
+    "49526186",
+    "49525561",
+    "49525378",
+    "49525341",
+    "49524766",
+    "49534977",
+    "49536130",
+    "49535548",
+    "49535102",
+    "49533385",
+    "49532939",
+    "49532935",
+    "49531765",
+    "49530862",
+    "49528916",
+    "49528570",
+    "49525527",
+    "49525257",
+    "49524539",
+    "49524480",
+    "49524447",
+    "49523905",
+    "49523476",
+    "49522988"
   ],
   "tmux": [
     "tmux 3.7-rc",

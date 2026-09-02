@@ -127,6 +127,7 @@ https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
 https://github.com/NanoNets/Graft
 https://github.com/NevaMind-AI/memU
+https://github.com/OactoDev/claude-code-field-kit
 https://github.com/Perseus-Computing-LLC/mimir
 https://github.com/Perufitlife/awesome-backend-security
 https://github.com/Piebald-AI/claude-code-system-prompts
@@ -217,6 +218,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 https://github.com/anthropics/claude-code/releases/tag/v2.1.252
+https://github.com/anthropics/claude-code/releases/tag/v2.1.258
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -229,6 +231,7 @@ https://github.com/braincompany/sessiongrep
 https://github.com/browser-memory/bmem
 https://github.com/bruno-de-queiroz/hoop
 https://github.com/burakgon/ai-usage-menubar
+https://github.com/carloslfu/slotstream
 https://github.com/cfitzgerald-pd/effort-router
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
@@ -315,6 +318,7 @@ https://github.com/mem0ai/mem0/releases/tag/opencode-v0.2.0
 https://github.com/mem0ai/mem0/releases/tag/pi-agent-v0.1.5
 https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.6
 https://github.com/mem0ai/mem0/releases/tag/v2.0.13
+https://github.com/mem0ai/mem0/releases/tag/v2.0.20
 https://github.com/mem0ai/mem0/releases/tag/v2.0.3
 https://github.com/mem0ai/mem0/releases/tag/v2.0.4
 https://github.com/memcode-ai/memcode
@@ -372,6 +376,7 @@ https://github.com/ollama/ollama/releases/tag/v0.32.6-rc0
 https://github.com/ollama/ollama/releases/tag/v0.32.8
 https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2
 https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4
+https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -422,6 +427,7 @@ https://github.com/robert-auger/safer-dependencies
 https://github.com/robertkeus/peter
 https://github.com/rondoflow/rondoflow
 https://github.com/ronle/clayrune
+https://github.com/sahrizvi/codex-remote-control
 https://github.com/samchon/ttsc/tree/master/packages/graph
 https://github.com/sashamitrovich/milepost
 https://github.com/sathish316/pi-omniagent-extensions/
@@ -553,6 +559,7 @@ https://ollama.com/blog/claude-desktop
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
 https://ollama.com/blog/muse-glimmer
 https://ollama.com/library/kimi-k3
+https://ollama.com/pricing
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://org-edge.com/sysedge.html
@@ -634,6 +641,7 @@ https://www.aaron-gustafson.com/notebook/2026-06-17-llm-biased-against-accessibl
 https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt
 https://www.androidauthority.com/chatgpt-4-5-o3-retired-3672713/
 https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
+https://www.anthropic.com/claude-fable-and-mythos-5-1
 https://www.anthropic.com/news/claude-opus-4-8
 https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476
 https://www.claudeusage.com/leaderboard
@@ -652,6 +660,7 @@ https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-
 https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
+https://www.manifold.security/blog/ai-coding-agents-git-hijack
 https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
 https://www.nlmtools.com/blog/notebooklm-collections-guide
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
