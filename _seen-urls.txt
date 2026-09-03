@@ -219,6 +219,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 https://github.com/anthropics/claude-code/releases/tag/v2.1.252
 https://github.com/anthropics/claude-code/releases/tag/v2.1.258
+https://github.com/anthropics/claude-code/releases/tag/v2.1.259
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -330,6 +331,7 @@ https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc13
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
+https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f
 https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e4471632ddf942b06a2
 https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
@@ -377,6 +379,7 @@ https://github.com/ollama/ollama/releases/tag/v0.32.8
 https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2
 https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0
+https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -587,6 +590,7 @@ https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-mem
 https://rzhub.github.io/GateMem/project.html
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
+https://secretspec.dev/blog/claude-code-stores-oauth-tokens-in-plaintext/
 https://sessionradar.com
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
 https://signetai.sh/
