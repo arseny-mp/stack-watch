@@ -1,8 +1,8 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-08-28:</b>
+📅 <b>2026-09-04:</b>
   <b>Experiment:</b>
-  • Release v2.1.251 — Обновить Claude Code CLI до версии v2.1.251 через npm и проверить базовую работоспособность в одном из проектов (~15 минут).
-  • Release release-publish/468054f93c43-1787921799: fix(agents): surface Claude OAuth expiry in channels (#131345) — Обновить тестовую копию OpenClaw и симулировать истечение токена Claude для проверки оповещений (~30 минут).
+  • HN: Show HN: Chrome tab group cleaner for Claude Code created tab groups — Протестировать скрипт очистки вкладок в браузере Chrome при работе с Claude Code (~30 минут).
+  • HN: Show HN: Tests for your Claude Code setup that run on every release — Настроить и запустить config-drift-checker для проверки текущей конфигурации Claude Code (~1 час).
 

@@ -51,6 +51,7 @@ https://code.claude.com/docs/en/desktop-linux
 https://code.claude.com/docs/en/monitoring-usage
 https://code.claude.com/docs/en/output-styles
 https://code.claude.com/docs/en/security-guidance
+https://code.claude.com/docs/en/self-hosted-environments-quickstart
 https://code.claude.com/docs/en/settings
 https://code.claude.com/docs/en/whats-new
 https://code.claude.com/docs/en/whats-new/2026-w22
@@ -261,6 +262,7 @@ https://github.com/faisalishfaq2005/loopflow
 https://github.com/faizannraza/wattage
 https://github.com/fashton28/mux
 https://github.com/flashlan/vibe-kanban-alternative
+https://github.com/franzenzenhofer/chrome-tab-group-cleaner
 https://github.com/freestyle-voice/freestyle
 https://github.com/fu351/Doberman-Core
 https://github.com/funador/claude-code-merge-queue
@@ -380,6 +382,7 @@ https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2
 https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0
 https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1
+https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -488,6 +491,7 @@ https://hyperbox.sh
 https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
 https://itmeetsot.eu/posts/2026-08-12-opus5_automode/
+https://jameskomo.github.io/config-drift-checker/
 https://jankovd.substack.com/p/claude-can-read-your-secrets
 https://jazzyalex.github.io/agent-sessions/
 https://joshlf.com/posts/memory-safety-life-and-death/
@@ -551,6 +555,7 @@ https://news.ycombinator.com/item?id=49488963
 https://news.ycombinator.com/item?id=49497992
 https://news.ycombinator.com/item?id=49499700
 https://news.ycombinator.com/item?id=49515667
+https://news.ycombinator.com/item?id=49550800
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
