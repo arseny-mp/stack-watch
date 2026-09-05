@@ -127,6 +127,7 @@ https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
 https://github.com/NanoNets/Graft
+https://github.com/NeoLabHQ/context-engineering-kit
 https://github.com/NevaMind-AI/memU
 https://github.com/OactoDev/claude-code-field-kit
 https://github.com/Perseus-Computing-LLC/mimir
@@ -221,6 +222,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 https://github.com/anthropics/claude-code/releases/tag/v2.1.252
 https://github.com/anthropics/claude-code/releases/tag/v2.1.258
 https://github.com/anthropics/claude-code/releases/tag/v2.1.259
+https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -248,6 +250,7 @@ https://github.com/d0nmega/donnyclaude
 https://github.com/dachev/plan-review
 https://github.com/danielLublinsky/Skill_Atlas
 https://github.com/dat999zx/knowl
+https://github.com/deepmemteam/deepmem-claude-plugin
 https://github.com/desktop-commander/desktop-commander
 https://github.com/divadbaroon/claude-plugins
 https://github.com/dotbrt/dejaview
@@ -266,6 +269,7 @@ https://github.com/franzenzenhofer/chrome-tab-group-cleaner
 https://github.com/freestyle-voice/freestyle
 https://github.com/fu351/Doberman-Core
 https://github.com/funador/claude-code-merge-queue
+https://github.com/gageml/gage
 https://github.com/gavingolden/flow/
 https://github.com/ggml-org/llama.cpp/pull/24219
 https://github.com/github/github-mcp-server/pull/2571
@@ -383,6 +387,8 @@ https://github.com/ollama/ollama/releases/tag/v0.33.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0
 https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1
 https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2
+https://github.com/ollama/ollama/releases/tag/v0.34.0-rc0
+https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -556,6 +562,7 @@ https://news.ycombinator.com/item?id=49497992
 https://news.ycombinator.com/item?id=49499700
 https://news.ycombinator.com/item?id=49515667
 https://news.ycombinator.com/item?id=49550800
+https://news.ycombinator.com/item?id=49565799
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
