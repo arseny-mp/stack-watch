@@ -12,6 +12,7 @@ https://aiweekly.co
 https://ama2.me/
 https://anona-labs.github.io/mirror/
 https://antigma.ai/blog/2026/07/25/short-prompt-small-models
+https://aofp.github.io/yume/
 https://apicalculators.com/
 https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
@@ -85,6 +86,7 @@ https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-a
 https://fixyourdocs.io/
 https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
+https://github.com/0xmmo/crew/
 https://github.com/APareek89/power-coding
 https://github.com/Aident-AI/aident-skill
 https://github.com/AkuchiS/yap
@@ -121,6 +123,7 @@ https://github.com/Mamasodikov/hasharot
 https://github.com/MaorBril/agentic
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
 https://github.com/MerqryLabs/ai-crawler-visibility
+https://github.com/MohammedNihal03/AI-observibility
 https://github.com/MongLong0214/commitlore
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
@@ -270,6 +273,7 @@ https://github.com/franzenzenhofer/chrome-tab-group-cleaner
 https://github.com/freestyle-voice/freestyle
 https://github.com/fu351/Doberman-Core
 https://github.com/funador/claude-code-merge-queue
+https://github.com/gadievron/raptor
 https://github.com/gageml/gage
 https://github.com/gavingolden/flow/
 https://github.com/ggml-org/llama.cpp/pull/24219
@@ -427,6 +431,7 @@ https://github.com/rainmanjam/poka-yoke
 https://github.com/raiyanyahya/recall
 https://github.com/ralfyishere/rules-with-receipts
 https://github.com/raphaelwkago-sketch/rudi
+https://github.com/rashedInt32/claude-hl
 https://github.com/ravsau/wrap
 https://github.com/raysonmeng/agent-bridge
 https://github.com/razzant/claudexor
@@ -455,6 +460,7 @@ https://github.com/softcane/cc-session-recover
 https://github.com/softcane/hamza
 https://github.com/sofumel/claude-handoff-revive
 https://github.com/solodynamo/Ration
+https://github.com/sorantis/portal-ai-plugins/tree/add-shunt-claude/plugins/shunt
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
 https://github.com/thegoodguysla/myco-brain
@@ -469,6 +475,7 @@ https://github.com/tohid4n/qwen3.8-max-local-coding
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
 https://github.com/toshipepe/tokimeter
+https://github.com/trailofbits/coop
 https://github.com/uber/ADR
 https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
@@ -486,6 +493,7 @@ https://github.com/yevhens-hue/claude-skills-starter-kit
 https://github.com/ykdojo/claude-code-tips
 https://github.com/yonk-labs/claude-session-analyzer
 https://github.com/yuliang615/claude-cache-guard
+https://github.com/zaghaghi/toolog
 https://helgesver.re/articles/claude-code-bang-command-caveat
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 https://help.openai.com/en/articles/20001257
@@ -564,6 +572,7 @@ https://news.ycombinator.com/item?id=49499700
 https://news.ycombinator.com/item?id=49515667
 https://news.ycombinator.com/item?id=49550800
 https://news.ycombinator.com/item?id=49565799
+https://news.ycombinator.com/item?id=49587379
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
