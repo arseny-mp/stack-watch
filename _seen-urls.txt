@@ -301,6 +301,7 @@ https://github.com/horilla98/agent-kit
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
+https://github.com/infiniV/ultra-instinct-claude-code/blob/main/llms.txt
 https://github.com/itsmeduncan/commonplace
 https://github.com/jankdc/bote
 https://github.com/jhickner/tmux-agent-tabs
@@ -516,6 +517,7 @@ https://kastra.ai/
 https://keyghost.dev/
 https://labs.flur.ee/docs/memory
 https://labyrinthanalyticsconsulting.com/blog/claude-memory-primitive-vs-loreconvo-vs-claude-mem-vs-mem0
+https://lance.black
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://llama-dash.dev
 https://lore.link/blog/how-we-built-share
