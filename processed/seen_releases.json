@@ -83,7 +83,8 @@
     "v0.33.3-rc2",
     "v0.34.0-rc1",
     "v0.34.0-rc0",
-    "v0.34.0"
+    "v0.34.0",
+    "v0.34.0-rc2"
   ],
   "claude code": [
     "v2.1.165",
@@ -173,7 +174,9 @@
     "v2.1.259",
     "v2.1.260",
     "v2.1.261",
-    "v2.1.263"
+    "v2.1.263",
+    "v2.1.266",
+    "v2.1.265"
   ],
   "mem0": [
     "v2.4.6",
@@ -324,7 +327,10 @@
     "v3.7.0beta12",
     "v20260903-nightly",
     "v20260905-nightly: Log when the window-name-beside-tabs label is squeezed",
-    "v20260907-nightly: Make utility preference sheets titled so they can become key"
+    "v20260907-nightly: Make utility preference sheets titled so they can become key",
+    "v20260909-nightly: Rebuild main menu rst file",
+    "v3.7.0",
+    "v20260908-nightly: Set workgroup checkmark in validateMenuItem, the reliably-called seam"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -505,7 +511,8 @@
     "release-publish/135d2700e7b6-1788829835: test(release): require completed managed survivor evidence (#141663)",
     "release-publish/009f929485ce-1788834848",
     "release-publish/1a4d9a0340da-1788864350",
-    "release-publish/014031692483-1788866744"
+    "release-publish/014031692483-1788866744",
+    "2026.9.3"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -3867,7 +3874,46 @@
     "49606720",
     "49604369",
     "49602101",
-    "49602002"
+    "49602002",
+    "49616113",
+    "49626524",
+    "49626148",
+    "49625975",
+    "49625722",
+    "49624779",
+    "49623768",
+    "49623687",
+    "49622684",
+    "49622554",
+    "49617611",
+    "49617072",
+    "49616089",
+    "49616059",
+    "49613348",
+    "49612123",
+    "49611999",
+    "49610888",
+    "49626144",
+    "49619943",
+    "49625773",
+    "49624134",
+    "49623800",
+    "49623701",
+    "49620760",
+    "49619989",
+    "49619622",
+    "49618955",
+    "49618460",
+    "49618090",
+    "49617529",
+    "49615922",
+    "49614843",
+    "49614683",
+    "49614250",
+    "49614166",
+    "49613632",
+    "49613631",
+    "49612293"
   ],
   "tmux": [
     "tmux 3.7-rc",
@@ -3876,7 +3922,8 @@
     "tmux 3.6b",
     "tmux 3.6a",
     "tmux 3.7b",
-    "tmux 3.7c"
+    "tmux 3.7c",
+    "tmux 3.8-rc"
   ],
   "openhuman": [
     "v0.57.40",

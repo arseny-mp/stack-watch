@@ -104,6 +104,7 @@ https://github.com/Elpulgo/polysbx
 https://github.com/EricAndrechek/Pacer
 https://github.com/ForeverSc/pinfix
 https://github.com/FrigadeHQ/yap
+https://github.com/FvdHMBAI/guardrail
 https://github.com/GLechevalier/nff
 https://github.com/Get-Concord-AI/concord-mcp
 https://github.com/GhetauTudor/esi
@@ -227,6 +228,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.258
 https://github.com/anthropics/claude-code/releases/tag/v2.1.259
 https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 https://github.com/anthropics/claude-code/releases/tag/v2.1.263
+https://github.com/anthropics/claude-code/releases/tag/v2.1.266
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -292,6 +294,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260820-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
 https://github.com/gtapps/claude-code-hermit/
 https://github.com/gvzdv/claudish-to-english
 https://github.com/hamzarehmandeveloper/claude-account
@@ -304,6 +307,7 @@ https://github.com/idodekerobo/draft
 https://github.com/infiniV/ultra-instinct-claude-code/blob/main/llms.txt
 https://github.com/itsmeduncan/commonplace
 https://github.com/jankdc/bote
+https://github.com/jerriclynsjohn/tmux-agent-pulse
 https://github.com/jhickner/tmux-agent-tabs
 https://github.com/joanseg/specmanager
 https://github.com/joey-io/gauge
@@ -322,6 +326,7 @@ https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
 https://github.com/loopedautomation/whisper
 https://github.com/mateusdcc/pi-gpt-search
+https://github.com/mcancellotti/tokendiet
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
 https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
@@ -395,6 +400,7 @@ https://github.com/ollama/ollama/releases/tag/v0.33.3-rc1
 https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2
 https://github.com/ollama/ollama/releases/tag/v0.34.0-rc0
 https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1
+https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -472,6 +478,7 @@ https://github.com/tiliondev/fortress/tree/main/mcp
 https://github.com/tiny-cloud-ventures/amnesia
 https://github.com/tmux/tmux/releases/tag/3.7
 https://github.com/tmux/tmux/releases/tag/3.7a
+https://github.com/tmux/tmux/releases/tag/3.8-rc
 https://github.com/tohid4n/qwen3.8-max-local-coding
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
@@ -522,6 +529,7 @@ https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://llama-dash.dev
 https://lore.link/blog/how-we-built-share
 https://lukasvonkunhardt.com/obsidian-claude-code-setup/
+https://malucelli.net/posts/2026-09-07-how-i-extend-claude-code
 https://marktechpost.com
 https://mauroepce.dev/blog/trust-boundaries-claude-code
 https://medium.com/@Koukyosyumei/how-claude-code-completely-broke-my-git-worktree-fc74effc9c4e
