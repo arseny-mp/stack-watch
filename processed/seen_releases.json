@@ -84,7 +84,10 @@
     "v0.34.0-rc1",
     "v0.34.0-rc0",
     "v0.34.0",
-    "v0.34.0-rc2"
+    "v0.34.0-rc2",
+    "v0.34.0-rc5",
+    "v0.34.0-rc4",
+    "v0.34.0-rc3"
   ],
   "claude code": [
     "v2.1.165",
@@ -176,7 +179,8 @@
     "v2.1.261",
     "v2.1.263",
     "v2.1.266",
-    "v2.1.265"
+    "v2.1.265",
+    "v2.1.267"
   ],
   "mem0": [
     "v2.4.6",
@@ -235,7 +239,9 @@
     "v0.1.0",
     "v0.2.13",
     "v2.0.20",
-    "v3.1.8"
+    "v3.1.8",
+    "v0.3.0",
+    "v1.1.0"
   ],
   "iterm2": [
     "v20260605-nightly: Cockpit: watch statusless sessions by screen observation",
@@ -330,7 +336,8 @@
     "v20260907-nightly: Make utility preference sheets titled so they can become key",
     "v20260909-nightly: Rebuild main menu rst file",
     "v3.7.0",
-    "v20260908-nightly: Set workgroup checkmark in validateMenuItem, the reliably-called seam"
+    "v20260908-nightly: Set workgroup checkmark in validateMenuItem, the reliably-called seam",
+    "v20260910-nightly"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -512,7 +519,8 @@
     "release-publish/009f929485ce-1788834848",
     "release-publish/1a4d9a0340da-1788864350",
     "release-publish/014031692483-1788866744",
-    "2026.9.3"
+    "2026.9.3",
+    "2026.6.35"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -3913,7 +3921,32 @@
     "49614166",
     "49613632",
     "49613631",
-    "49612293"
+    "49612293",
+    "49634945",
+    "49643048",
+    "49642340",
+    "49641616",
+    "49641128",
+    "49639415",
+    "49639294",
+    "49632749",
+    "49632286",
+    "49631979",
+    "49630606",
+    "49630355",
+    "49629747",
+    "49628679",
+    "49628634",
+    "49628008",
+    "49638966",
+    "49637652",
+    "49637605",
+    "49634886",
+    "49634125",
+    "49633627",
+    "49631839",
+    "49630519",
+    "49628820"
   ],
   "tmux": [
     "tmux 3.7-rc",
