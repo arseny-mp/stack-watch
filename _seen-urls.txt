@@ -256,6 +256,7 @@ https://github.com/d-date/retok
 https://github.com/d0nmega/donnyclaude
 https://github.com/dachev/plan-review
 https://github.com/danielLublinsky/Skill_Atlas
+https://github.com/danielhagever/agent-guardrails-kit
 https://github.com/dat999zx/knowl
 https://github.com/deepmemteam/deepmem-claude-plugin
 https://github.com/desktop-commander/desktop-commander
@@ -275,6 +276,7 @@ https://github.com/flashlan/vibe-kanban-alternative
 https://github.com/franzenzenhofer/chrome-tab-group-cleaner
 https://github.com/freestyle-voice/freestyle
 https://github.com/fu351/Doberman-Core
+https://github.com/fuckbigtech-ai/homestead-memory
 https://github.com/funador/claude-code-merge-queue
 https://github.com/gadievron/raptor
 https://github.com/gageml/gage
@@ -490,6 +492,7 @@ https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
 https://github.com/toshipepe/tokimeter
 https://github.com/trailofbits/coop
+https://github.com/treyreynolds/iterm2-status
 https://github.com/uber/ADR
 https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
@@ -665,6 +668,7 @@ https://twitter.com/ClaudeDevs/status/2085794862608318627
 https://twitter.com/ClaudeDevs/status/2090245922685063634
 https://twitter.com/ClaudeDevs/status/2093742321473065266
 https://twitter.com/ClaudeDevs/status/2093742322525810912
+https://twitter.com/DavidAgranovich/status/2098168522862215449
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/argofowl/status/2091150597374537729
 https://twitter.com/samelldev/status/2070213157357072794
@@ -710,6 +714,7 @@ https://www.npmjs.com/package/@cognitive-fab/polycheck
 https://www.npmjs.com/package/@lanes-sh/link
 https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/shellphone
+https://www.ory.com/blog/ory-lumen-semantic-search-claude-code
 https://www.reddit.com/r/ClaudeAI/comments/1vknrjx/building_a_purerust_sandboxed_localfirst_browser/
 https://www.reddit.com/r/ClaudeAI/comments/1vm2w0e/a_lightweight_rootless_container_sandbox_for/
 https://www.reddit.com/r/ClaudeCode/comments/1vfcs18/a_terminalbased_jupyter_notebook_that_helps/

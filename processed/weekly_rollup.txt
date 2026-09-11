@@ -1,8 +1,10 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-09-04:</b>
+📅 <b>2026-09-11:</b>
+  <b>Do now:</b>
+  • HN: Moonshot serves Claude instead of Kimi and collects exchanges for model training — Внести изменения в '/Users/user/Projects/Stack Watch/learnings.md' для запрета передачи конфиденциального кода или PII-данных через бэкенд Kimi CLI (~15 минут).
   <b>Experiment:</b>
-  • HN: Show HN: Chrome tab group cleaner for Claude Code created tab groups — Протестировать скрипт очистки вкладок в браузере Chrome при работе с Claude Code (~30 минут).
-  • HN: Show HN: Tests for your Claude Code setup that run on every release — Настроить и запустить config-drift-checker для проверки текущей конфигурации Claude Code (~1 час).
+  • HN: Show HN: Claude Code hooks that log every tool call, 124ms per call — Создать тестовый скрипт '/Users/user/Projects/Stack Watch/experiment_hooks.sh', интегрировать homestead-memory и оценить задержку вызовов (~1.5 часа).
+  • HN: Show HN: iTerm2 Plugin for Codex/Claude Code — Настроить статус-бар в iTerm2 с использованием плагина 'iterm2-status' и проверить корректность отображения состояний агентов (~1 час).
 
