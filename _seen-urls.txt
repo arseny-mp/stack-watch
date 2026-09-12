@@ -51,6 +51,7 @@ https://code.claude.com/docs/en/cross-session-messaging
 https://code.claude.com/docs/en/desktop-linux
 https://code.claude.com/docs/en/monitoring-usage
 https://code.claude.com/docs/en/output-styles
+https://code.claude.com/docs/en/plugin-evals
 https://code.claude.com/docs/en/security-guidance
 https://code.claude.com/docs/en/self-hosted-environments-quickstart
 https://code.claude.com/docs/en/settings
@@ -159,6 +160,7 @@ https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
 https://github.com/alex-reysa/glueRun-go
+https://github.com/allixsenos/asu
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/anlor1002-alt/regressionledger
 https://github.com/anthonystaiger8-bit/memory-model
@@ -554,6 +556,7 @@ https://michaellivs.com/blog/system-reminders-steering-agents/
 https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
 https://near.ai/blog/introducing-ironclaw-1-0
+https://nearform.com/digital-community/terminal-velocity-the-shell-tools-that-make-claude-code-fly/
 https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/
 https://news.ycombinator.com/item?id=123456
 https://news.ycombinator.com/item?id=48259288
