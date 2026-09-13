@@ -86,6 +86,7 @@ https://festudio.net/agentpace/
 https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion
 https://fixyourdocs.io/
 https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill
+https://getcesar.dev/
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://github.com/0xmmo/crew/
 https://github.com/APareek89/power-coding
@@ -232,6 +233,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 https://github.com/anthropics/claude-code/releases/tag/v2.1.263
 https://github.com/anthropics/claude-code/releases/tag/v2.1.266
 https://github.com/anthropics/claude-code/releases/tag/v2.1.267
+https://github.com/anthropics/claude-code/releases/tag/v2.1.270
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -524,6 +526,7 @@ https://hiver.sh
 https://hyperbox.sh
 https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
+https://iterm2.com/claude-code-integration.html
 https://itmeetsot.eu/posts/2026-08-12-opus5_automode/
 https://jameskomo.github.io/config-drift-checker/
 https://jankovd.substack.com/p/claude-can-read-your-secrets
@@ -595,6 +598,7 @@ https://news.ycombinator.com/item?id=49515667
 https://news.ycombinator.com/item?id=49550800
 https://news.ycombinator.com/item?id=49565799
 https://news.ycombinator.com/item?id=49587379
+https://news.ycombinator.com/item?id=49675094
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
