@@ -238,6 +238,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.266
 https://github.com/anthropics/claude-code/releases/tag/v2.1.267
 https://github.com/anthropics/claude-code/releases/tag/v2.1.270
 https://github.com/anthropics/claude-code/releases/tag/v2.1.273
+https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -336,6 +337,7 @@ https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
 https://github.com/loopedautomation/whisper
+https://github.com/lucastononro/cc-traj-seg
 https://github.com/mateusdcc/pi-gpt-search
 https://github.com/mcancellotti/tokendiet
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
@@ -417,6 +419,7 @@ https://github.com/ollama/ollama/releases/tag/v0.34.0-rc2
 https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3
 https://github.com/ollama/ollama/releases/tag/v0.34.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5
+https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -636,6 +639,7 @@ https://portal.cybercorpresearch.com/
 https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/
 https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
+https://raw.githubusercontent.com/zqiren/Orbital/main/docs/screenshots/handoff-codex-continue.gif
 https://recallplugin.dev
 https://release.bar
 https://releasebot.io/updates/openai
@@ -670,6 +674,7 @@ https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-re
 https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/
 https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/
 https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
+https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
 https://theaileverageweekly.com/posts/claude-vs-chatgpt-for-code-review-which-is-better.html
 https://thenewstack.io/agent-harness-token-costs/
