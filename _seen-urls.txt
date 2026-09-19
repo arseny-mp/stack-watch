@@ -239,6 +239,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.267
 https://github.com/anthropics/claude-code/releases/tag/v2.1.270
 https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 https://github.com/anthropics/claude-code/releases/tag/v2.1.274
+https://github.com/anthropics/claude-code/releases/tag/v2.1.278
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -345,15 +346,18 @@ https://github.com/mem0ai/mem0/releases/tag/cli-v0.2.7
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.12
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.0.16
 https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.1.0
+https://github.com/mem0ai/mem0/releases/tag/openclaw-v1.2.0
 https://github.com/mem0ai/mem0/releases/tag/opencode-v0.1.2
 https://github.com/mem0ai/mem0/releases/tag/opencode-v0.2.0
 https://github.com/mem0ai/mem0/releases/tag/pi-agent-v0.1.5
 https://github.com/mem0ai/mem0/releases/tag/pi-agent-v0.3.0
+https://github.com/mem0ai/mem0/releases/tag/pi-agent-v0.3.1
 https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.6
 https://github.com/mem0ai/mem0/releases/tag/v2.0.13
 https://github.com/mem0ai/mem0/releases/tag/v2.0.20
 https://github.com/mem0ai/mem0/releases/tag/v2.0.3
 https://github.com/mem0ai/mem0/releases/tag/v2.0.4
+https://github.com/mem0ai/mem0/releases/tag/v2.1.0
 https://github.com/memcode-ai/memcode
 https://github.com/mindmuxai/brain.md
 https://github.com/miopea/swarm
@@ -420,6 +424,8 @@ https://github.com/ollama/ollama/releases/tag/v0.34.0-rc3
 https://github.com/ollama/ollama/releases/tag/v0.34.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5
 https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0
+https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2
+https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -446,6 +452,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2
 https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.4
 https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.2
+https://github.com/openclaw/openclaw/releases/tag/v2026.9.5
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
@@ -702,6 +709,7 @@ https://vibsync.com/
 https://vmysla.substack.com/p/product-traceability-20-makes-claude
 https://vnoc.vercel.app/project/claudecode
 https://whetstone.akbarsha.dev/
+https://wisprflow.ai/canto
 https://withwillow.ai/platform/claude-policy-ranger
 https://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html
 https://www.aaron-gustafson.com/notebook/2026-06-17-llm-biased-against-accessible-code/
