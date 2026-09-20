@@ -22,6 +22,7 @@ https://arcbox.dev/blog/macos-vm-memory-ratchet
 https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/
 https://arxiv.org/abs/2608.11095
 https://astgl.com/p/skill-mining-claude-code-config-patterns
+https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
 https://blog.disintegrator.dev/posts/lnav-claude-code/
 https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/
@@ -240,6 +241,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.270
 https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 https://github.com/anthropics/claude-code/releases/tag/v2.1.278
+https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -514,6 +516,7 @@ https://github.com/toshipepe/tokimeter
 https://github.com/trailofbits/coop
 https://github.com/treyreynolds/iterm2-status
 https://github.com/uber/ADR
+https://github.com/ucsandman/legcli
 https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
 https://github.com/vitalysim/browser-bridge

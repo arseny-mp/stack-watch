@@ -575,7 +575,9 @@
     "release-publish/ee1e5f21fd22-1789772127",
     "release-publish/dd134705756b-1789735214: fix(release): run the npm artifact producer on hosted runners (#151633)",
     "release-publish/d41099ad9df4-1789744903",
-    "OpenClaw Linux update channel"
+    "OpenClaw Linux update channel",
+    "v2026.7.34",
+    "release-publish/91926f9b61a5-1789871489"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -4238,7 +4240,24 @@
     "49751222",
     "49750697",
     "49750428",
-    "49750270"
+    "49750270",
+    "49774919",
+    "49773112",
+    "49772806",
+    "49772216",
+    "49770525",
+    "49768826",
+    "49767823",
+    "49767564",
+    "49767107",
+    "49769610",
+    "49774499",
+    "49774336",
+    "49771728",
+    "49769288",
+    "49768617",
+    "49766795",
+    "49766428"
   ],
   "tmux": [
     "tmux 3.7-rc",
