@@ -98,7 +98,11 @@
     "v0.34.3-rc0",
     "v0.34.2-rc3",
     "v0.34.2-rc2",
-    "v0.34.2-rc1"
+    "v0.34.2-rc1",
+    "v0.40.0",
+    "v0.34.4",
+    "v0.34.4-rc1",
+    "v0.34.4-rc0"
   ],
   "claude code": [
     "v2.1.165",
@@ -202,7 +206,11 @@
     "v2.1.278",
     "v2.1.277",
     "v2.1.276",
-    "v2.1.275"
+    "v2.1.275",
+    "v2.1.283",
+    "v2.1.282",
+    "v2.1.281",
+    "v2.1.280"
   ],
   "mem0": [
     "v2.4.6",
@@ -271,7 +279,14 @@
     "v0.3.1",
     "v0.4.0",
     "v1.2.0",
-    "v0.2.14"
+    "v0.2.14",
+    "v2.2.1",
+    "v3.3.1",
+    "v2.2.0",
+    "v3.3.0",
+    "v0.3.2",
+    "v0.4.1",
+    "v1.2.1"
   ],
   "iterm2": [
     "v20260605-nightly: Cockpit: watch statusless sessions by screen observation",
@@ -378,7 +393,14 @@
     "v20260914-nightly: Support dropping a tab into a collapsed tab group",
     "v20260917-nightly: Run CI on the Xcode 27 preview runner to match committed toolchain",
     "v20260919-nightly: Let a conductor command join a pipeline that is already in flight",
-    "v20260918-nightly: Add a -parallel option to run_tests.expect"
+    "v20260918-nightly: Add a -parallel option to run_tests.expect",
+    "v20260926-nightly: Translate the new strings, and fix three that were wrong",
+    "v20260925-nightly: Don't change presentation options while the app is inactive",
+    "v20260924-nightly: Fix the paste-options dialog remembering the wrong choice",
+    "v20260923-nightly: Fix flag emoji width and the preconverted-string predecessor merge",
+    "v3.7.3",
+    "v20260922-nightly: List every manual AI model, including one on the default Ollama endpoint",
+    "v20260921-nightly: Detect localhost via OSC 7 machineID instead of hostname matching"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -577,7 +599,17 @@
     "release-publish/d41099ad9df4-1789744903",
     "OpenClaw Linux update channel",
     "v2026.7.34",
-    "release-publish/91926f9b61a5-1789871489"
+    "release-publish/91926f9b61a5-1789871489",
+    "2026.9.6",
+    "release-publish/73788ab0d3cc-1790171534",
+    "release-publish/9505f6eeab16-1790193759",
+    "release-publish/165de4c3bc94-1790191759",
+    "release-publish/1d55e74cc6b8-1790157268",
+    "release-publish/0c38cb486765-1790180220",
+    "release-publish/de32d6b7a12e-1790136680: ci: defer native lifecycle matrices to release verification (#156077)",
+    "release-publish/a6e3d5d3c30d-1790202893",
+    "release-publish/814a7e752afc-1790105428: refactor: reuse SQLite kernel in Workboard notification tests (#155904)",
+    "release-publish/368ec5c22d8c-1790063024: fix: Side chat blocks typing while answering (#155183)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -658,7 +690,8 @@
     "ba167ce",
     "48723c9",
     "96c49c7",
-    "cce08de"
+    "cce08de",
+    "f46d957"
   ],
   "hn_discovery": [
     "48414924",
@@ -4257,7 +4290,71 @@
     "49769288",
     "49768617",
     "49766795",
-    "49766428"
+    "49766428",
+    "49855683",
+    "49852029",
+    "49848269",
+    "49845314",
+    "49835080",
+    "49833248",
+    "49833200",
+    "49829472",
+    "49828381",
+    "49818282",
+    "49814172",
+    "49813189",
+    "49812339",
+    "49799125",
+    "49787614",
+    "49783288",
+    "49855115",
+    "49853789",
+    "49852843",
+    "49852101",
+    "49851853",
+    "49850774",
+    "49850328",
+    "49849986",
+    "49849721",
+    "49848295",
+    "49848141",
+    "49847249",
+    "49846613",
+    "49846391",
+    "49846266",
+    "49844310",
+    "49843943",
+    "49841340",
+    "49841265",
+    "49840365",
+    "49845427",
+    "49845205",
+    "49815777",
+    "49814481",
+    "49795419",
+    "49790705",
+    "49783679",
+    "49824589",
+    "49809670",
+    "49855498",
+    "49855404",
+    "49854966",
+    "49854518",
+    "49854197",
+    "49852907",
+    "49852217",
+    "49851776",
+    "49850669",
+    "49849308",
+    "49846916",
+    "49846015",
+    "49845110",
+    "49844947",
+    "49843793",
+    "49843621",
+    "49841275",
+    "49840597",
+    "49840484"
   ],
   "tmux": [
     "tmux 3.7-rc",
@@ -4267,7 +4364,8 @@
     "tmux 3.6a",
     "tmux 3.7b",
     "tmux 3.7c",
-    "tmux 3.8-rc"
+    "tmux 3.8-rc",
+    "tmux 3.8-rc2"
   ],
   "openhuman": [
     "v0.57.40",
@@ -4299,6 +4397,9 @@
     "v0.63.7",
     "v0.63.17",
     "v0.63.21",
-    "v0.63.20"
+    "v0.63.20",
+    "v0.64.4",
+    "v0.64.3",
+    "v0.64.0"
   ]
 }

@@ -89,6 +89,7 @@ https://festudio.net/agentpace/
 https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion
 https://fixyourdocs.io/
 https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill
+https://frigade.com/yap
 https://getcesar.dev/
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://github.com/0xmmo/crew/
@@ -241,6 +242,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.270
 https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 https://github.com/anthropics/claude-code/releases/tag/v2.1.278
+https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -309,6 +311,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260710-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260820-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260922-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
 https://github.com/gtapps/claude-code-hermit/
 https://github.com/gvzdv/claudish-to-english
@@ -360,6 +363,7 @@ https://github.com/mem0ai/mem0/releases/tag/v2.0.20
 https://github.com/mem0ai/mem0/releases/tag/v2.0.3
 https://github.com/mem0ai/mem0/releases/tag/v2.0.4
 https://github.com/mem0ai/mem0/releases/tag/v2.1.0
+https://github.com/mem0ai/mem0/releases/tag/v2.2.1
 https://github.com/memcode-ai/memcode
 https://github.com/mindmuxai/brain.md
 https://github.com/miopea/swarm
@@ -370,6 +374,7 @@ https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
 https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f
+https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb
 https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e4471632ddf942b06a2
 https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
@@ -428,6 +433,9 @@ https://github.com/ollama/ollama/releases/tag/v0.34.0-rc5
 https://github.com/ollama/ollama/releases/tag/v0.34.2-rc0
 https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2
 https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1
+https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0
+https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1
+https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -455,6 +463,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.4
 https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.2
 https://github.com/openclaw/openclaw/releases/tag/v2026.9.5
+https://github.com/openclaw/openclaw/releases/tag/v2026.9.6
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/patibandlavenkatamanideep/memoryops-ai
@@ -509,6 +518,7 @@ https://github.com/tiny-cloud-ventures/amnesia
 https://github.com/tmux/tmux/releases/tag/3.7
 https://github.com/tmux/tmux/releases/tag/3.7a
 https://github.com/tmux/tmux/releases/tag/3.8-rc
+https://github.com/tmux/tmux/releases/tag/3.8-rc2
 https://github.com/tohid4n/qwen3.8-max-local-coding
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
