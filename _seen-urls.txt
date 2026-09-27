@@ -44,6 +44,7 @@ https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
+https://claude.dev/blog/spending-your-effort/
 https://cli.agentproto.sh
 https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
@@ -312,6 +313,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260723-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260820-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260922-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20260927-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
 https://github.com/gtapps/claude-code-hermit/
 https://github.com/gvzdv/claudish-to-english

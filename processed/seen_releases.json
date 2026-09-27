@@ -400,7 +400,8 @@
     "v20260923-nightly: Fix flag emoji width and the preconverted-string predecessor merge",
     "v3.7.3",
     "v20260922-nightly: List every manual AI model, including one on the default Ollama endpoint",
-    "v20260921-nightly: Detect localhost via OSC 7 machineID instead of hostname matching"
+    "v20260921-nightly: Detect localhost via OSC 7 machineID instead of hostname matching",
+    "v20260927-nightly: cc-status: support Codex CLI hooks, keeping their turn state in iTerm2"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -609,7 +610,14 @@
     "release-publish/de32d6b7a12e-1790136680: ci: defer native lifecycle matrices to release verification (#156077)",
     "release-publish/a6e3d5d3c30d-1790202893",
     "release-publish/814a7e752afc-1790105428: refactor: reuse SQLite kernel in Workboard notification tests (#155904)",
-    "release-publish/368ec5c22d8c-1790063024: fix: Side chat blocks typing while answering (#155183)"
+    "release-publish/368ec5c22d8c-1790063024: fix: Side chat blocks typing while answering (#155183)",
+    "release-publish/1261218e33ea-1790484073",
+    "release-publish/593401e94869-1790518861: fix(ci): expose bounded Docker survivor failure metadata (#159659)",
+    "release-publish/2e09d9e2e60a-1790478175: fix(release): publish plugins with scoped dependency forks (#159124)",
+    "release-publish/d7c378bf4b10-1790489167: fix(release): accept retained v1 validation evidence (#159440)",
+    "release-publish/aad795bf312a-1790492351",
+    "v2026.8.33",
+    "release-publish/8d8bd43120f3-1790449772"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -4354,7 +4362,34 @@
     "49843621",
     "49841275",
     "49840597",
-    "49840484"
+    "49840484",
+    "49865461",
+    "49863937",
+    "49859982",
+    "49857096",
+    "49866739",
+    "49865248",
+    "49865099",
+    "49864439",
+    "49863884",
+    "49863700",
+    "49863255",
+    "49862641",
+    "49861216",
+    "49860368",
+    "49858284",
+    "49857671",
+    "49857528",
+    "49856688",
+    "49866375",
+    "49863083",
+    "49862912",
+    "49862319",
+    "49861765",
+    "49860250",
+    "49859862",
+    "49858930",
+    "49858438"
   ],
   "tmux": [
     "tmux 3.7-rc",
