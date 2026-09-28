@@ -4,6 +4,7 @@ https://9to5mac.com/2026/05/21/openai-improves-codex-ios-experience-with-turn-co
 https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/
 https://accomplish.ai/blog/beltdown-escaping-the-claude-code-sandbox/
 https://adithyanak.com/optimal-hermes-mnemosyne-memory-architecture/
+https://agentcat.app/
 https://agentsim.dev
 https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/
 https://ai.google.dev/gemini-api/docs/changelog
@@ -346,6 +347,7 @@ https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
 https://github.com/loopedautomation/whisper
 https://github.com/lucastononro/cc-traj-seg
+https://github.com/marciob/agenttab
 https://github.com/mateusdcc/pi-gpt-search
 https://github.com/mcancellotti/tokendiet
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
@@ -493,6 +495,7 @@ https://github.com/robertkeus/peter
 https://github.com/rondoflow/rondoflow
 https://github.com/ronle/clayrune
 https://github.com/sahrizvi/codex-remote-control
+https://github.com/saikiran-rs/merge-sessions-across-accounts
 https://github.com/samchon/ttsc/tree/master/packages/graph
 https://github.com/sashamitrovich/milepost
 https://github.com/sathish316/pi-omniagent-extensions/
@@ -525,6 +528,7 @@ https://github.com/tohid4n/qwen3.8-max-local-coding
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
 https://github.com/toshipepe/tokimeter
+https://github.com/totally-tim/effort-router
 https://github.com/trailofbits/coop
 https://github.com/treyreynolds/iterm2-status
 https://github.com/uber/ADR
@@ -580,6 +584,7 @@ https://marktechpost.com
 https://mauroepce.dev/blog/trust-boundaries-claude-code
 https://medium.com/@Koukyosyumei/how-claude-code-completely-broke-my-git-worktree-fc74effc9c4e
 https://medium.com/@Koukyosyumei/how-to-quantitatively-evaluate-prompt-quality-in-claude-code-and-codex-47f2f27f4bc5
+https://medium.com/@dat999zx/five-failure-modes-around-fact-retirement-in-agent-memory-with-measurements-55148df8b7e0
 https://medium.com/@developer_programmer/i-spent-47-000-on-claude-code-in-90-days-my-cto-asked-me-one-question-and-i-couldnt-answer-it-af3b203f81bb
 https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memory-attacks-33b91c382f40
 https://medium.com/zerogpu/how-to-reduce-ai-compute-costs-with-our-claude-code-plugin-routing-lightweight-ai-tasks-to-small-2a265e19c699
@@ -733,6 +738,7 @@ https://www.androidauthority.com/chatgpt-4-5-o3-retired-3672713/
 https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
 https://www.anthropic.com/claude-fable-and-mythos-5-1
 https://www.anthropic.com/news/claude-opus-4-8
+https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/
 https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476
 https://www.claudeusage.com/leaderboard
 https://www.costclaw.io/
@@ -751,6 +757,7 @@ https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
 https://www.manifold.security/blog/ai-coding-agents-git-hijack
+https://www.maxtaylor.me/articles/i-benchmarked-tdd-guard-it-didn-t-write-better-code
 https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
 https://www.nlmtools.com/blog/notebooklm-collections-guide
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
@@ -774,6 +781,7 @@ https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code
 https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
+https://www.vespper.com/blog/launching-vespper-docx-mcp
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
 https://www.zhcinstitute.com/research/oh-my-claudecode-multi-agent-field-notes/
 https://ykdojo.github.io/claude-code-tips/content/the-missing-private-github-search.html
