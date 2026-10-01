@@ -45,6 +45,7 @@ https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
+https://claude.dev/blog/automating-eval-design-and-hillclimbing/
 https://claude.dev/blog/spending-your-effort/
 https://cli.agentproto.sh
 https://cliptop.app/
@@ -108,6 +109,7 @@ https://github.com/ConradLu2740/ProactiveAgent
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/DiegoSalazar/AiSyncing
+https://github.com/Dilshod-Abdullayev/kvitansiya
 https://github.com/Elpulgo/polysbx
 https://github.com/EricAndrechek/Pacer
 https://github.com/ForeverSc/pinfix
@@ -245,6 +247,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 https://github.com/anthropics/claude-code/releases/tag/v2.1.278
 https://github.com/anthropics/claude-code/releases/tag/v2.1.283
+https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -439,6 +442,7 @@ https://github.com/ollama/ollama/releases/tag/v0.34.2-rc2
 https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1
 https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0
 https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1
+https://github.com/ollama/ollama/releases/tag/v0.35.0
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -720,6 +724,7 @@ https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/argofowl/status/2091150597374537729
 https://twitter.com/samelldev/status/2070213157357072794
 https://uml.gpmai.workers.dev
+https://usageupdates.com/
 https://velaterm.com/
 https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins
 https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
@@ -730,6 +735,7 @@ https://vmysla.substack.com/p/product-traceability-20-makes-claude
 https://vnoc.vercel.app/project/claudecode
 https://whetstone.akbarsha.dev/
 https://wisprflow.ai/canto
+https://wisprflow.ai/post/transcription-quality
 https://withwillow.ai/platform/claude-policy-ranger
 https://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html
 https://www.aaron-gustafson.com/notebook/2026-06-17-llm-biased-against-accessible-code/
@@ -764,6 +770,7 @@ https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in
 https://www.npmjs.com/package/@cognitive-fab/polycheck
 https://www.npmjs.com/package/@lanes-sh/link
 https://www.npmjs.com/package/@mem0/cli
+https://www.npmjs.com/package/reflex-router
 https://www.npmjs.com/package/shellphone
 https://www.ory.com/blog/ory-lumen-semantic-search-claude-code
 https://www.reddit.com/r/ClaudeAI/comments/1vknrjx/building_a_purerust_sandboxed_localfirst_browser/
