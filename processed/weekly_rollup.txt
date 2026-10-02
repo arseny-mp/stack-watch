@@ -1,10 +1,12 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-09-11:</b>
-  <b>Do now:</b>
-  • HN: Moonshot serves Claude instead of Kimi and collects exchanges for model training — Внести изменения в '/Users/user/Projects/Stack Watch/learnings.md' для запрета передачи конфиденциального кода или PII-данных через бэкенд Kimi CLI (~15 минут).
+📅 <b>2026-10-02:</b>
   <b>Experiment:</b>
-  • HN: Show HN: Claude Code hooks that log every tool call, 124ms per call — Создать тестовый скрипт '/Users/user/Projects/Stack Watch/experiment_hooks.sh', интегрировать homestead-memory и оценить задержку вызовов (~1.5 часа).
-  • HN: Show HN: iTerm2 Plugin for Codex/Claude Code — Настроить статус-бар в iTerm2 с использованием плагина 'iterm2-status' и проверить корректность отображения состояний агентов (~1 час).
+  • Release v2.1.287 — Обновить Claude Code CLI до версии v2.1.287 и протестировать стабильность работы в текущих цепочках (~30 минут).
+  • HN: Show HN: What's Agent Doing – a Claude Code UI mod that explains each step — Установить и протестировать мод 'What's Agent Doing' для Claude Code, чтобы оценить визуализацию шагов агента (~1 час).
+  • HN: Show HN: Delegate Claude Code's work to pi and a cheaper model — Протестировать pi-delegate для оценки экономии API-токенов при делегировании рутинных задач от Claude Code к Pi (~1.5 часа).
+  • HN: Show HN: Agent-Chrome – Claude Code browses in Chrome without stealing focus — Настроить и протестировать Agent-Chrome для фонового веб-браузинга из-под Claude Code без перехвата фокуса экрана (~1 час).
+  • HN: Pi-autoresearch ported to Claude Code 1:1 using the new mods API — Протестировать перенесенный модуль pi-autoresearch в Claude Code для проведения автоматических исследований прямо из CLI (~1 час).
+  • HN: Claude Code Mods: plugins may now modify deeper behavior — Изучить официальную документацию Claude Code Mods API и протестировать создание или интеграцию простого плагина (~1.5 часа).
 

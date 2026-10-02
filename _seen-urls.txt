@@ -57,6 +57,7 @@ https://code.claude.com/docs/en/desktop-linux
 https://code.claude.com/docs/en/monitoring-usage
 https://code.claude.com/docs/en/output-styles
 https://code.claude.com/docs/en/plugin-evals
+https://code.claude.com/docs/en/plugins/mods/overview
 https://code.claude.com/docs/en/security-guidance
 https://code.claude.com/docs/en/self-hosted-environments-quickstart
 https://code.claude.com/docs/en/settings
@@ -171,6 +172,7 @@ https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templa
 https://github.com/alex-reysa/glueRun-go
 https://github.com/allixsenos/asu
 https://github.com/amiinwani/whoburnedmore.com
+https://github.com/amywork777/lipflow
 https://github.com/anlor1002-alt/regressionledger
 https://github.com/anthonystaiger8-bit/memory-model
 https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3
@@ -248,6 +250,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 https://github.com/anthropics/claude-code/releases/tag/v2.1.278
 https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 https://github.com/anthropics/claude-code/releases/tag/v2.1.286
+https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -257,6 +260,7 @@ https://github.com/barvhaim/code-security-skills
 https://github.com/berwinsingh/oldhand
 https://github.com/bhpark1013/claudenews
 https://github.com/bloomberg/memray
+https://github.com/bn-l/claude-autoresearch-mod
 https://github.com/braincompany/sessiongrep
 https://github.com/browser-memory/bmem
 https://github.com/bruno-de-queiroz/hoop
@@ -292,6 +296,7 @@ https://github.com/faisalishfaq2005/loopflow
 https://github.com/faizannraza/wattage
 https://github.com/fashton28/mux
 https://github.com/flashlan/vibe-kanban-alternative
+https://github.com/franciscocarloserra/claude-code-multiharness-delegation
 https://github.com/franzenzenhofer/chrome-tab-group-cleaner
 https://github.com/freestyle-voice/freestyle
 https://github.com/fu351/Doberman-Core
@@ -329,6 +334,7 @@ https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
 https://github.com/infiniV/ultra-instinct-claude-code/blob/main/llms.txt
+https://github.com/insta-fusion/bettercallgpt
 https://github.com/itsmeduncan/commonplace
 https://github.com/jankdc/bote
 https://github.com/jerriclynsjohn/tmux-agent-pulse
@@ -386,7 +392,9 @@ https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e447
 https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
+https://github.com/munvard/dockterm
 https://github.com/mupt-ai/relaymux
+https://github.com/nestedmind/larceny
 https://github.com/nikhilkagita04/continuum
 https://github.com/nikitadoudikov/claude-pulse
 https://github.com/nikvdp/searxng-ai-kit
@@ -443,6 +451,8 @@ https://github.com/ollama/ollama/releases/tag/v0.34.3-rc1
 https://github.com/ollama/ollama/releases/tag/v0.34.4-rc0
 https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1
 https://github.com/ollama/ollama/releases/tag/v0.35.0
+https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0
+https://github.com/ollama/ollama/releases/tag/v0.35.1-rc1
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -483,8 +493,10 @@ https://github.com/raine/claude-code-proxy
 https://github.com/rainmanjam/poka-yoke
 https://github.com/raiyanyahya/recall
 https://github.com/ralfyishere/rules-with-receipts
+https://github.com/randomm/pi-delegate
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/rashedInt32/claude-hl
+https://github.com/rav4nn/agent-chrome
 https://github.com/ravsau/wrap
 https://github.com/raysonmeng/agent-bridge
 https://github.com/razzant/claudexor
@@ -535,6 +547,7 @@ https://github.com/toshipepe/tokimeter
 https://github.com/totally-tim/effort-router
 https://github.com/trailofbits/coop
 https://github.com/treyreynolds/iterm2-status
+https://github.com/tzafrir/whats-agent-doing
 https://github.com/uber/ADR
 https://github.com/ucsandman/legcli
 https://github.com/valehelle/mocca-hub
