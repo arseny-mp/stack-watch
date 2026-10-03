@@ -40,6 +40,7 @@ https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://cimons.com/article/balancing-claude-with-glm-5-2-in-mid-level-coding-agent-structuring-prompts
 https://claude.com/blog/artifacts-in-claude-code
 https://claude.com/blog/auto-mode-default-in-claude-code
+https://claude.com/blog/claude-code-mods
 https://claude.com/blog/claude-model-and-effort-level-in-claude-code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
@@ -251,6 +252,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.278
 https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 https://github.com/anthropics/claude-code/releases/tag/v2.1.287
+https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -453,6 +455,7 @@ https://github.com/ollama/ollama/releases/tag/v0.34.4-rc1
 https://github.com/ollama/ollama/releases/tag/v0.35.0
 https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0
 https://github.com/ollama/ollama/releases/tag/v0.35.1-rc1
+https://github.com/ollama/ollama/releases/tag/v0.35.1-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -803,6 +806,7 @@ https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encr
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
 https://www.vespper.com/blog/launching-vespper-docx-mcp
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
+https://www.youtube.com/watch?v=9tfGn3isfZU
 https://www.zhcinstitute.com/research/oh-my-claudecode-multi-agent-field-notes/
 https://ykdojo.github.io/claude-code-tips/content/the-missing-private-github-search.html
 https://yolo-auto.com/news/memory-options-for-agents
