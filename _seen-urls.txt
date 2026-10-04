@@ -47,6 +47,7 @@ https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-mo
 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
 https://claude.dev/blog/automating-eval-design-and-hillclimbing/
+https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
 https://claude.dev/blog/spending-your-effort/
 https://cli.agentproto.sh
 https://cliptop.app/
@@ -253,6 +254,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 https://github.com/anthropics/claude-code/releases/tag/v2.1.288
+https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -261,6 +263,7 @@ https://github.com/avenna01-ceo/claude-code-survival-kr
 https://github.com/barvhaim/code-security-skills
 https://github.com/berwinsingh/oldhand
 https://github.com/bhpark1013/claudenews
+https://github.com/blendbunjaku/optimaizr
 https://github.com/bloomberg/memray
 https://github.com/bn-l/claude-autoresearch-mod
 https://github.com/braincompany/sessiongrep
@@ -285,6 +288,7 @@ https://github.com/danielhagever/agent-guardrails-kit
 https://github.com/dat999zx/knowl
 https://github.com/deepmemteam/deepmem-claude-plugin
 https://github.com/desktop-commander/desktop-commander
+https://github.com/developerfred/agent-blackbox
 https://github.com/divadbaroon/claude-plugins
 https://github.com/dotbrt/dejaview
 https://github.com/drumih/turbo-fieldfare
@@ -396,6 +400,7 @@ https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
 https://github.com/munvard/dockterm
 https://github.com/mupt-ai/relaymux
+https://github.com/naw103/claude-routine-cleanup
 https://github.com/nestedmind/larceny
 https://github.com/nikhilkagita04/continuum
 https://github.com/nikitadoudikov/claude-pulse
