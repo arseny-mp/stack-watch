@@ -100,6 +100,7 @@ https://getcesar.dev/
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://github.com/0xmmo/crew/
 https://github.com/APareek89/power-coding
+https://github.com/AgentMemoryRepo/agentmemoryrepo
 https://github.com/Aident-AI/aident-skill
 https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
@@ -143,14 +144,17 @@ https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
+https://github.com/MrTig-afk/claude-remote
 https://github.com/NanoNets/Graft
 https://github.com/NeoLabHQ/context-engineering-kit
 https://github.com/NevaMind-AI/memU
 https://github.com/OactoDev/claude-code-field-kit
+https://github.com/Perpeer/lazychat
 https://github.com/Perseus-Computing-LLC/mimir
 https://github.com/Perufitlife/awesome-backend-security
 https://github.com/Piebald-AI/claude-code-system-prompts
 https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompts/system-prompt-autonomous-operation-guidelines.md
+https://github.com/PixiBixi/tickler
 https://github.com/Poi5eN/Nexus
 https://github.com/Pupok462/open-geo
 https://github.com/RimantasZ/contextspy
@@ -305,6 +309,7 @@ https://github.com/flashlan/vibe-kanban-alternative
 https://github.com/franciscocarloserra/claude-code-multiharness-delegation
 https://github.com/franzenzenhofer/chrome-tab-group-cleaner
 https://github.com/freestyle-voice/freestyle
+https://github.com/frizurd/postquel
 https://github.com/fu351/Doberman-Core
 https://github.com/fuckbigtech-ai/homestead-memory
 https://github.com/funador/claude-code-merge-queue
@@ -339,6 +344,7 @@ https://github.com/horilla98/agent-kit
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
 https://github.com/idodekerobo/draft
+https://github.com/imshaikot/browsentic
 https://github.com/infiniV/ultra-instinct-claude-code/blob/main/llms.txt
 https://github.com/insta-fusion/bettercallgpt
 https://github.com/itsmeduncan/commonplace
@@ -462,6 +468,7 @@ https://github.com/ollama/ollama/releases/tag/v0.35.1-rc0
 https://github.com/ollama/ollama/releases/tag/v0.35.1-rc1
 https://github.com/ollama/ollama/releases/tag/v0.35.1-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0
+https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -477,6 +484,7 @@ https://github.com/openclaw/openclaw/releases/tag/release-publish%2F468054f93c43
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F556a2ee276f0-20260718
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F61f27aadfebd-1787477342
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F8afa8f339eb6-1787798436
+https://github.com/openclaw/openclaw/releases/tag/v2026.10.1-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.11
@@ -560,6 +568,7 @@ https://github.com/uber/ADR
 https://github.com/ucsandman/legcli
 https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
+https://github.com/vectorize-io/hindsight
 https://github.com/vitalysim/browser-bridge
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
@@ -615,6 +624,7 @@ https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memor
 https://medium.com/zerogpu/how-to-reduce-ai-compute-costs-with-our-claude-code-plugin-routing-lightweight-ai-tasks-to-small-2a265e19c699
 https://mem0.ai/blog/how-to-enable-memory-in-your-agentic-stack-with-a-single-command
 https://mem0.ai/blog/introducing-agentmode-mem0-signup-without-a-human-in-the-loop
+https://memelang.net/11/
 https://mentedb.com/compare/mem0
 https://meshintelligence.substack.com/p/how-to-use-github-as-long-term-memory
 https://michaellivs.com/blog/system-reminders-steering-agents/
@@ -661,6 +671,7 @@ https://news.ycombinator.com/item?id=49550800
 https://news.ycombinator.com/item?id=49565799
 https://news.ycombinator.com/item?id=49587379
 https://news.ycombinator.com/item?id=49675094
+https://news.ycombinator.com/item?id=49964064
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -678,6 +689,7 @@ https://openai.com/index/codex-for-every-role-tool-workflow/
 https://org-edge.com/sysedge.html
 https://parametric-memory.dev
 https://parcle.ai/
+https://past.dev/blog/introducing-past-dev
 https://patrickmccanna.net/inspecting-claude-codes-network-traffic-with-linux-namespaces-and-mitm-proxying-part-1/
 https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/
 https://pchalasani.github.io/claude-code-tools/
@@ -693,6 +705,7 @@ https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
 https://raw.githubusercontent.com/zqiren/Orbital/main/docs/screenshots/handoff-codex-continue.gif
 https://recallplugin.dev
+https://reddit.com/comments/1wxu98g/
 https://release.bar
 https://releasebot.io/updates/openai
 https://research.openanalysis.net/claude/codex/hacking/ai%20hacking/llm/redteam/policy%20violation/2026/06/16/compromised-claude-hacking.html
