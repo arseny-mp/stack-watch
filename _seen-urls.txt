@@ -47,6 +47,7 @@ https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-mo
 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
 https://claude.dev/blog/automating-eval-design-and-hillclimbing/
+https://claude.dev/blog/claude-code-in-the-cloud/
 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
 https://claude.dev/blog/spending-your-effort/
 https://cli.agentproto.sh
@@ -69,6 +70,7 @@ https://code.claude.com/docs/en/workflows
 https://code.intellios.ai
 https://codeaholicguy.com/2026/06/17/i-read-every-claude-code-hook-so-you-dont-have-to/
 https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/
+https://cognition.com/agent-memory-repo
 https://contextify.sh/
 https://contextuallabs.dev
 https://cowchat.cowboy.inc/
@@ -91,6 +93,7 @@ https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automo
 https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://extraheadroom.com/
+https://extraheadroom.com/blog/claude-code-savings-real-usage
 https://festudio.net/agentpace/
 https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion
 https://fixyourdocs.io/
@@ -157,6 +160,7 @@ https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompt
 https://github.com/PixiBixi/tickler
 https://github.com/Poi5eN/Nexus
 https://github.com/Pupok462/open-geo
+https://github.com/RahulBalakavi/cc-limit-pacer
 https://github.com/RimantasZ/contextspy
 https://github.com/Santosh-Prasad-Verma/ClaudeGate
 https://github.com/SaravananJaichandar/world-model-mcp
@@ -173,6 +177,7 @@ https://github.com/Yu-Xiao-Sheng/codex-memory-trim
 https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
 https://github.com/adityaarunsinghal/cc-hindsight
+https://github.com/ajithraghavan/make-it-click
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
 https://github.com/alex-reysa/glueRun-go
@@ -259,6 +264,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 https://github.com/anthropics/claude-code/releases/tag/v2.1.289
+https://github.com/anthropics/claude-code/releases/tag/v2.1.291
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -393,6 +399,7 @@ https://github.com/memcode-ai/memcode
 https://github.com/mindmuxai/brain.md
 https://github.com/miopea/swarm
 https://github.com/mirko-pira/skillhealth
+https://github.com/mjalalimanesh/skillhub-local
 https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
@@ -469,6 +476,9 @@ https://github.com/ollama/ollama/releases/tag/v0.35.1-rc1
 https://github.com/ollama/ollama/releases/tag/v0.35.1-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2
+https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3
+https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4
+https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -535,6 +545,7 @@ https://github.com/saurabhav88/EnviousWispr
 https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
 https://github.com/shofer-dev/claude-code-live-memory
+https://github.com/simonether/skill-placebo
 https://github.com/skillsynchq/txcript
 https://github.com/skorotkiewicz/zero-mem
 https://github.com/slash9494/ai-config-sync-manager
@@ -559,6 +570,7 @@ https://github.com/tmux/tmux/releases/tag/3.8-rc2
 https://github.com/tohid4n/qwen3.8-max-local-coding
 https://github.com/tomascupr/sous-chef
 https://github.com/tomreinert/claude-annotate
+https://github.com/tomw1808/flash-agents
 https://github.com/toshipepe/tokimeter
 https://github.com/totally-tim/effort-router
 https://github.com/trailofbits/coop
@@ -687,6 +699,7 @@ https://ollama.com/pricing
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://org-edge.com/sysedge.html
+https://ototo.dev/
 https://parametric-memory.dev
 https://parcle.ai/
 https://past.dev/blog/introducing-past-dev
@@ -709,12 +722,15 @@ https://reddit.com/comments/1wxu98g/
 https://release.bar
 https://releasebot.io/updates/openai
 https://research.openanalysis.net/claude/codex/hacking/ai%20hacking/llm/redteam/policy%20violation/2026/06/16/compromised-claude-hacking.html
+https://rill.love/
 https://rondoflow.app/
+https://runbook.scosovan.com/claude-code-routine-reported-success-did-nothing/
 https://runtimewire.com/article/claude-code-s-hidden-china-signal
 https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-member-announces-donation-to-rust-project/
 https://rzhub.github.io/GateMem/project.html
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
+https://screenrecords.app/
 https://secretspec.dev/blog/claude-code-stores-oauth-tokens-in-plaintext/
 https://sessionradar.com
 https://shipfeed.fyi/storyline/adds-cline-cli-auto-install-and-qwen-code-integration-to-launch-2
@@ -825,6 +841,7 @@ https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
 https://www.vespper.com/blog/launching-vespper-docx-mcp
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
 https://www.youtube.com/watch?v=9tfGn3isfZU
+https://www.youtube.com/watch?v=yUuFvL1lK4k
 https://www.zhcinstitute.com/research/oh-my-claudecode-multi-agent-field-notes/
 https://ykdojo.github.io/claude-code-tips/content/the-missing-private-github-search.html
 https://yolo-auto.com/news/memory-options-for-agents
