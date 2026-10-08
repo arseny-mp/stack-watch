@@ -265,6 +265,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 https://github.com/anthropics/claude-code/releases/tag/v2.1.291
+https://github.com/anthropics/claude-code/releases/tag/v2.1.294
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -373,6 +374,7 @@ https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/lobu-ai/lobu
 https://github.com/loopedautomation/whisper
+https://github.com/lowenbjer/claude-terse
 https://github.com/lucastononro/cc-traj-seg
 https://github.com/marciob/agenttab
 https://github.com/mateusdcc/pi-gpt-search
@@ -479,6 +481,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5
+https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -684,6 +687,7 @@ https://news.ycombinator.com/item?id=49565799
 https://news.ycombinator.com/item?id=49587379
 https://news.ycombinator.com/item?id=49675094
 https://news.ycombinator.com/item?id=49964064
+https://news.ycombinator.com/item?id=49997654
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -710,6 +714,7 @@ https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/
 https://phasespace.co/blog/git-blame-for-your-agents-memory/
 https://philippdubach.com/posts/kimi-k3-inside-claude-code/
 https://pipevoice.app/
+https://platform.claude.com/docs/en/models/haiku-5-5/overview
 https://platform.claude.com/docs/en/release-notes/overview
 https://pmbai.dev
 https://portal.cybercorpresearch.com/
@@ -790,6 +795,7 @@ https://withwillow.ai/platform/claude-policy-ranger
 https://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html
 https://www.aaron-gustafson.com/notebook/2026-06-17-llm-biased-against-accessible-code/
 https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt
+https://www.andreagrandi.it/posts/claude-code-subagents-to-save-usage/
 https://www.androidauthority.com/chatgpt-4-5-o3-retired-3672713/
 https://www.androidauthority.com/notebooklm-new-report-formats-3673677/
 https://www.anthropic.com/claude-fable-and-mythos-5-1
