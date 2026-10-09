@@ -171,6 +171,7 @@ https://github.com/Toadoum/ai-research-skill
 https://github.com/ToxicPine/offloads
 https://github.com/Trivo25/code-airlock
 https://github.com/Watari995/cc-preview
+https://github.com/WellWells/agentswap
 https://github.com/Ymirke/tmux-agent-switcher
 https://github.com/YoanWai/agent-manager
 https://github.com/Yu-Xiao-Sheng/codex-memory-trim
@@ -266,6 +267,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 https://github.com/anthropics/claude-code/releases/tag/v2.1.291
 https://github.com/anthropics/claude-code/releases/tag/v2.1.294
+https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
@@ -287,6 +289,7 @@ https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
 https://github.com/chipmates/cctap
 https://github.com/choiyounggi/cliclaw
+https://github.com/cjodo/claude-colorizer
 https://github.com/clay-good/OpenLore
 https://github.com/cloudkj/llayer
 https://github.com/craigstoller/claude-code-sessions/blob/main/docs/the-session-that-synced-itself.md
@@ -372,6 +375,7 @@ https://github.com/labzink/cc-probeline
 https://github.com/lacion/fleet-deck
 https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
+https://github.com/legostin/wirepane
 https://github.com/lobu-ai/lobu
 https://github.com/loopedautomation/whisper
 https://github.com/lowenbjer/claude-terse
@@ -777,6 +781,7 @@ https://twitter.com/ClaudeDevs/status/2093742322525810912
 https://twitter.com/DavidAgranovich/status/2098168522862215449
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/argofowl/status/2091150597374537729
+https://twitter.com/mitchellh/status/2108296550405619967
 https://twitter.com/samelldev/status/2070213157357072794
 https://uml.gpmai.workers.dev
 https://usageupdates.com/

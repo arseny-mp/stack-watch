@@ -1,12 +1,8 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-10-02:</b>
+📅 <b>2026-10-09:</b>
   <b>Experiment:</b>
-  • Release v2.1.287 — Обновить Claude Code CLI до версии v2.1.287 и протестировать стабильность работы в текущих цепочках (~30 минут).
-  • HN: Show HN: What's Agent Doing – a Claude Code UI mod that explains each step — Установить и протестировать мод 'What's Agent Doing' для Claude Code, чтобы оценить визуализацию шагов агента (~1 час).
-  • HN: Show HN: Delegate Claude Code's work to pi and a cheaper model — Протестировать pi-delegate для оценки экономии API-токенов при делегировании рутинных задач от Claude Code к Pi (~1.5 часа).
-  • HN: Show HN: Agent-Chrome – Claude Code browses in Chrome without stealing focus — Настроить и протестировать Agent-Chrome для фонового веб-браузинга из-под Claude Code без перехвата фокуса экрана (~1 час).
-  • HN: Pi-autoresearch ported to Claude Code 1:1 using the new mods API — Протестировать перенесенный модуль pi-autoresearch в Claude Code для проведения автоматических исследований прямо из CLI (~1 час).
-  • HN: Claude Code Mods: plugins may now modify deeper behavior — Изучить официальную документацию Claude Code Mods API и протестировать создание или интеграцию простого плагина (~1.5 часа).
+  • Release v2.1.295 — Обновить Claude Code CLI до версии v2.1.295 и запустить базовые тесты на проверку совместимости с текущим окружением (~30 минут).
+  • HN: Claude Code merged support for OSC 7501 — Обновить Claude Code и проверить, улучшилась ли глубина интеграции (например, открытие файлов, отслеживание фокуса) в Ghostty (~30 минут).
 
