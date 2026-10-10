@@ -239,7 +239,8 @@
     "v2.1.294",
     "v2.1.293",
     "v2.1.292",
-    "v2.1.295"
+    "v2.1.295",
+    "v2.1.296"
   ],
   "mem0": [
     "v2.4.6",
@@ -442,7 +443,8 @@
     "v3.7.4",
     "v20261008-nightly: Keep session mentions linkable when markdown pairs their underscores",
     "v20261007-nightly: Don't warn about another running instance in a test host",
-    "v20261009-nightly: Skip tests that put windows on screen unless ITERM2_ONSCREEN_TESTS=1"
+    "v20261009-nightly: Skip tests that put windows on screen unless ITERM2_ONSCREEN_TESTS=1",
+    "v20261010-nightly"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -768,7 +770,9 @@
     "a207787",
     "e4e721e",
     "9e62490",
-    "a256c5a"
+    "a256c5a",
+    "956d36f",
+    "e87a2de"
   ],
   "hn_discovery": [
     "48414924",
@@ -4803,7 +4807,26 @@
     "50014353",
     "50010250",
     "50009575",
-    "50009042"
+    "50009042",
+    "50031093",
+    "50025042",
+    "50017301",
+    "50033782",
+    "50033571",
+    "50029940",
+    "50027416",
+    "50026819",
+    "50026741",
+    "50025127",
+    "50024608",
+    "50024345",
+    "50023930",
+    "50032503",
+    "50029798",
+    "50026588",
+    "50026431",
+    "50023953",
+    "50023174"
   ],
   "tmux": [
     "tmux 3.7-rc",

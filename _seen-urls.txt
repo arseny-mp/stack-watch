@@ -140,6 +140,7 @@ https://github.com/Lukeesec/mux-beacon
 https://github.com/Mamasodikov/hasharot
 https://github.com/MaorBril/agentic
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
+https://github.com/Max-Levitskiy/skills/tree/main/plugins/ml-agent-config
 https://github.com/MerqryLabs/ai-crawler-visibility
 https://github.com/MohammedNihal03/AI-observibility
 https://github.com/MongLong0214/commitlore
@@ -269,6 +270,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.291
 https://github.com/anthropics/claude-code/releases/tag/v2.1.294
 https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
+https://github.com/arimwilson/openremainderbot
 https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
@@ -305,6 +307,7 @@ https://github.com/desktop-commander/desktop-commander
 https://github.com/developerfred/agent-blackbox
 https://github.com/divadbaroon/claude-plugins
 https://github.com/dotbrt/dejaview
+https://github.com/drkokorev/context-diet
 https://github.com/drumih/turbo-fieldfare
 https://github.com/duqaXxX/seedeep
 https://github.com/dylanp12/alluvia
@@ -421,6 +424,7 @@ https://github.com/munvard/dockterm
 https://github.com/mupt-ai/relaymux
 https://github.com/naw103/claude-routine-cleanup
 https://github.com/nestedmind/larceny
+https://github.com/nickyreinert/iTermSysMon
 https://github.com/nikhilkagita04/continuum
 https://github.com/nikitadoudikov/claude-pulse
 https://github.com/nikvdp/searxng-ai-kit
@@ -632,6 +636,7 @@ https://llama-dash.dev
 https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html
 https://lore.link/blog/how-we-built-share
 https://lukasvonkunhardt.com/obsidian-claude-code-setup/
+https://m3.sineframe.com/blog/claude-code-vs-codex-mcp
 https://malucelli.net/posts/2026-09-07-how-i-extend-claude-code
 https://marktechpost.com
 https://mauroepce.dev/blog/trust-boundaries-claude-code
