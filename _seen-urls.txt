@@ -50,6 +50,7 @@ https://claude.dev/blog/automating-eval-design-and-hillclimbing/
 https://claude.dev/blog/claude-code-in-the-cloud/
 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
 https://claude.dev/blog/spending-your-effort/
+https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/
 https://cli.agentproto.sh
 https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
@@ -108,6 +109,7 @@ https://github.com/Aident-AI/aident-skill
 https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
 https://github.com/Alfredvc/aharness
+https://github.com/BEX-Robotics/rezoom
 https://github.com/Bhavya6187/tandem
 https://github.com/Bigbonus/ollama-context-window-check
 https://github.com/CelestoAI/smolfs
@@ -326,6 +328,7 @@ https://github.com/frizurd/postquel
 https://github.com/fu351/Doberman-Core
 https://github.com/fuckbigtech-ai/homestead-memory
 https://github.com/funador/claude-code-merge-queue
+https://github.com/gabe4coding/claude-code-mode
 https://github.com/gadievron/raptor
 https://github.com/gageml/gage
 https://github.com/gavingolden/flow/
@@ -411,9 +414,11 @@ https://github.com/mirko-pira/skillhealth
 https://github.com/mjalalimanesh/skillhub-local
 https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
+https://github.com/modelcontextprotocol/servers/commit/3f6aaf4ff6b3d48243f8a94f1ea8dafb574de5ad
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
+https://github.com/modelcontextprotocol/servers/commit/c6f2dda9f4ad75f85bd53dc46d7d6a707f23878c
 https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f
 https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb
 https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e4471632ddf942b06a2
@@ -490,6 +495,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6
+https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
 https://github.com/openai/codex/releases/tag/rust-v0.133.0
@@ -505,6 +511,8 @@ https://github.com/openclaw/openclaw/releases/tag/release-publish%2F468054f93c43
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F556a2ee276f0-20260718
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F61f27aadfebd-1787477342
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F8afa8f339eb6-1787798436
+https://github.com/openclaw/openclaw/releases/tag/release-publish%2Fa17bd679979e-1791717771
+https://github.com/openclaw/openclaw/releases/tag/v2026.10.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.10.1-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
@@ -557,6 +565,7 @@ https://github.com/shimo4228/codex-review
 https://github.com/shirozuki/claude-cli
 https://github.com/shofer-dev/claude-code-live-memory
 https://github.com/simonether/skill-placebo
+https://github.com/skillkeel/skillkeel-starter
 https://github.com/skillsynchq/txcript
 https://github.com/skorotkiewicz/zero-mem
 https://github.com/slash9494/ai-config-sync-manager
@@ -596,6 +605,7 @@ https://github.com/vitalysim/browser-bridge
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
 https://github.com/wdhwg001/csift
+https://github.com/woct0rdho/transformers5-qwen3.5-recipe
 https://github.com/woladi/macos-vision-mcp
 https://github.com/wonderwhy-er/DesktopCommanderMCP/releases/tag/v0.2.41
 https://github.com/workweave/router
@@ -607,6 +617,7 @@ https://github.com/ykdojo/claude-code-tips
 https://github.com/yonk-labs/claude-session-analyzer
 https://github.com/yuliang615/claude-cache-guard
 https://github.com/zaghaghi/toolog
+https://gitlab.com/kriscodes2-claude-plugins/ai-layer
 https://helgesver.re/articles/claude-code-bang-command-caveat
 https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 https://help.openai.com/en/articles/20001257
@@ -632,6 +643,7 @@ https://labs.flur.ee/docs/memory
 https://labyrinthanalyticsconsulting.com/blog/claude-memory-primitive-vs-loreconvo-vs-claude-mem-vs-mem0
 https://lance.black
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
+https://littleguys.hervalicio.us
 https://llama-dash.dev
 https://lognebudo.github.io/llmxray/docs/en/articles/ollama-prefill-metrics.html
 https://lore.link/blog/how-we-built-share
