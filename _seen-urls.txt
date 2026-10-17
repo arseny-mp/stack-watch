@@ -46,6 +46,7 @@ https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
+https://claude.com/resources/articles/code-review-is-now-generally-available
 https://claude.dev/blog/automating-eval-design-and-hillclimbing/
 https://claude.dev/blog/claude-code-in-the-cloud/
 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
@@ -122,6 +123,7 @@ https://github.com/Dilshod-Abdullayev/kvitansiya
 https://github.com/Elpulgo/polysbx
 https://github.com/EricAndrechek/Pacer
 https://github.com/ForeverSc/pinfix
+https://github.com/FramY2/ctxwise
 https://github.com/FrigadeHQ/yap
 https://github.com/FvdHMBAI/guardrail
 https://github.com/GLechevalier/nff
@@ -332,6 +334,7 @@ https://github.com/gabe4coding/claude-code-mode
 https://github.com/gadievron/raptor
 https://github.com/gageml/gage
 https://github.com/gavingolden/flow/
+https://github.com/gethrbr/context-tax
 https://github.com/ggml-org/llama.cpp/pull/24219
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
@@ -350,6 +353,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260805-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260820-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260922-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260927-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20261012-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
 https://github.com/gtapps/claude-code-hermit/
 https://github.com/gvzdv/claudish-to-english
@@ -545,6 +549,7 @@ https://github.com/rav4nn/agent-chrome
 https://github.com/ravsau/wrap
 https://github.com/raysonmeng/agent-bridge
 https://github.com/razzant/claudexor
+https://github.com/rebase-energy/hillclimb
 https://github.com/regolo-ai/brick-SR1
 https://github.com/rekol-io/rekol
 https://github.com/rickardstureborg/claude-needs-input
@@ -742,6 +747,7 @@ https://portal.cybercorpresearch.com/
 https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/
 https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
+https://rabin-a.github.io/mcp-router/#benchmark
 https://raw.githubusercontent.com/zqiren/Orbital/main/docs/screenshots/handoff-codex-continue.gif
 https://recallplugin.dev
 https://reddit.com/comments/1wxu98g/
