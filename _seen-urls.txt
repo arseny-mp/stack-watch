@@ -183,12 +183,14 @@ https://github.com/Yu-Xiao-Sheng/codex-memory-trim
 https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
 https://github.com/adityaarunsinghal/cc-hindsight
+https://github.com/ahmtsahin/claude-env-tabs
 https://github.com/ajithraghavan/make-it-click
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
 https://github.com/alex-reysa/glueRun-go
 https://github.com/allixsenos/asu
 https://github.com/amiinwani/whoburnedmore.com
+https://github.com/amirzak/claude-code-voice-uh-filter
 https://github.com/amywork777/lipflow
 https://github.com/anlor1002-alt/regressionledger
 https://github.com/anthonystaiger8-bit/memory-model
