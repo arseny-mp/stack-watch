@@ -275,6 +275,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 https://github.com/anthropics/claude-code/releases/tag/v2.1.291
 https://github.com/anthropics/claude-code/releases/tag/v2.1.294
 https://github.com/anthropics/claude-code/releases/tag/v2.1.295
+https://github.com/anthropics/claude-code/releases/tag/v2.1.310
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arimwilson/openremainderbot
 https://github.com/arsenis-cmd/clai-benchmarks
@@ -501,6 +502,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6
+https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -520,6 +522,7 @@ https://github.com/openclaw/openclaw/releases/tag/release-publish%2F8afa8f339eb6
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2Fa17bd679979e-1791717771
 https://github.com/openclaw/openclaw/releases/tag/v2026.10.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.10.1-beta.1
+https://github.com/openclaw/openclaw/releases/tag/v2026.10.7
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-alpha.3
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1
 https://github.com/openclaw/openclaw/releases/tag/v2026.6.11
@@ -716,6 +719,8 @@ https://news.ycombinator.com/item?id=49587379
 https://news.ycombinator.com/item?id=49675094
 https://news.ycombinator.com/item?id=49964064
 https://news.ycombinator.com/item?id=49997654
+https://news.ycombinator.com/item?id=50185265
+https://news.ycombinator.com/item?id=50214693
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -806,6 +811,7 @@ https://twitter.com/ClaudeDevs/status/2093742322525810912
 https://twitter.com/DavidAgranovich/status/2098168522862215449
 https://twitter.com/IntCyberDigest/status/2071971609183678544
 https://twitter.com/argofowl/status/2091150597374537729
+https://twitter.com/chrislakin/status/2113358733548081528
 https://twitter.com/mitchellh/status/2108296550405619967
 https://twitter.com/samelldev/status/2070213157357072794
 https://uml.gpmai.workers.dev
@@ -881,3 +887,4 @@ https://www.youtube.com/watch?v=yUuFvL1lK4k
 https://www.zhcinstitute.com/research/oh-my-claudecode-multi-agent-field-notes/
 https://ykdojo.github.io/claude-code-tips/content/the-missing-private-github-search.html
 https://yolo-auto.com/news/memory-options-for-agents
+https://yzma.ai/docs/reference/benchmarks/#comparing-engines
