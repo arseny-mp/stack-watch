@@ -11,6 +11,7 @@ https://ai.google.dev/gemini-api/docs/changelog
 https://ai.google.dev/gemini-api/docs/interactions-breaking-changes-may-2026
 https://aicommander.dev/
 https://aiweekly.co
+https://aiweekly.co/alerts/anthropic-open-sources-claude-code-sandbox-under-apache-20
 https://ama2.me/
 https://anona-labs.github.io/mirror/
 https://antigma.ai/blog/2026/07/25/short-prompt-small-models
@@ -721,6 +722,7 @@ https://news.ycombinator.com/item?id=49964064
 https://news.ycombinator.com/item?id=49997654
 https://news.ycombinator.com/item?id=50185265
 https://news.ycombinator.com/item?id=50214693
+https://news.ycombinator.com/item?id=50222093
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
