@@ -173,6 +173,7 @@ https://github.com/SaravananJaichandar/world-model-mcp
 https://github.com/StoneSteel27/AutomatiQ
 https://github.com/SuperNotesOnline/ThinkFull
 https://github.com/TeamDzX/myllm-connect
+https://github.com/TheWariend/MuscleMemory
 https://github.com/Toadoum/ai-research-skill
 https://github.com/ToxicPine/offloads
 https://github.com/Trivo25/code-airlock
@@ -198,6 +199,7 @@ https://github.com/anthonystaiger8-bit/memory-model
 https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3
 https://github.com/anthropics/claude-code/issues
 https://github.com/anthropics/claude-code/issues/16537
+https://github.com/anthropics/claude-code/issues/17107
 https://github.com/anthropics/claude-code/issues/30467
 https://github.com/anthropics/claude-code/issues/62198
 https://github.com/anthropics/claude-code/issues/6235
@@ -544,6 +546,7 @@ https://github.com/proliferate-ai/proliferate
 https://github.com/ptmrio/harness-subagent
 https://github.com/puffinsoft/peek-cli
 https://github.com/pyor-review/pyor-cli
+https://github.com/radu2lupu/limitbreak
 https://github.com/raine/claude-code-proxy
 https://github.com/rainmanjam/poka-yoke
 https://github.com/raiyanyahya/recall
@@ -588,6 +591,7 @@ https://github.com/solodynamo/Ration
 https://github.com/sorantis/portal-ai-plugins/tree/add-shunt-claude/plugins/shunt
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
+https://github.com/swapnildahiphale/compactly
 https://github.com/thegoodguysla/myco-brain
 https://github.com/theoriclabs/agent-convert
 https://github.com/tigerless-labs/autoharness
@@ -733,6 +737,7 @@ https://oldskultxo.substack.com/p/maybe-coding-agents-dont-need-a-bigger
 https://ollama.com/blog/claude-desktop
 https://ollama.com/blog/faster-gemma-4-mlx-mtp
 https://ollama.com/blog/muse-glimmer
+https://ollama.com/blog/speech-models
 https://ollama.com/library/kimi-k3
 https://ollama.com/pricing
 https://openai.com/index/chatgpt-memory-dreaming/
