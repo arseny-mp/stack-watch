@@ -100,10 +100,12 @@ https://extraheadroom.com/blog/claude-code-savings-real-usage
 https://festudio.net/agentpace/
 https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion
 https://fixyourdocs.io/
+https://forever.security/blog/embrace-hacking-5-ai-assistants-embedded-browsers/
 https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill
 https://frigade.com/yap
 https://getcesar.dev/
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
+https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
 https://github.com/0xmmo/crew/
 https://github.com/APareek89/power-coding
 https://github.com/AgentMemoryRepo/agentmemoryrepo
@@ -115,6 +117,7 @@ https://github.com/BEX-Robotics/rezoom
 https://github.com/Bhavya6187/tandem
 https://github.com/Bigbonus/ollama-context-window-check
 https://github.com/CelestoAI/smolfs
+https://github.com/ChrystianSchutz/ThreadShelf
 https://github.com/Clear-Sights/Makoto
 https://github.com/ConradLu2740/ProactiveAgent
 https://github.com/DeibyGS/claudestat
@@ -195,6 +198,7 @@ https://github.com/amiinwani/whoburnedmore.com
 https://github.com/amirzak/claude-code-voice-uh-filter
 https://github.com/amywork777/lipflow
 https://github.com/anlor1002-alt/regressionledger
+https://github.com/anonbeat1/overheard
 https://github.com/anthonystaiger8-bit/memory-model
 https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3
 https://github.com/anthropics/claude-code/issues
@@ -361,6 +365,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260922-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260927-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20261012-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
+https://github.com/grimmerk/memsaga
 https://github.com/gtapps/claude-code-hermit/
 https://github.com/gvzdv/claudish-to-english
 https://github.com/hamzarehmandeveloper/claude-account
@@ -506,6 +511,8 @@ https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5
 https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6
 https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0
+https://github.com/ollama/ollama/releases/tag/v0.40.12
+https://github.com/ollama/ollama/releases/tag/v0.40.13
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -541,6 +548,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.9.5
 https://github.com/openclaw/openclaw/releases/tag/v2026.9.6
 https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
+https://github.com/overflowy/claude-scrub
 https://github.com/patibandlavenkatamanideep/memoryops-ai
 https://github.com/proliferate-ai/proliferate
 https://github.com/ptmrio/harness-subagent
@@ -592,6 +600,7 @@ https://github.com/sorantis/portal-ai-plugins/tree/add-shunt-claude/plugins/shun
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
 https://github.com/superalp1985/fame-knowledge-agent-gateway
 https://github.com/swapnildahiphale/compactly
+https://github.com/thedotmack/claude-mem/issues/5176
 https://github.com/thegoodguysla/myco-brain
 https://github.com/theoriclabs/agent-convert
 https://github.com/tigerless-labs/autoharness
@@ -727,6 +736,7 @@ https://news.ycombinator.com/item?id=49997654
 https://news.ycombinator.com/item?id=50185265
 https://news.ycombinator.com/item?id=50214693
 https://news.ycombinator.com/item?id=50222093
+https://news.ycombinator.com/item?id=50286306
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
