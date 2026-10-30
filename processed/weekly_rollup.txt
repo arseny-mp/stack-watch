@@ -1,8 +1,11 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-10-09:</b>
+📅 <b>2026-10-30:</b>
+  <b>Do now:</b>
+  • HN: The backdoored Claude Code 2.1.313 build in Cursor's marketplace, explained — Проверить локальные установки Claude Code и расширения на наличие незарегистрированных плагинов (~30 мин).
+  • HN: Show HN: ccfleet, a quiet, tmux-native Claude Code dashboard — Установить ccfleet и интегрировать с tmux (~30 мин).
   <b>Experiment:</b>
-  • Release v2.1.295 — Обновить Claude Code CLI до версии v2.1.295 и запустить базовые тесты на проверку совместимости с текущим окружением (~30 минут).
-  • HN: Claude Code merged support for OSC 7501 — Обновить Claude Code и проверить, улучшилась ли глубина интеграции (например, открытие файлов, отслеживание фокуса) в Ghostty (~30 минут).
+  • HN: Show HN: Cc-pair – Claude Code and Codex review each other's work — Протестировать cc-pair на отдельной ветке разработки (~1 час).
+  • HN: Show HN: Type and+ in Claude Code and a second Claude rewrites your prompt first — Протестировать prompt-refiner на нескольких сложных задачах (~30 мин).
 

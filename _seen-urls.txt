@@ -124,6 +124,7 @@ https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
 https://github.com/DiegoSalazar/AiSyncing
 https://github.com/Dilshod-Abdullayev/kvitansiya
+https://github.com/Dodaios/Dodaios
 https://github.com/Elpulgo/polysbx
 https://github.com/EricAndrechek/Pacer
 https://github.com/ForeverSc/pinfix
@@ -380,6 +381,7 @@ https://github.com/infiniV/ultra-instinct-claude-code/blob/main/llms.txt
 https://github.com/insta-fusion/bettercallgpt
 https://github.com/itsmeduncan/commonplace
 https://github.com/jankdc/bote
+https://github.com/jdbrewer/ccfleet
 https://github.com/jerriclynsjohn/tmux-agent-pulse
 https://github.com/jhickner/tmux-agent-tabs
 https://github.com/joanseg/specmanager
@@ -397,11 +399,13 @@ https://github.com/lacion/fleet-deck
 https://github.com/lambda-alpha-labs/Graphenium
 https://github.com/las7/memharness
 https://github.com/legostin/wirepane
+https://github.com/leonlee/cc-pair
 https://github.com/lobu-ai/lobu
 https://github.com/loopedautomation/whisper
 https://github.com/lowenbjer/claude-terse
 https://github.com/lucastononro/cc-traj-seg
 https://github.com/marciob/agenttab
+https://github.com/marciob/prompt-refiner
 https://github.com/mateusdcc/pi-gpt-search
 https://github.com/mcancellotti/tokendiet
 https://github.com/mem0ai/mem0/releases/tag/cli-node-v0.2.8
@@ -624,6 +628,7 @@ https://github.com/uber/ADR
 https://github.com/ucsandman/legcli
 https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
+https://github.com/vanmiku/mydash
 https://github.com/vectorize-io/hindsight
 https://github.com/vitalysim/browser-bridge
 https://github.com/vukkt/token-warden
@@ -814,6 +819,8 @@ https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
 https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt
 https://testingcatalog.net/moonshot-ai-rewrites-kimi-code-fully-adopting-claude-codes-architecture/
 https://theaileverageweekly.com/posts/claude-vs-chatgpt-for-code-review-which-is-better.html
+https://theainewsreport.com/2026-10-29-claude-code-agent-summary-cost-explained.html
+https://theainewsreport.com/2026-10-30-cursor-claude-code-2-1-313-backdoor-explained.html
 https://thenewstack.io/agent-harness-token-costs/
 https://thenewstack.io/agentjacking-sentry-mcp-attack/
 https://thenewstack.io/openai-chatgpt-computer-history/
@@ -872,6 +879,7 @@ https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/
 https://www.manifold.security/blog/ai-coding-agents-git-hijack
+https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/
 https://www.maxtaylor.me/articles/i-benchmarked-tdd-guard-it-didn-t-write-better-code
 https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
 https://www.nlmtools.com/blog/notebooklm-collections-guide
