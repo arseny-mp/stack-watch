@@ -309,6 +309,7 @@ https://github.com/choiyounggi/cliclaw
 https://github.com/cjodo/claude-colorizer
 https://github.com/clay-good/OpenLore
 https://github.com/cloudkj/llayer
+https://github.com/cookiengineer/check-claude-code-exfil
 https://github.com/craigstoller/claude-code-sessions/blob/main/docs/the-session-that-synced-itself.md
 https://github.com/cyrusNuevoDia/gpt-workflow
 https://github.com/d-date/retok

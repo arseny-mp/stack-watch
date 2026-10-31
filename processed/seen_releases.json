@@ -285,7 +285,8 @@
     "v2.1.303",
     "v2.1.312",
     "v2.1.311",
-    "v2.1.314"
+    "v2.1.314",
+    "v2.1.316"
   ],
   "mem0": [
     "v2.4.6",
@@ -510,7 +511,8 @@
     "v20261028-nightly",
     "v20261027-nightly",
     "v3.7.7beta2",
-    "v20261030-nightly: Expect the process group column in the framer's ps command"
+    "v20261030-nightly: Expect the process group column in the framer's ps command",
+    "v20261031-nightly: Say what was still pending when screen tests give up waiting for tokens"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -786,7 +788,12 @@
     "release-publish/f4a0d4875912-1793065112",
     "2026.10.10-beta.5",
     "2026.9.36",
-    "release-publish/4ccc7e2eba58-1793299051"
+    "release-publish/4ccc7e2eba58-1793299051",
+    "release-publish/b77ccbe99222-1793410137: fix(release): pin calibrated Kova evaluator (#188918)",
+    "release-publish/a57e5beb1266-1793415069: fix(release): install WebKit for repo UI E2E (#188985)",
+    "release-publish/385f0d8eaaf1-1793384660: fix(release): accept omitted admission steps (#188597)",
+    "release-publish/81ecf56d0810-1793402126: fix(release): pin stable OpenCode Go smoke to reachable model (#188814)",
+    "release-publish/a3df6c6c8118-1793383326: fix(chat): older history stops loading from legacy transcripts (#188488)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5326,7 +5333,29 @@
     "50293361",
     "50292995",
     "50292729",
-    "50291570"
+    "50291570",
+    "50316806",
+    "50316526",
+    "50315987",
+    "50314506",
+    "50314271",
+    "50313989",
+    "50313539",
+    "50311376",
+    "50307060",
+    "50306706",
+    "50305218",
+    "50310590",
+    "50316849",
+    "50316702",
+    "50316251",
+    "50314643",
+    "50313542",
+    "50313473",
+    "50312426",
+    "50310938",
+    "50309199",
+    "50308303"
   ],
   "tmux": [
     "tmux 3.7-rc",
