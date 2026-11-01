@@ -53,6 +53,7 @@ https://claude.dev/blog/claude-code-in-the-cloud/
 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
 https://claude.dev/blog/spending-your-effort/
 https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/
+https://clawdline.com/
 https://cli.agentproto.sh
 https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
@@ -148,6 +149,8 @@ https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
 https://github.com/Lukeesec/mux-beacon
 https://github.com/Mamasodikov/hasharot
 https://github.com/MaorBril/agentic
+https://github.com/Marius-Adam/claude-files-pane/blob/main/docs/demo.gif
+https://github.com/Marqueos/codedict
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
 https://github.com/Max-Levitskiy/skills/tree/main/plugins/ml-agent-config
 https://github.com/MerqryLabs/ai-crawler-visibility
@@ -369,6 +372,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20261012-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
 https://github.com/grimmerk/memsaga
 https://github.com/gtapps/claude-code-hermit/
+https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
 https://github.com/gvzdv/claudish-to-english
 https://github.com/hamzarehmandeveloper/claude-account
 https://github.com/hbkdad/arc
@@ -385,6 +389,7 @@ https://github.com/jankdc/bote
 https://github.com/jdbrewer/ccfleet
 https://github.com/jerriclynsjohn/tmux-agent-pulse
 https://github.com/jhickner/tmux-agent-tabs
+https://github.com/jjinendra3/amidumb
 https://github.com/joanseg/specmanager
 https://github.com/joey-io/gauge
 https://github.com/kageroumado/adrafinil
@@ -743,6 +748,7 @@ https://news.ycombinator.com/item?id=50185265
 https://news.ycombinator.com/item?id=50214693
 https://news.ycombinator.com/item?id=50222093
 https://news.ycombinator.com/item?id=50286306
+https://news.ycombinator.com/item?id=50324343
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com

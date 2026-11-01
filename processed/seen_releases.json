@@ -512,7 +512,8 @@
     "v20261027-nightly",
     "v3.7.7beta2",
     "v20261030-nightly: Expect the process group column in the framer's ps command",
-    "v20261031-nightly: Say what was still pending when screen tests give up waiting for tokens"
+    "v20261031-nightly: Say what was still pending when screen tests give up waiting for tokens",
+    "v20261101-nightly: Fill in missing translations after extracting strings"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -793,7 +794,8 @@
     "release-publish/a57e5beb1266-1793415069: fix(release): install WebKit for repo UI E2E (#188985)",
     "release-publish/385f0d8eaaf1-1793384660: fix(release): accept omitted admission steps (#188597)",
     "release-publish/81ecf56d0810-1793402126: fix(release): pin stable OpenCode Go smoke to reachable model (#188814)",
-    "release-publish/a3df6c6c8118-1793383326: fix(chat): older history stops loading from legacy transcripts (#188488)"
+    "release-publish/a3df6c6c8118-1793383326: fix(chat): older history stops loading from legacy transcripts (#188488)",
+    "release-publish/b1615fd4432c-1793505057"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5355,7 +5357,35 @@
     "50312426",
     "50310938",
     "50309199",
-    "50308303"
+    "50308303",
+    "50315782",
+    "50326786",
+    "50326764",
+    "50326635",
+    "50326432",
+    "50326183",
+    "50325635",
+    "50325595",
+    "50325252",
+    "50324528",
+    "50324343",
+    "50324284",
+    "50324018",
+    "50323814",
+    "50321522",
+    "50320648",
+    "50318664",
+    "50317919",
+    "50326245",
+    "50325482",
+    "50324759",
+    "50324043",
+    "50323246",
+    "50320995",
+    "50318748",
+    "50318720",
+    "50318063",
+    "50317309"
   ],
   "tmux": [
     "tmux 3.7-rc",
