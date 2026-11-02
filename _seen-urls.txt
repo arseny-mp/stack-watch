@@ -123,6 +123,7 @@ https://github.com/Clear-Sights/Makoto
 https://github.com/ConradLu2740/ProactiveAgent
 https://github.com/DeibyGS/claudestat
 https://github.com/DeusData/codebase-memory-mcp
+https://github.com/Dhananjay-JSR/claude-mods/tree/main/plugins/intent-lens
 https://github.com/DiegoSalazar/AiSyncing
 https://github.com/Dilshod-Abdullayev/kvitansiya
 https://github.com/Dodaios/Dodaios
@@ -137,6 +138,7 @@ https://github.com/Get-Concord-AI/concord-mcp
 https://github.com/GhetauTudor/esi
 https://github.com/Graphify-Labs/graphify
 https://github.com/HabibiCodeCH/claude-no-bash-detour
+https://github.com/HasanGilani/knock
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/Helter5/agentbridge
 https://github.com/HtooTayZa/sawtooth-memory
@@ -305,6 +307,7 @@ https://github.com/bruno-de-queiroz/hoop
 https://github.com/burakgon/ai-usage-menubar
 https://github.com/carloslfu/slotstream
 https://github.com/cfitzgerald-pd/effort-router
+https://github.com/chalmagean/diffreview
 https://github.com/cheapsteak/tbd
 https://github.com/chebykinn/glp-ram
 https://github.com/chipmates/cctap
@@ -841,6 +844,7 @@ https://twitter.com/ClaudeDevs/status/2093742321473065266
 https://twitter.com/ClaudeDevs/status/2093742322525810912
 https://twitter.com/DavidAgranovich/status/2098168522862215449
 https://twitter.com/IntCyberDigest/status/2071971609183678544
+https://twitter.com/Nandakishorm1/status/2117000769148957070
 https://twitter.com/argofowl/status/2091150597374537729
 https://twitter.com/chrislakin/status/2113358733548081528
 https://twitter.com/mitchellh/status/2108296550405619967
@@ -888,6 +892,7 @@ https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-power
 https://www.manifold.security/blog/ai-coding-agents-git-hijack
 https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/
 https://www.maxtaylor.me/articles/i-benchmarked-tdd-guard-it-didn-t-write-better-code
+https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/
 https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/
 https://www.nlmtools.com/blog/notebooklm-collections-guide
 https://www.notebookcheck.net/OpenAI-Codex-has-a-bug-that-could-kill-your-SSD-in-under-a-year.1326191.0.html
