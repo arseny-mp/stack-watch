@@ -149,7 +149,9 @@
     "v0.40.13-rc0",
     "v0.40.12",
     "v0.40.12-rc1",
-    "v0.40.12-rc0"
+    "v0.40.12-rc0",
+    "v0.40.14",
+    "v0.40.14-rc0"
   ],
   "claude code": [
     "v2.1.165",
@@ -286,7 +288,8 @@
     "v2.1.312",
     "v2.1.311",
     "v2.1.314",
-    "v2.1.316"
+    "v2.1.316",
+    "v2.1.317"
   ],
   "mem0": [
     "v2.4.6",
@@ -513,7 +516,8 @@
     "v3.7.7beta2",
     "v20261030-nightly: Expect the process group column in the framer's ps command",
     "v20261031-nightly: Say what was still pending when screen tests give up waiting for tokens",
-    "v20261101-nightly: Fill in missing translations after extracting strings"
+    "v20261101-nightly: Fill in missing translations after extracting strings",
+    "v20261103-nightly: Fix upload-and-paste menu handling"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -795,7 +799,9 @@
     "release-publish/385f0d8eaaf1-1793384660: fix(release): accept omitted admission steps (#188597)",
     "release-publish/81ecf56d0810-1793402126: fix(release): pin stable OpenCode Go smoke to reachable model (#188814)",
     "release-publish/a3df6c6c8118-1793383326: fix(chat): older history stops loading from legacy transcripts (#188488)",
-    "release-publish/b1615fd4432c-1793505057"
+    "release-publish/b1615fd4432c-1793505057",
+    "2026.10.10",
+    "release-publish/669193e3c42e-1793667494"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5429,7 +5435,48 @@
     "50331387",
     "50329086",
     "50328748",
-    "50327937"
+    "50327937",
+    "50353601",
+    "50351285",
+    "50343887",
+    "50354044",
+    "50353727",
+    "50353629",
+    "50353110",
+    "50352757",
+    "50352686",
+    "50352520",
+    "50352374",
+    "50351830",
+    "50351728",
+    "50351334",
+    "50350904",
+    "50350825",
+    "50349646",
+    "50349628",
+    "50347969",
+    "50346755",
+    "50346001",
+    "50342520",
+    "50354353",
+    "50354201",
+    "50354166",
+    "50353021",
+    "50352818",
+    "50352316",
+    "50351223",
+    "50350800",
+    "50350444",
+    "50350422",
+    "50349846",
+    "50349816",
+    "50349753",
+    "50349378",
+    "50348721",
+    "50346942",
+    "50346570",
+    "50346487",
+    "50342735"
   ],
   "tmux": [
     "tmux 3.7-rc",

@@ -156,6 +156,7 @@ https://github.com/Marqueos/codedict
 https://github.com/MatteoLeonesi/claim-memory-graph-sdk
 https://github.com/Max-Levitskiy/skills/tree/main/plugins/ml-agent-config
 https://github.com/MerqryLabs/ai-crawler-visibility
+https://github.com/MikeGT4/agent-tree
 https://github.com/MohammedNihal03/AI-observibility
 https://github.com/MongLong0214/commitlore
 https://github.com/MoonshotAI/kimi-cli/releases/tag/1.44.0
@@ -176,6 +177,7 @@ https://github.com/PixiBixi/tickler
 https://github.com/Poi5eN/Nexus
 https://github.com/Pupok462/open-geo
 https://github.com/RahulBalakavi/cc-limit-pacer
+https://github.com/RazinAI/deputy
 https://github.com/RimantasZ/contextspy
 https://github.com/Santosh-Prasad-Verma/ClaudeGate
 https://github.com/SaravananJaichandar/world-model-mcp
@@ -186,6 +188,7 @@ https://github.com/TheWariend/MuscleMemory
 https://github.com/Toadoum/ai-research-skill
 https://github.com/ToxicPine/offloads
 https://github.com/Trivo25/code-airlock
+https://github.com/Twigpine/openrecall
 https://github.com/Watari995/cc-preview
 https://github.com/WellWells/agentswap
 https://github.com/Ymirke/tmux-agent-switcher
@@ -199,6 +202,7 @@ https://github.com/ajithraghavan/make-it-click
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
 https://github.com/alex-reysa/glueRun-go
+https://github.com/alexabbi/fcc
 https://github.com/allixsenos/asu
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/amirzak/claude-code-voice-uh-filter
@@ -526,6 +530,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.0-rc6
 https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.12
 https://github.com/ollama/ollama/releases/tag/v0.40.13
+https://github.com/ollama/ollama/releases/tag/v0.40.14
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -639,9 +644,11 @@ https://github.com/valehelle/mocca-hub
 https://github.com/valmishq/valmis
 https://github.com/vanmiku/mydash
 https://github.com/vectorize-io/hindsight
+https://github.com/victorcarrico/arvre
 https://github.com/vitalysim/browser-bridge
 https://github.com/vukkt/token-warden
 https://github.com/waldekmastykarz/atifact
+https://github.com/wcook04/agent-trace-mechanism
 https://github.com/wdhwg001/csift
 https://github.com/woct0rdho/transformers5-qwen3.5-recipe
 https://github.com/woladi/macos-vision-mcp
@@ -663,6 +670,7 @@ https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 https://help.openai.com/en/articles/8590148-memory-faq
 https://help.openai.com/en/articles/9624314-model-release-notes
 https://hextrap.com/products/firewall/
+https://hindsight.vectorize.io/blog/2026/11/03/hindsight-models
 https://hiver.sh
 https://hyperbox.sh
 https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/
@@ -752,6 +760,8 @@ https://news.ycombinator.com/item?id=50214693
 https://news.ycombinator.com/item?id=50222093
 https://news.ycombinator.com/item?id=50286306
 https://news.ycombinator.com/item?id=50324343
+https://news.ycombinator.com/item?id=50351285
+https://news.ycombinator.com/item?id=50352757
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -901,6 +911,7 @@ https://www.npmjs.com/package/@lanes-sh/link
 https://www.npmjs.com/package/@mem0/cli
 https://www.npmjs.com/package/reflex-router
 https://www.npmjs.com/package/shellphone
+https://www.online-tech-tips.com/anthropic-claude-code-five-hour-limit-removed-ultra/
 https://www.ory.com/blog/ory-lumen-semantic-search-claude-code
 https://www.reddit.com/r/ClaudeAI/comments/1vknrjx/building_a_purerust_sandboxed_localfirst_browser/
 https://www.reddit.com/r/ClaudeAI/comments/1vm2w0e/a_lightweight_rootless_container_sandbox_for/
@@ -916,12 +927,15 @@ https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372
 https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
+https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim
 https://www.unsiloed.ai/blog/guides/claude-code-codex-one-pipeline
 https://www.vespper.com/blog/launching-vespper-docx-mcp
 https://www.xda-developers.com/ollama-new-mlx-engine-local-llm-mac-twice-fast/
 https://www.youtube.com/watch?v=9tfGn3isfZU
 https://www.youtube.com/watch?v=yUuFvL1lK4k
 https://www.zhcinstitute.com/research/oh-my-claudecode-multi-agent-field-notes/
+https://x.com/AgentMemoryL
 https://ykdojo.github.io/claude-code-tips/content/the-missing-private-github-search.html
 https://yolo-auto.com/news/memory-options-for-agents
 https://yzma.ai/docs/reference/benchmarks/#comparing-engines
