@@ -142,6 +142,7 @@ https://github.com/HasanGilani/knock
 https://github.com/Hash-7777/HashMeterAi
 https://github.com/Helter5/agentbridge
 https://github.com/HtooTayZa/sawtooth-memory
+https://github.com/IsuruMaduranga/one-code
 https://github.com/IterateAI/compression
 https://github.com/JeevanJoshi2061/titan_engine_core
 https://github.com/KarelTestSpecial/real-agent-setup
@@ -377,6 +378,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260922-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260927-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20261012-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
+https://github.com/gnachman/iTerm2/releases/tag/v3.7.7
 https://github.com/grimmerk/memsaga
 https://github.com/gtapps/claude-code-hermit/
 https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
@@ -387,6 +389,7 @@ https://github.com/hetpatel-11/agent-hop
 https://github.com/horilla98/agent-kit
 https://github.com/hyperb1iss/sibyl
 https://github.com/hypersocialinc/namecom-cli
+https://github.com/ibrahimkobeissy/harneo
 https://github.com/idodekerobo/draft
 https://github.com/imshaikot/browsentic
 https://github.com/infiniV/ultra-instinct-claude-code/blob/main/llms.txt
@@ -531,6 +534,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.12
 https://github.com/ollama/ollama/releases/tag/v0.40.13
 https://github.com/ollama/ollama/releases/tag/v0.40.14
+https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -568,6 +572,7 @@ https://github.com/openwong2kim/wlog
 https://github.com/ouijit/ouijit
 https://github.com/overflowy/claude-scrub
 https://github.com/patibandlavenkatamanideep/memoryops-ai
+https://github.com/patoles/ravenry
 https://github.com/proliferate-ai/proliferate
 https://github.com/ptmrio/harness-subagent
 https://github.com/puffinsoft/peek-cli
@@ -762,6 +767,7 @@ https://news.ycombinator.com/item?id=50286306
 https://news.ycombinator.com/item?id=50324343
 https://news.ycombinator.com/item?id=50351285
 https://news.ycombinator.com/item?id=50352757
+https://news.ycombinator.com/item?id=50365442
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -896,6 +902,7 @@ https://www.fredrin.dev
 https://www.getmycelium.net/
 https://www.helpnetsecurity.com/2026/05/27/anthropic-claude-code-security-guidance-plugin/
 https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex/
+https://www.jvt.me/posts/2026/11/03/honest-claude-meatproxy/
 https://www.lancedb.com/blog/semantic-memory-for-hermes-agent-with-lancedb
 https://www.makeuseof.com/fixed-claudes-memory-problem-postgres-database-changed-everything/
 https://www.makeuseof.com/tried-notebooklms-new-gemini-integration-and-its-powerful-but-risky/

@@ -151,7 +151,8 @@
     "v0.40.12-rc1",
     "v0.40.12-rc0",
     "v0.40.14",
-    "v0.40.14-rc0"
+    "v0.40.14-rc0",
+    "v0.40.15"
   ],
   "claude code": [
     "v2.1.165",
@@ -289,7 +290,8 @@
     "v2.1.311",
     "v2.1.314",
     "v2.1.316",
-    "v2.1.317"
+    "v2.1.317",
+    "v2.1.318"
   ],
   "mem0": [
     "v2.4.6",
@@ -517,7 +519,9 @@
     "v20261030-nightly: Expect the process group column in the framer's ps command",
     "v20261031-nightly: Say what was still pending when screen tests give up waiting for tokens",
     "v20261101-nightly: Fill in missing translations after extracting strings",
-    "v20261103-nightly: Fix upload-and-paste menu handling"
+    "v20261103-nightly: Fix upload-and-paste menu handling",
+    "v20261104-nightly: Keep the flicker fixer from dropping a full repaint",
+    "v3.7.7"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -801,7 +805,11 @@
     "release-publish/a3df6c6c8118-1793383326: fix(chat): older history stops loading from legacy transcripts (#188488)",
     "release-publish/b1615fd4432c-1793505057",
     "2026.10.10",
-    "release-publish/669193e3c42e-1793667494"
+    "release-publish/669193e3c42e-1793667494",
+    "2026.11.5-beta.1",
+    "2026.11.1",
+    "release-publish/9a3ae43f5602-1793756853: fix(ui): localize skill and plugin feedback (#192305)",
+    "release-publish/ed1bb7298985-1793760875"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5476,7 +5484,41 @@
     "50346942",
     "50346570",
     "50346487",
-    "50342735"
+    "50342735",
+    "50364396",
+    "50363725",
+    "50366894",
+    "50366795",
+    "50366117",
+    "50365976",
+    "50365747",
+    "50365442",
+    "50364529",
+    "50364483",
+    "50364433",
+    "50364204",
+    "50362779",
+    "50361973",
+    "50361465",
+    "50361460",
+    "50360720",
+    "50360366",
+    "50360077",
+    "50359805",
+    "50359659",
+    "50359514",
+    "50368495",
+    "50365917",
+    "50361620",
+    "50361268",
+    "50360586",
+    "50360381",
+    "50359936",
+    "50359691",
+    "50357767",
+    "50357093",
+    "50356896",
+    "50355827"
   ],
   "tmux": [
     "tmux 3.7-rc",
