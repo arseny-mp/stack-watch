@@ -319,6 +319,7 @@ https://github.com/chipmates/cctap
 https://github.com/choiyounggi/cliclaw
 https://github.com/cjodo/claude-colorizer
 https://github.com/clay-good/OpenLore
+https://github.com/clirimajeti/codemyrules
 https://github.com/cloudkj/llayer
 https://github.com/cookiengineer/check-claude-code-exfil
 https://github.com/craigstoller/claude-code-sessions/blob/main/docs/the-session-that-synced-itself.md
@@ -342,6 +343,7 @@ https://github.com/edonadei/caliper
 https://github.com/ethanhq/cc-fleet
 https://github.com/exmergo/skill-no-em-dashes
 https://github.com/fabioconcina/claumon
+https://github.com/faique43/vexus
 https://github.com/faisalishfaq2005/loopflow
 https://github.com/faizannraza/wattage
 https://github.com/fashton28/mux
@@ -451,10 +453,12 @@ https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
 https://github.com/modelcontextprotocol/servers/commit/3f6aaf4ff6b3d48243f8a94f1ea8dafb574de5ad
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
+https://github.com/modelcontextprotocol/servers/commit/81ca19651d2b3dd09c616223f7afc35d1e0e16ba
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
 https://github.com/modelcontextprotocol/servers/commit/c6f2dda9f4ad75f85bd53dc46d7d6a707f23878c
 https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f
+https://github.com/modelcontextprotocol/servers/commit/f20ce8eaa66bf7a6a6c6294d1c4a4fa23f13c153
 https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb
 https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e4471632ddf942b06a2
 https://github.com/mohsen1/git-lazy-mount
@@ -464,6 +468,7 @@ https://github.com/munvard/dockterm
 https://github.com/mupt-ai/relaymux
 https://github.com/naw103/claude-routine-cleanup
 https://github.com/nestedmind/larceny
+https://github.com/netil/goyangi
 https://github.com/nickyreinert/iTermSysMon
 https://github.com/nikhilkagita04/continuum
 https://github.com/nikitadoudikov/claude-pulse
@@ -930,6 +935,7 @@ https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-ov
 https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
 https://www.sipp.sh
 https://www.sqim.dev/
+https://www.storminthecastle.com/posts/claude-voice/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372
 https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=
