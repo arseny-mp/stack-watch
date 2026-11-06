@@ -1,11 +1,9 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-10-30:</b>
+📅 <b>2026-11-06:</b>
   <b>Do now:</b>
-  • HN: The backdoored Claude Code 2.1.313 build in Cursor's marketplace, explained — Проверить локальные установки Claude Code и расширения на наличие незарегистрированных плагинов (~30 мин).
-  • HN: Show HN: ccfleet, a quiet, tmux-native Claude Code dashboard — Установить ccfleet и интегрировать с tmux (~30 мин).
+  • HN: How to block the Claude Code email leak — Проверить конфигурацию Claude Code CLI и установить проксирование или кастомный User-Agent для патча утечки email (~15 минут).
   <b>Experiment:</b>
-  • HN: Show HN: Cc-pair – Claude Code and Codex review each other's work — Протестировать cc-pair на отдельной ветке разработки (~1 час).
-  • HN: Show HN: Type and+ in Claude Code and a second Claude rewrites your prompt first — Протестировать prompt-refiner на нескольких сложных задачах (~30 мин).
+  • HN: Show HN: ECX – My Claude Code and Codex setup, where both agents share memory — Протестировать передачу общего контекста между Codex и Claude Code на изолированной задаче (~45 минут).
 
