@@ -85,6 +85,7 @@ https://day50.dev/woahllama/
 https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30
 https://dev.classmethod.jp/en/articles/20260529-cc-updates-v2-1-158/
 https://dev.nebius.com/cookbook/claude-code-token-factory-relay
+https://developers.google.com/notebook/docs
 https://developers.openai.com/codex/changelog
 https://developers.openai.com/codex/sites
 https://devloop.sh

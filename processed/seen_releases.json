@@ -294,7 +294,8 @@
     "v2.1.314",
     "v2.1.316",
     "v2.1.317",
-    "v2.1.318"
+    "v2.1.318",
+    "v2.1.319"
   ],
   "mem0": [
     "v2.4.6",
@@ -526,7 +527,8 @@
     "v20261104-nightly: Keep the flicker fixer from dropping a full repaint",
     "v3.7.7",
     "v20261105-nightly: Keep the hotkey ref when re-registering after a fast user switch",
-    "v20261106-nightly"
+    "v20261106-nightly",
+    "v20261107-nightly"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -816,7 +818,9 @@
     "release-publish/9a3ae43f5602-1793756853: fix(ui): localize skill and plugin feedback (#192305)",
     "release-publish/ed1bb7298985-1793760875",
     "release-publish/84097d630e26-1793838108",
-    "release-publish/3816bcb3dea1-1793855263"
+    "release-publish/3816bcb3dea1-1793855263",
+    "2026.11.2",
+    "release-publish/85c39026a90f-1793930188"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5620,7 +5624,31 @@
     "50385803",
     "50385790",
     "50385197",
-    "50384727"
+    "50384727",
+    "50399642",
+    "50401895",
+    "50400511",
+    "50399637",
+    "50399373",
+    "50396871",
+    "50396719",
+    "50395613",
+    "50360411",
+    "50355217",
+    "50405405",
+    "50405262",
+    "50404884",
+    "50403797",
+    "50403097",
+    "50402212",
+    "50402125",
+    "50400056",
+    "50399966",
+    "50399155",
+    "50398678",
+    "50397008",
+    "50396348",
+    "50395919"
   ],
   "tmux": [
     "tmux 3.7-rc",
