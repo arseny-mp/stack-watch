@@ -17,6 +17,7 @@ https://anona-labs.github.io/mirror/
 https://antigma.ai/blog/2026/07/25/short-prompt-small-models
 https://aofp.github.io/yume/
 https://apicalculators.com/
+https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
 https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
@@ -205,6 +206,7 @@ https://github.com/ahmtsahin/claude-env-tabs
 https://github.com/ajithraghavan/make-it-click
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
+https://github.com/alainnothere/llama.cpp/commit/77b124a7ab56e0f1c33c025344a9c63465a9a87f
 https://github.com/alex-reysa/glueRun-go
 https://github.com/alexabbi/fcc
 https://github.com/allixsenos/asu

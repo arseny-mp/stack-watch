@@ -528,7 +528,8 @@
     "v3.7.7",
     "v20261105-nightly: Keep the hotkey ref when re-registering after a fast user switch",
     "v20261106-nightly",
-    "v20261107-nightly"
+    "v20261107-nightly",
+    "v20261108-nightly"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -820,7 +821,12 @@
     "release-publish/84097d630e26-1793838108",
     "release-publish/3816bcb3dea1-1793855263",
     "2026.11.2",
-    "release-publish/85c39026a90f-1793930188"
+    "release-publish/85c39026a90f-1793930188",
+    "v2026.11.2",
+    "release-publish/5e1a27a9bcc4-1794101135: fix(release): validate credits in selected publication notes (#194899)",
+    "release-publish/2fc131eeb4a3-1794109014: fix(release): correct Parallel ClawHub category metadata (#194973)",
+    "release-publish/0ff68b557848-1794127500: test(cua): remove redundant scroll enum assertion (#195076)",
+    "release-publish/c9e6370bb191-1794126491: fix: reduce repeated npm publication evidence requests (#195099)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5648,7 +5654,29 @@
     "50398678",
     "50397008",
     "50396348",
-    "50395919"
+    "50395919",
+    "50411961",
+    "50409349",
+    "50406634",
+    "50405893",
+    "50414111",
+    "50413970",
+    "50413968",
+    "50413568",
+    "50412226",
+    "50411679",
+    "50409866",
+    "50409020",
+    "50408419",
+    "50407882",
+    "50406534",
+    "50403153",
+    "50413601",
+    "50411467",
+    "50411036",
+    "50410979",
+    "50410356",
+    "50406319"
   ],
   "tmux": [
     "tmux 3.7-rc",
