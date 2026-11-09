@@ -155,7 +155,8 @@
     "v0.40.15",
     "v0.40.15-rc0",
     "v0.40.15-rc2",
-    "v0.40.15-rc1"
+    "v0.40.15-rc1",
+    "v0.40.16"
   ],
   "claude code": [
     "v2.1.165",
@@ -295,7 +296,8 @@
     "v2.1.316",
     "v2.1.317",
     "v2.1.318",
-    "v2.1.319"
+    "v2.1.319",
+    "v2.1.321"
   ],
   "mem0": [
     "v2.4.6",
@@ -529,7 +531,8 @@
     "v20261105-nightly: Keep the hotkey ref when re-registering after a fast user switch",
     "v20261106-nightly",
     "v20261107-nightly",
-    "v20261108-nightly"
+    "v20261108-nightly",
+    "v20261109-nightly: Run each AI chat tool request at most once"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -826,7 +829,9 @@
     "release-publish/5e1a27a9bcc4-1794101135: fix(release): validate credits in selected publication notes (#194899)",
     "release-publish/2fc131eeb4a3-1794109014: fix(release): correct Parallel ClawHub category metadata (#194973)",
     "release-publish/0ff68b557848-1794127500: test(cua): remove redundant scroll enum assertion (#195076)",
-    "release-publish/c9e6370bb191-1794126491: fix: reduce repeated npm publication evidence requests (#195099)"
+    "release-publish/c9e6370bb191-1794126491: fix: reduce repeated npm publication evidence requests (#195099)",
+    "release-publish/1007cb9e5cdf-1794164430: fix(release): defer ClawHub on authenticated core recovery (#195350)",
+    "release-publish/e3a09aaba1f4-1794162889: fix: verify plugin releases from their qualified producer (#195341)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5676,7 +5681,48 @@
     "50411036",
     "50410979",
     "50410356",
-    "50406319"
+    "50406319",
+    "50426434",
+    "50424070",
+    "50430154",
+    "50430050",
+    "50430026",
+    "50429960",
+    "50429920",
+    "50429205",
+    "50428595",
+    "50428274",
+    "50426990",
+    "50426559",
+    "50426158",
+    "50425934",
+    "50425383",
+    "50424579",
+    "50422833",
+    "50420729",
+    "50420270",
+    "50419582",
+    "50419019",
+    "50417585",
+    "50411800",
+    "50430010",
+    "50428670",
+    "50428628",
+    "50428597",
+    "50427934",
+    "50426314",
+    "50426254",
+    "50426194",
+    "50425914",
+    "50425318",
+    "50425203",
+    "50424978",
+    "50424764",
+    "50424580",
+    "50422102",
+    "50420732",
+    "50419884",
+    "50417179"
   ],
   "tmux": [
     "tmux 3.7-rc",

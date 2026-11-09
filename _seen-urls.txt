@@ -29,6 +29,7 @@ https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessi
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
 https://blog.disintegrator.dev/posts/lnav-claude-code/
 https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board
+https://blog.gitguardian.com/claude-code-settings-local-json-secrets-docker-hub/
 https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/
 https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
 https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/
@@ -112,6 +113,7 @@ https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
 https://github.com/0xmmo/crew/
 https://github.com/APareek89/power-coding
+https://github.com/Aarv-1o/Attentry
 https://github.com/AgentMemoryRepo/agentmemoryrepo
 https://github.com/Aident-AI/aident-skill
 https://github.com/AkuchiS/yap
@@ -136,6 +138,7 @@ https://github.com/ForeverSc/pinfix
 https://github.com/FramY2/ctxwise
 https://github.com/FrigadeHQ/yap
 https://github.com/FvdHMBAI/guardrail
+https://github.com/GDM-Digital-Media-Group/fmp-plugins
 https://github.com/GLechevalier/nff
 https://github.com/Get-Concord-AI/concord-mcp
 https://github.com/GhetauTudor/esi
@@ -168,6 +171,7 @@ https://github.com/MoonshotAI/kimi-cli/releases/tag/1.46.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.5.0
 https://github.com/MoonshotAI/kimi-code/releases/tag/@moonshot-ai/kimi-code@0.6.0
 https://github.com/MrTig-afk/claude-remote
+https://github.com/NagaYu/memseal
 https://github.com/NanoNets/Graft
 https://github.com/NeoLabHQ/context-engineering-kit
 https://github.com/NevaMind-AI/memU
@@ -340,6 +344,7 @@ https://github.com/deepmemteam/deepmem-claude-plugin
 https://github.com/desktop-commander/desktop-commander
 https://github.com/developerfred/agent-blackbox
 https://github.com/divadbaroon/claude-plugins
+https://github.com/dooly6276/claude-bulkhead
 https://github.com/dotbrt/dejaview
 https://github.com/drkokorev/context-diet
 https://github.com/drumih/turbo-fieldfare
@@ -385,6 +390,7 @@ https://github.com/gnachman/iTerm2/releases/tag/v20260820-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260922-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20260927-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v20261012-nightly
+https://github.com/gnachman/iTerm2/releases/tag/v20261109-nightly
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.0
 https://github.com/gnachman/iTerm2/releases/tag/v3.7.7
 https://github.com/grimmerk/memsaga
@@ -392,6 +398,7 @@ https://github.com/gtapps/claude-code-hermit/
 https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
 https://github.com/gvzdv/claudish-to-english
 https://github.com/hamzarehmandeveloper/claude-account
+https://github.com/harishbalasubramanian/sentinel-eval
 https://github.com/hbkdad/arc
 https://github.com/hetpatel-11/agent-hop
 https://github.com/horilla98/agent-kit
@@ -547,6 +554,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.13
 https://github.com/ollama/ollama/releases/tag/v0.40.14
 https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2
+https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -706,6 +714,7 @@ https://keyghost.dev/
 https://labs.flur.ee/docs/memory
 https://labyrinthanalyticsconsulting.com/blog/claude-memory-primitive-vs-loreconvo-vs-claude-mem-vs-mem0
 https://lance.black
+https://leonardcser.github.io/harness-resource-bench
 https://linkloot.io/blog/mem0-sdk-linked-memory-delete-agent-memory-cleanup
 https://littleguys.hervalicio.us
 https://llama-dash.dev
@@ -808,6 +817,7 @@ https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/
 https://phasespace.co/blog/git-blame-for-your-agents-memory/
 https://philippdubach.com/posts/kimi-k3-inside-claude-code/
 https://pipevoice.app/
+https://platform.claude.com/docs/en/models/fable-5-2/overview
 https://platform.claude.com/docs/en/models/haiku-5-5/overview
 https://platform.claude.com/docs/en/release-notes/overview
 https://pmbai.dev
@@ -867,7 +877,9 @@ https://thenewstack.io/openai-chatgpt-computer-history/
 https://thereallo.dev/blog/claude-code-prompt-steganography
 https://therouter.ai/news/gemini-2-flash-deprecation-june-2026-migration/
 https://thomas-witt.com/blog/blog-subagent-model-pin/
+https://thrum.team/
 https://tim-schipper.nl/en/blog/claude-code-context-management
+https://toolshed.run
 https://twitter.com/ClaudeDevs/status/2085794862608318627
 https://twitter.com/ClaudeDevs/status/2090245922685063634
 https://twitter.com/ClaudeDevs/status/2093742321473065266
@@ -881,6 +893,7 @@ https://twitter.com/mitchellh/status/2108296550405619967
 https://twitter.com/samelldev/status/2070213157357072794
 https://uml.gpmai.workers.dev
 https://usageupdates.com/
+https://usecodela.com/
 https://velaterm.com/
 https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins
 https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
@@ -947,6 +960,7 @@ https://www.sqim.dev/
 https://www.storminthecastle.com/posts/claude-voice/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
 https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372
+https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2
 https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=
 https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
 https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks
