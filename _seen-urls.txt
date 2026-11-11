@@ -22,6 +22,7 @@ https://apiyi.com
 https://appselfhost.com/ollama-v0-30-0-rc31-released-ditches-ggml-layer-for-direct-llama-cpp-integration/
 https://appselfhost.com/ollama-v0-30-1-rc0-released-cline-cli-auto-install-qwen-code-and-radeon-8060s-igpu-support/
 https://arcbox.dev/blog/macos-vm-memory-ratchet
+https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/
 https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/
 https://arxiv.org/abs/2608.11095
 https://astgl.com/p/skill-mining-claude-code-config-patterns
@@ -96,6 +97,7 @@ https://discuss.ai.google.dev/t/interaction-api-sdk-incompability/168788
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/3-1-flash-image
 https://downdetector.com.br/en/status/claude-ai/
 https://draper.chat/dev/the-ultimate-claude-code-parallelisation-guide-2026
+https://ecc.kodelyth.com
 https://embracethered.com/blog/posts/2026/breaking-claude-acode-opus-5-and-automode/
 https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
 https://empirical.gauzza.com/
@@ -222,6 +224,7 @@ https://github.com/anonbeat1/overheard
 https://github.com/anthonystaiger8-bit/memory-model
 https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3
 https://github.com/anthropics/claude-code/issues
+https://github.com/anthropics/claude-code/issues/101349
 https://github.com/anthropics/claude-code/issues/16537
 https://github.com/anthropics/claude-code/issues/17107
 https://github.com/anthropics/claude-code/issues/30467
@@ -303,6 +306,7 @@ https://github.com/anthropics/claude-code/releases/tag/v2.1.291
 https://github.com/anthropics/claude-code/releases/tag/v2.1.294
 https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 https://github.com/anthropics/claude-code/releases/tag/v2.1.310
+https://github.com/anthropics/claude-code/releases/tag/v2.1.322
 https://github.com/anthropics/claude-code/tree/main/mods/agents-md
 https://github.com/arimwilson/openremainderbot
 https://github.com/arsenis-cmd/clai-benchmarks
@@ -464,6 +468,8 @@ https://github.com/mirko-pira/skillhealth
 https://github.com/mjalalimanesh/skillhub-local
 https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
+https://github.com/modelcontextprotocol/servers/commit/0d53550e078021e0f82b07f4cab47d77d362df78
+https://github.com/modelcontextprotocol/servers/commit/1629bb33208a9d98b77abce4b52b2808d3090bb0
 https://github.com/modelcontextprotocol/servers/commit/3f6aaf4ff6b3d48243f8a94f1ea8dafb574de5ad
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/81ca19651d2b3dd09c616223f7afc35d1e0e16ba
@@ -474,6 +480,7 @@ https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e887
 https://github.com/modelcontextprotocol/servers/commit/f20ce8eaa66bf7a6a6c6294d1c4a4fa23f13c153
 https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb
 https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e4471632ddf942b06a2
+https://github.com/modelcontextprotocol/servers/commit/faef80baca51f9c9277341422729ed162927e72f
 https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
@@ -487,6 +494,7 @@ https://github.com/nikhilkagita04/continuum
 https://github.com/nikitadoudikov/claude-pulse
 https://github.com/nikvdp/searxng-ai-kit
 https://github.com/ninjahawk/Confessor
+https://github.com/nodo-labs-uk/attention-queue
 https://github.com/nrkoka786/synapse
 https://github.com/oleksiijko/pmb/blob/main/README.md
 https://github.com/ollama/ollama/blob/main/docs/gpu.mdx
@@ -555,6 +563,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.14
 https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0
+https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -639,6 +648,7 @@ https://github.com/softcane/aloud
 https://github.com/softcane/cc-session-recover
 https://github.com/softcane/hamza
 https://github.com/sofumel/claude-handoff-revive
+https://github.com/sofumel/reinwatch
 https://github.com/solodynamo/Ration
 https://github.com/sorantis/portal-ai-plugins/tree/add-shunt-claude/plugins/shunt
 https://github.com/sorena-ai/service-catalog-mcp/tree/main
@@ -701,6 +711,7 @@ https://hiver.sh
 https://hyperbox.sh
 https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/
 https://imaxxs.com/behavioral-induction-capabilities-shape-execution
+https://infisical.com/blog/dont-give-ai-agents-your-env
 https://iterm2.com/claude-code-integration.html
 https://itmeetsot.eu/posts/2026-08-12-opus5_automode/
 https://jameskomo.github.io/config-drift-checker/
@@ -956,6 +967,7 @@ https://www.refine.ink/blog/jemalloc-fragmentation
 https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/
 https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent
 https://www.sipp.sh
+https://www.speakeasy.com/blog/track-claude-code-usage
 https://www.sqim.dev/
 https://www.storminthecastle.com/posts/claude-voice/
 https://www.subconscious.dev/blog/subconscious-glm-5-2-makes-compact-obsolete
