@@ -122,6 +122,7 @@ https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
 https://github.com/Alfredvc/aharness
 https://github.com/BEX-Robotics/rezoom
+https://github.com/Baeta78/token-economy
 https://github.com/Bhavya6187/tandem
 https://github.com/Bigbonus/ollama-context-window-check
 https://github.com/CelestoAI/smolfs
@@ -213,6 +214,7 @@ https://github.com/ajithraghavan/make-it-click
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
 https://github.com/alainnothere/llama.cpp/commit/77b124a7ab56e0f1c33c025344a9c63465a9a87f
+https://github.com/alessiodonato/forchetta
 https://github.com/alex-reysa/glueRun-go
 https://github.com/alexabbi/fcc
 https://github.com/allixsenos/asu
@@ -334,6 +336,7 @@ https://github.com/cjodo/claude-colorizer
 https://github.com/clay-good/OpenLore
 https://github.com/clirimajeti/codemyrules
 https://github.com/cloudkj/llayer
+https://github.com/code4161/memgit
 https://github.com/codenotary/agentmon-live
 https://github.com/cookiengineer/check-claude-code-exfil
 https://github.com/craigstoller/claude-code-sessions/blob/main/docs/the-session-that-synced-itself.md
@@ -376,6 +379,7 @@ https://github.com/gageml/gage
 https://github.com/gavingolden/flow/
 https://github.com/gethrbr/context-tax
 https://github.com/ggml-org/llama.cpp/pull/24219
+https://github.com/ghosthat-studio/handoffs
 https://github.com/github/github-mcp-server/pull/2571
 https://github.com/github/github-mcp-server/releases/tag/v1.0.5
 https://github.com/github/github-mcp-server/releases/tag/v1.1.0
@@ -611,6 +615,7 @@ https://github.com/raine/claude-code-proxy
 https://github.com/rainmanjam/poka-yoke
 https://github.com/raiyanyahya/recall
 https://github.com/ralfyishere/rules-with-receipts
+https://github.com/ramonmazinga/claude-code-multi-account-bridge
 https://github.com/randomm/pi-delegate
 https://github.com/raphaelwkago-sketch/rudi
 https://github.com/rashedInt32/claude-hl
@@ -801,6 +806,7 @@ https://news.ycombinator.com/item?id=50324343
 https://news.ycombinator.com/item?id=50351285
 https://news.ycombinator.com/item?id=50352757
 https://news.ycombinator.com/item?id=50365442
+https://news.ycombinator.com/item?id=50467233
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
