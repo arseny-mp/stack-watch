@@ -107,6 +107,7 @@ https://extraheadroom.com/blog/claude-code-savings-real-usage
 https://festudio.net/agentpace/
 https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion
 https://fixyourdocs.io/
+https://flowdeck.studio/blog/claude-code-validate-ios-changes-code-review
 https://forever.security/blog/embrace-hacking-5-ai-assistants-embedded-browsers/
 https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill
 https://frigade.com/yap
@@ -114,6 +115,7 @@ https://getcesar.dev/
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
 https://github.com/0xmmo/crew/
+https://github.com/214140846/browser-hands
 https://github.com/APareek89/power-coding
 https://github.com/Aarv-1o/Attentry
 https://github.com/AgentMemoryRepo/agentmemoryrepo
@@ -322,6 +324,7 @@ https://github.com/blendbunjaku/optimaizr
 https://github.com/bloomberg/memray
 https://github.com/bn-l/claude-autoresearch-mod
 https://github.com/braincompany/sessiongrep
+https://github.com/brandrail-app/brandrail
 https://github.com/browser-memory/bmem
 https://github.com/bruno-de-queiroz/hoop
 https://github.com/burakgon/ai-usage-menubar
@@ -336,6 +339,7 @@ https://github.com/cjodo/claude-colorizer
 https://github.com/clay-good/OpenLore
 https://github.com/clirimajeti/codemyrules
 https://github.com/cloudkj/llayer
+https://github.com/clumsy-ug/agentview-chat
 https://github.com/code4161/memgit
 https://github.com/codenotary/agentmon-live
 https://github.com/cookiengineer/check-claude-code-exfil
@@ -581,6 +585,7 @@ https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2
 https://github.com/openai/codex/releases/tag/rust-v0.137.0
 https://github.com/openclaw/openclaw
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F468054f93c43-1787921799
+https://github.com/openclaw/openclaw/releases/tag/release-publish%2F514a224c6eab-1794576299
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F556a2ee276f0-20260718
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F61f27aadfebd-1787477342
 https://github.com/openclaw/openclaw/releases/tag/release-publish%2F8afa8f339eb6-1787798436

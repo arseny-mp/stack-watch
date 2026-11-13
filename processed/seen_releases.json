@@ -300,7 +300,8 @@
     "v2.1.318",
     "v2.1.319",
     "v2.1.321",
-    "v2.1.322"
+    "v2.1.322",
+    "v2.1.323"
   ],
   "mem0": [
     "v2.4.6",
@@ -539,7 +540,8 @@
     "v20261111-nightly: Don't quit while a buried tmux gateway is about to be restored",
     "v20261110-nightly: Test iTermReflection type-string parsing directly",
     "v3.7.8beta1",
-    "v20261112-nightly: Ship the Zellij it2.py change from the shell-integration submodule"
+    "v20261112-nightly: Ship the Zellij it2.py change from the shell-integration submodule",
+    "v20261113-nightly"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -851,7 +853,9 @@
     "release-publish/09723cdcad18-1794299463",
     "release-publish/fc9e1cd26eeb-1794479957: fix(release): keep direct npm recovery within request budget (#197689)",
     "release-publish/17140700d7b5-1794431923: fix: keep parent npm authorization within request budget (#197336)",
-    "2026.11.5-beta.2"
+    "2026.11.5-beta.2",
+    "2026.11.4",
+    "release-publish/68aff7f86414-1794520487"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -5849,7 +5853,43 @@
     "50456921",
     "50456818",
     "50456509",
-    "50455903"
+    "50455903",
+    "50484303",
+    "50483765",
+    "50481715",
+    "50473179",
+    "50484892",
+    "50484682",
+    "50484532",
+    "50484293",
+    "50483632",
+    "50481187",
+    "50480925",
+    "50480909",
+    "50480655",
+    "50480140",
+    "50479411",
+    "50479186",
+    "50477733",
+    "50477704",
+    "50475982",
+    "50474106",
+    "50473650",
+    "50472616",
+    "50472301",
+    "50471650",
+    "50484976",
+    "50484308",
+    "50483457",
+    "50482992",
+    "50481567",
+    "50479113",
+    "50478701",
+    "50477980",
+    "50477555",
+    "50473042",
+    "50472340",
+    "50465129"
   ],
   "tmux": [
     "tmux 3.7-rc",

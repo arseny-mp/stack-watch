@@ -1,9 +1,9 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-11-06:</b>
-  <b>Do now:</b>
-  • HN: How to block the Claude Code email leak — Проверить конфигурацию Claude Code CLI и установить проксирование или кастомный User-Agent для патча утечки email (~15 минут).
+📅 <b>2026-11-13:</b>
   <b>Experiment:</b>
-  • HN: Show HN: ECX – My Claude Code and Codex setup, where both agents share memory — Протестировать передачу общего контекста между Codex и Claude Code на изолированной задаче (~45 минут).
+  • Release release-publish/514a224c6eab-1794576299: fix(release): apply 2026.11.4 performance waiver release-wide (#198271) — Обновить OpenClaw и проверить стабильность работы Telegram-поллера (~30 минут).
+  • HN: Show HN: Browser Hands – Claude in Chrome for Codex, Cursor and Any MCP Agent — Протестировать Browser Hands MCP в тестовом окружении Chrome для взаимодействия с Codex (~1 час).
+  • HN: Show HN: Agentview Chat – a chat UI for Claude Code background sessions — Запустить Agentview Chat для контроля длинных фоновых задач Claude Code (~45 минут).
 
