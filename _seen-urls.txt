@@ -52,6 +52,7 @@ https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-mo
 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
 https://claude.com/resources/articles/code-review-is-now-generally-available
+https://claude.com/resources/articles/projects-redesigned
 https://claude.dev/blog/automating-eval-design-and-hillclimbing/
 https://claude.dev/blog/claude-code-in-the-cloud/
 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
@@ -112,6 +113,7 @@ https://forever.security/blog/embrace-hacking-5-ai-assistants-embedded-browsers/
 https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill
 https://frigade.com/yap
 https://getcesar.dev/
+https://gethrbr.com/blog/claude-md-agents-md-github-study
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
 https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
 https://github.com/0xmmo/crew/
@@ -160,6 +162,7 @@ https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/KerryRitter/parley
 https://github.com/KonghaYao/peri
 https://github.com/LegalRabbit-AI/legalrabbit-docx-claude-plugin
+https://github.com/LeriderTechnologies/bright-lines
 https://github.com/Lukeesec/mux-beacon
 https://github.com/Mamasodikov/hasharot
 https://github.com/MaorBril/agentic
@@ -369,6 +372,7 @@ https://github.com/faique43/vexus
 https://github.com/faisalishfaq2005/loopflow
 https://github.com/faizannraza/wattage
 https://github.com/fashton28/mux
+https://github.com/figurehead-ai/AI-juggler
 https://github.com/flashlan/vibe-kanban-alternative
 https://github.com/franciscocarloserra/claude-code-multiharness-delegation
 https://github.com/franzenzenhofer/chrome-tab-group-cleaner
@@ -470,6 +474,7 @@ https://github.com/mem0ai/mem0/releases/tag/v2.0.4
 https://github.com/mem0ai/mem0/releases/tag/v2.1.0
 https://github.com/mem0ai/mem0/releases/tag/v2.2.1
 https://github.com/memcode-ai/memcode
+https://github.com/memrohq/memro
 https://github.com/mindmuxai/brain.md
 https://github.com/miopea/swarm
 https://github.com/mirko-pira/skillhealth
@@ -862,6 +867,7 @@ https://rustfoundation.org/media/rust-foundation-welcomes-openai-as-platinum-mem
 https://rzhub.github.io/GateMem/project.html
 https://saudishopper.com.sa/en/claude-code-update-2-1-153/
 https://saudishopper.com.sa/en/claude-code-update-fixes-opus-errors/
+https://sayjot.xyz/blog/claude-code-mcp-notes
 https://screenrecords.app/
 https://secretspec.dev/blog/claude-code-stores-oauth-tokens-in-plaintext/
 https://sessionradar.com
