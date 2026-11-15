@@ -64,6 +64,7 @@ https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
 https://cloudcode.one/
 https://code.claude.com/docs/en/changelog
+https://code.claude.com/docs/en/code-mode
 https://code.claude.com/docs/en/cross-session-messaging
 https://code.claude.com/docs/en/desktop-linux
 https://code.claude.com/docs/en/monitoring-usage
@@ -659,6 +660,7 @@ https://github.com/skillkeel/skillkeel-starter
 https://github.com/skillsynchq/txcript
 https://github.com/skorotkiewicz/zero-mem
 https://github.com/slash9494/ai-config-sync-manager
+https://github.com/slashman413/cowork
 https://github.com/softcane/aloud
 https://github.com/softcane/cc-session-recover
 https://github.com/softcane/hamza
