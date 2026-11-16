@@ -41,6 +41,7 @@ https://capacitor.kurrent.io/
 https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second
 https://chalk.appkit.studio
 https://chatgpt.com/apps/mindmap/asdk_app_69e1ea6c505c81918d6c8f0258a64906
+https://chisle.jaypokale.me
 https://chromewebstore.google.com/detail/memex/jiliolfjonejjhokmmekeeomppnbpacf
 https://cimons.com/article/balancing-claude-with-glm-5-2-in-mid-level-coding-agent-structuring-prompts
 https://claude.com/blog/artifacts-in-claude-code
@@ -126,6 +127,7 @@ https://github.com/Aident-AI/aident-skill
 https://github.com/AkuchiS/yap
 https://github.com/AlexKapadia/omni
 https://github.com/Alfredvc/aharness
+https://github.com/Avinash-jetwani/jevmem
 https://github.com/BEX-Robotics/rezoom
 https://github.com/Baeta78/token-economy
 https://github.com/Bhavya6187/tandem
@@ -227,6 +229,7 @@ https://github.com/allixsenos/asu
 https://github.com/amiinwani/whoburnedmore.com
 https://github.com/amirzak/claude-code-voice-uh-filter
 https://github.com/amywork777/lipflow
+https://github.com/andausman/comemo
 https://github.com/anlor1002-alt/regressionledger
 https://github.com/anonbeat1/overheard
 https://github.com/anthonystaiger8-bit/memory-model
@@ -622,6 +625,7 @@ https://github.com/ptmrio/harness-subagent
 https://github.com/puffinsoft/peek-cli
 https://github.com/pyor-review/pyor-cli
 https://github.com/radu2lupu/limitbreak
+https://github.com/raed667/claudette
 https://github.com/raine/claude-code-proxy
 https://github.com/rainmanjam/poka-yoke
 https://github.com/raiyanyahya/recall
@@ -645,6 +649,7 @@ https://github.com/robert-auger/safer-dependencies
 https://github.com/robertkeus/peter
 https://github.com/rondoflow/rondoflow
 https://github.com/ronle/clayrune
+https://github.com/s3onghyun/agent-otel-kit
 https://github.com/sahrizvi/codex-remote-control
 https://github.com/saikiran-rs/merge-sessions-across-accounts
 https://github.com/saksham10arora-dotcom/everything-claude-codex
@@ -767,6 +772,7 @@ https://meshintelligence.substack.com/p/how-to-use-github-as-long-term-memory
 https://michaellivs.com/blog/system-reminders-steering-agents/
 https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http
 https://moonshotai.github.io/kimi-code/en/guides/getting-started.html
+https://mopup.online/guides/coding-agent-worktrees
 https://near.ai/blog/introducing-ironclaw-1-0
 https://nearform.com/digital-community/terminal-velocity-the-shell-tools-that-make-claude-code-fly/
 https://neo4j.com/blog/agentic-ai/context-graph-ai-agent-memory/
