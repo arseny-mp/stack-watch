@@ -52,11 +52,13 @@ https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 https://claude.com/docs/connectors/google/gmail
+https://claude.com/product/code-review
 https://claude.com/resources/articles/code-review-is-now-generally-available
 https://claude.com/resources/articles/projects-redesigned
 https://claude.dev/blog/automating-eval-design-and-hillclimbing/
 https://claude.dev/blog/claude-code-in-the-cloud/
 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
+https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
 https://claude.dev/blog/spending-your-effort/
 https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/
 https://clawdline.com/
@@ -324,6 +326,7 @@ https://github.com/arsenis-cmd/clai-benchmarks
 https://github.com/arturlimaaa/terminito
 https://github.com/atelier-ws/atelier
 https://github.com/avenna01-ceo/claude-code-survival-kr
+https://github.com/aw3-technology/openeye.sh
 https://github.com/barvhaim/code-security-skills
 https://github.com/berwinsingh/oldhand
 https://github.com/bhpark1013/claudenews
@@ -363,6 +366,7 @@ https://github.com/desktop-commander/desktop-commander
 https://github.com/developerfred/agent-blackbox
 https://github.com/divadbaroon/claude-plugins
 https://github.com/dooly6276/claude-bulkhead
+https://github.com/dot-shield/dotshield-releases
 https://github.com/dotbrt/dejaview
 https://github.com/drkokorev/context-diet
 https://github.com/drumih/turbo-fieldfare
@@ -825,6 +829,7 @@ https://news.ycombinator.com/item?id=50351285
 https://news.ycombinator.com/item?id=50352757
 https://news.ycombinator.com/item?id=50365442
 https://news.ycombinator.com/item?id=50467233
+https://news.ycombinator.com/item?id=50530028
 https://note.com/roten/n/nac8aef48851f
 https://novakit.tech/
 https://octamem.com
@@ -862,6 +867,7 @@ https://purr.arunbrahma.com
 https://pypi.org/project/subagent-fleet/
 https://rabin-a.github.io/mcp-router/#benchmark
 https://raw.githubusercontent.com/zqiren/Orbital/main/docs/screenshots/handoff-codex-continue.gif
+https://rcruz.dev/wake/
 https://recallplugin.dev
 https://reddit.com/comments/1wxu98g/
 https://release.bar
