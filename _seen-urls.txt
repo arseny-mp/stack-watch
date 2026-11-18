@@ -35,6 +35,7 @@ https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligen
 https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
 https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/
 https://blogs.zethian.com/when-deny-doesnt-win.html
+https://bot2botlabs.com/receipts/r-0008
 https://brianbell-x.github.io/weight-compression/
 https://cacheanalyzer.com/
 https://capacitor.kurrent.io/
@@ -496,6 +497,7 @@ https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e
 https://github.com/modelcontextprotocol/servers/commit/81ca19651d2b3dd09c616223f7afc35d1e0e16ba
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
+https://github.com/modelcontextprotocol/servers/commit/b7edbca57b8107fbd4ab814d89fe08904618a65d
 https://github.com/modelcontextprotocol/servers/commit/c6f2dda9f4ad75f85bd53dc46d7d6a707f23878c
 https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f
 https://github.com/modelcontextprotocol/servers/commit/f20ce8eaa66bf7a6a6c6294d1c4a4fa23f13c153
@@ -719,6 +721,7 @@ https://github.com/workweave/router
 https://github.com/wtfwhs/tengu-decoded
 https://github.com/xhluca/session-migrate
 https://github.com/xltvy/openclaw-memgpt
+https://github.com/ydmitry/skill-finder
 https://github.com/yevhens-hue/claude-skills-starter-kit
 https://github.com/ykdojo/claude-code-tips
 https://github.com/yonk-labs/claude-session-analyzer
@@ -843,6 +846,7 @@ https://ollama.com/blog/muse-glimmer
 https://ollama.com/blog/speech-models
 https://ollama.com/library/kimi-k3
 https://ollama.com/pricing
+https://omnimem.org/
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://org-edge.com/sysedge.html
@@ -905,6 +909,7 @@ https://support.google.com/notebooklm/answer/16296687?hl=en
 https://support.google.com/notebooklm/answer/17003757?hl=en
 https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/
 https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/
+https://tensward.com/blog/ollama-agent-cache
 https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/
 https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/
 https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt
