@@ -305,7 +305,8 @@
     "v2.1.323",
     "v2.1.325",
     "v2.1.326",
-    "v2.1.327"
+    "v2.1.327",
+    "v2.1.328"
   ],
   "mem0": [
     "v2.4.6",
@@ -549,7 +550,9 @@
     "v20261114-nightly: Fill in the gaps in nested tab groups",
     "v3.7.8beta2",
     "v20261117-nightly",
-    "v20261118-nightly: Release inline images that have been drawn over. Issue 13214."
+    "v20261118-nightly: Release inline images that have been drawn over. Issue 13214.",
+    "v20261119-nightly: Keep hosts that share a HostName apart in the SSH integration",
+    "v3.7.8"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -877,7 +880,13 @@
     "2026.10.33",
     "release-publish/aa5de06199be-44111607294",
     "release-publish/13a0a3e7edff-1794885837",
-    "2026.11.6"
+    "2026.11.6",
+    "2026.11.10-beta.1",
+    "release-publish/82265ebb2465-1795092272: fix(release): acquire canonical beta publication evidence (#201813)",
+    "release-publish/06615cc0338a-1795084433: fix(release): accept reviewed beta validation failures (#201767)",
+    "release-publish/de0920200cf1-1795073312",
+    "release-publish/cb3d91ddc994-1795096422: fix(release): accept request-bound recovery run titles (#201864)",
+    "release-publish/b2e90613298c-1795079017: fix: validate complete mixed-result release evidence (#201732)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -6099,7 +6108,38 @@
     "50538040",
     "50536958",
     "50536846",
-    "50536565"
+    "50536565",
+    "50560320",
+    "50563950",
+    "50562818",
+    "50562696",
+    "50562320",
+    "50561944",
+    "50561908",
+    "50561796",
+    "50560732",
+    "50560575",
+    "50560081",
+    "50560051",
+    "50559028",
+    "50558292",
+    "50557774",
+    "50556819",
+    "50556534",
+    "50556421",
+    "50556343",
+    "50554763",
+    "50561649",
+    "50558512",
+    "50563867",
+    "50562833",
+    "50562350",
+    "50560170",
+    "50559309",
+    "50556794",
+    "50556339",
+    "50550530",
+    "50550412"
   ],
   "tmux": [
     "tmux 3.7-rc",

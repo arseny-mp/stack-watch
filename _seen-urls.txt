@@ -120,6 +120,7 @@ https://frigade.com/yap
 https://getcesar.dev/
 https://gethrbr.com/blog/claude-md-agents-md-github-study
 https://gist.github.com/AdnaneKhan/0a0edb5620d5214282ef4027caad8950
+https://gist.github.com/carrollco/bec001c7d337b49a7449bc8f9558854c
 https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
 https://github.com/0xmmo/crew/
 https://github.com/214140846/browser-hands
@@ -221,6 +222,7 @@ https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
 https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/ahmtsahin/claude-env-tabs
+https://github.com/aiusageball/ai-usage-ball
 https://github.com/ajithraghavan/make-it-click
 https://github.com/alagiz/cc-context-telemetry
 https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja
@@ -507,6 +509,7 @@ https://github.com/modelcontextprotocol/servers/commit/faef80baca51f9c9277341422
 https://github.com/mohsen1/git-lazy-mount
 https://github.com/momoraul/Lupen
 https://github.com/moorcheh-ai/memanto
+https://github.com/msertdev/deadweight
 https://github.com/munvard/dockterm
 https://github.com/mupt-ai/relaymux
 https://github.com/naw103/claude-routine-cleanup
@@ -622,6 +625,7 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.2
 https://github.com/openclaw/openclaw/releases/tag/v2026.9.5
 https://github.com/openclaw/openclaw/releases/tag/v2026.9.6
 https://github.com/openwong2kim/wlog
+https://github.com/orsenthil/git-hook-model-identification
 https://github.com/ouijit/ouijit
 https://github.com/overflowy/claude-scrub
 https://github.com/patibandlavenkatamanideep/memoryops-ai
