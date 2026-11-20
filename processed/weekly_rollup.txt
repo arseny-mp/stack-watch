@@ -1,9 +1,7 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-11-13:</b>
+📅 <b>2026-11-20:</b>
   <b>Experiment:</b>
-  • Release release-publish/514a224c6eab-1794576299: fix(release): apply 2026.11.4 performance waiver release-wide (#198271) — Обновить OpenClaw и проверить стабильность работы Telegram-поллера (~30 минут).
-  • HN: Show HN: Browser Hands – Claude in Chrome for Codex, Cursor and Any MCP Agent — Протестировать Browser Hands MCP в тестовом окружении Chrome для взаимодействия с Codex (~1 час).
-  • HN: Show HN: Agentview Chat – a chat UI for Claude Code background sessions — Запустить Agentview Chat для контроля длинных фоновых задач Claude Code (~45 минут).
+  • HN: Muscle-memory – repeated Claude Code tasks run with zero tokens — Протестировать muscle-memory на одной из повторяющихся процедур обслуживания в Claude Code CLI (~1 час).
 

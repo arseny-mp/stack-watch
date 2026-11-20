@@ -444,6 +444,7 @@ https://github.com/jhickner/tmux-agent-tabs
 https://github.com/jjinendra3/amidumb
 https://github.com/joanseg/specmanager
 https://github.com/joey-io/gauge
+https://github.com/kabirshah4/muscle-memory
 https://github.com/kageroumado/adrafinil
 https://github.com/kamihork/cckeep
 https://github.com/kanjani-ai-research/Vesta
@@ -590,6 +591,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0
+https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
