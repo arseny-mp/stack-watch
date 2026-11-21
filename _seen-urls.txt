@@ -396,6 +396,7 @@ https://github.com/gabe4coding/claude-code-mode
 https://github.com/gadievron/raptor
 https://github.com/gageml/gage
 https://github.com/gavingolden/flow/
+https://github.com/gesposito/dotfactory
 https://github.com/gethrbr/context-tax
 https://github.com/ggml-org/llama.cpp/pull/24219
 https://github.com/ghosthat-studio/handoffs
@@ -513,6 +514,7 @@ https://github.com/moorcheh-ai/memanto
 https://github.com/msertdev/deadweight
 https://github.com/munvard/dockterm
 https://github.com/mupt-ai/relaymux
+https://github.com/natsu0529/agent-mcts
 https://github.com/naw103/claude-routine-cleanup
 https://github.com/nestedmind/larceny
 https://github.com/netil/goyangi
@@ -592,6 +594,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1
+https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -857,6 +860,7 @@ https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/codex-for-every-role-tool-workflow/
 https://org-edge.com/sysedge.html
 https://ototo.dev/
+https://parallelcode.app/
 https://parametric-memory.dev
 https://parcle.ai/
 https://past.dev/blog/introducing-past-dev

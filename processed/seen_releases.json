@@ -160,7 +160,10 @@
     "v0.40.17",
     "v0.40.16-rc0",
     "v0.40.17-rc0",
-    "v0.40.17-rc1"
+    "v0.40.17-rc1",
+    "v0.40.17-rc4",
+    "v0.40.17-rc3",
+    "v0.40.17-rc2"
   ],
   "claude code": [
     "v2.1.165",
@@ -308,7 +311,8 @@
     "v2.1.326",
     "v2.1.327",
     "v2.1.328",
-    "v2.1.329"
+    "v2.1.329",
+    "v2.1.330"
   ],
   "mem0": [
     "v2.4.6",
@@ -555,7 +559,10 @@
     "v20261118-nightly: Release inline images that have been drawn over. Issue 13214.",
     "v20261119-nightly: Keep hosts that share a HostName apart in the SSH integration",
     "v3.7.8",
-    "v20261120-nightly: Add a script that charts source lines added per month"
+    "v20261120-nightly: Add a script that charts source lines added per month",
+    "v20261121-nightly",
+    "v3.7.10beta1",
+    "v3.7.9"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -889,7 +896,9 @@
     "release-publish/06615cc0338a-1795084433: fix(release): accept reviewed beta validation failures (#201767)",
     "release-publish/de0920200cf1-1795073312",
     "release-publish/cb3d91ddc994-1795096422: fix(release): accept request-bound recovery run titles (#201864)",
-    "release-publish/b2e90613298c-1795079017: fix: validate complete mixed-result release evidence (#201732)"
+    "release-publish/b2e90613298c-1795079017: fix: validate complete mixed-result release evidence (#201732)",
+    "release-publish/7af829afeef7-1795215667: fix(release): evaluate reusable evidence with Q-owned waivers (#201773)",
+    "release-publish/5b8b0c15596e-1795215156: fix(ui): keep Settings links on their routes as permissions load"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -6170,7 +6179,30 @@
     "50565207",
     "50564619",
     "50564202",
-    "50564176"
+    "50564176",
+    "50591029",
+    "50589936",
+    "50589235",
+    "50587779",
+    "50587059",
+    "50586323",
+    "50584994",
+    "50582844",
+    "50582662",
+    "50582578",
+    "50580994",
+    "50586586",
+    "50580600",
+    "50589488",
+    "50588529",
+    "50588072",
+    "50587750",
+    "50587530",
+    "50585530",
+    "50584584",
+    "50583879",
+    "50583293",
+    "50579337"
   ],
   "tmux": [
     "tmux 3.7-rc",
