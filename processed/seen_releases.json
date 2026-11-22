@@ -562,7 +562,8 @@
     "v20261120-nightly: Add a script that charts source lines added per month",
     "v20261121-nightly",
     "v3.7.10beta1",
-    "v3.7.9"
+    "v3.7.9",
+    "v20261122-nightly: Save restorable state faster by skipping unchanged objects"
   ],
   "openclaw": [
     "v2026.6.5-alpha.2",
@@ -898,7 +899,9 @@
     "release-publish/cb3d91ddc994-1795096422: fix(release): accept request-bound recovery run titles (#201864)",
     "release-publish/b2e90613298c-1795079017: fix: validate complete mixed-result release evidence (#201732)",
     "release-publish/7af829afeef7-1795215667: fix(release): evaluate reusable evidence with Q-owned waivers (#201773)",
-    "release-publish/5b8b0c15596e-1795215156: fix(ui): keep Settings links on their routes as permissions load"
+    "release-publish/5b8b0c15596e-1795215156: fix(ui): keep Settings links on their routes as permissions load",
+    "release-publish/89596c51481e-1795316013",
+    "release-publish/6d2e5e84eedc-1795308759: fix: retain both errors when approval test cleanup fails (#203263)"
   ],
   "desktop commander (mcp servers)": [
     "f5054df",
@@ -6202,7 +6205,30 @@
     "50584584",
     "50583879",
     "50583293",
-    "50579337"
+    "50579337",
+    "50599799",
+    "50601485",
+    "50600315",
+    "50597098",
+    "50594846",
+    "50594645",
+    "50594639",
+    "50593862",
+    "50593621",
+    "50593162",
+    "50591321",
+    "50601612",
+    "50600512",
+    "50599473",
+    "50599422",
+    "50599108",
+    "50598900",
+    "50597308",
+    "50596105",
+    "50591960",
+    "50591932",
+    "50591896",
+    "50591853"
   ],
   "tmux": [
     "tmux 3.7-rc",
