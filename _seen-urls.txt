@@ -27,6 +27,7 @@ https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unown
 https://arxiv.org/abs/2608.11095
 https://astgl.com/p/skill-mining-claude-code-config-patterns
 https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/
+https://besydr.com/blog/claude-code-benchmark-with-and-without-besydr
 https://blazetrends.com/googles-notebooklm-sharing-update-turns-your-personal-notes-into-custom-ai-apps/
 https://blobbyapp.com
 https://blog.disintegrator.dev/posts/lnav-claude-code/
@@ -69,6 +70,7 @@ https://cliptop.app/
 https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available
 https://cloudcode.one/
 https://code.claude.com/docs/en/changelog
+https://code.claude.com/docs/en/claude-ship
 https://code.claude.com/docs/en/code-mode
 https://code.claude.com/docs/en/cross-session-messaging
 https://code.claude.com/docs/en/desktop-linux
@@ -520,6 +522,7 @@ https://github.com/msertdev/deadweight
 https://github.com/munvard/dockterm
 https://github.com/mupt-ai/relaymux
 https://github.com/natsu0529/agent-mcts
+https://github.com/navbuildz/ai-usage-menu
 https://github.com/naw103/claude-routine-cleanup
 https://github.com/nestedmind/larceny
 https://github.com/netil/goyangi
@@ -600,6 +603,8 @@ https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1
 https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2
+https://github.com/ollama/ollama/releases/tag/v0.40.18
+https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -766,6 +771,7 @@ https://itmeetsot.eu/posts/2026-08-12-opus5_automode/
 https://jameskomo.github.io/config-drift-checker/
 https://jankovd.substack.com/p/claude-can-read-your-secrets
 https://jazzyalex.github.io/agent-sessions/
+https://jonathannen.com/avoid-claude-code-ship/
 https://joshlf.com/posts/memory-safety-life-and-death/
 https://jsdev.space/claude-code-settings-software-architect/
 https://karanbansal.in/blog/loop-engineering/
@@ -970,6 +976,7 @@ https://verity.md/
 https://vibsync.com/
 https://vmysla.substack.com/p/product-traceability-20-makes-claude
 https://vnoc.vercel.app/project/claudecode
+https://vshulcz.github.io/deja-vu/guide/after-compaction.html
 https://whetstone.akbarsha.dev/
 https://wisprflow.ai/canto
 https://wisprflow.ai/post/transcription-quality
