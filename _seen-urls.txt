@@ -223,6 +223,7 @@ https://github.com/YoanWai/agent-manager
 https://github.com/Yu-Xiao-Sheng/codex-memory-trim
 https://github.com/ZenKhalil/session-porter
 https://github.com/aalksii/creditwatcher
+https://github.com/abdiraimov-otabek/claude-code-og-image-skill
 https://github.com/adityaarunsinghal/cc-hindsight
 https://github.com/ahmtsahin/claude-env-tabs
 https://github.com/aiusageball/ai-usage-ball
