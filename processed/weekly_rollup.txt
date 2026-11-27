@@ -1,7 +1,17 @@
 📅 <b>Stack Watch — Итоги недели (Weekly Rollup)</b>
 Период: за последние 7 дней
 
-📅 <b>2026-11-20:</b>
+📅 <b>2026-11-27:</b>
+  <b>Do now:</b>
+  • Commit: Merge pull request #5677 from modelcontextprotocol/v2/fix/ghsa-5pwg-5… — Обновить используемые MCP-серверы Desktop Commander до актуальных версий с патчами безопасности (~20 минут).
+  • Commit: Merge pull request #5673 from modelcontextprotocol/v2/fix/ghsa-3whj-m… — Выполнить `npm update` / `pip install --upgrade` для пакетов MCP серверов в окружении Desktop Commander (~15 минут).
+  • Commit: Merge pull request #5675 from modelcontextprotocol/v2/fix/ghsa-f33v-8… — Обновить MCP зависимости до защищенной версии (~15 минут).
+  • Commit: Merge pull request #5672 from modelcontextprotocol/v2/fix/ghsa-6663-f… — Обновить MCP серверы в Desktop Commander (~15 минут).
+  • Commit: Merge pull request #5679 from modelcontextprotocol/v2/fix/ghsa-qf89-h… — Обновить MCP серверы в Desktop Commander (~15 минут).
+  • Commit: Merge pull request #5674 from modelcontextprotocol/v2/fix/ghsa-wvv2-6… — Обновить MCP серверы в Desktop Commander (~15 минут).
+  • Commit: Merge pull request #5678 from modelcontextprotocol/v2/fix/ghsa-g7v6-h… — Обновить MCP серверы в Desktop Commander (~15 минут).
+  • Commit: Merge pull request #5676 from modelcontextprotocol/v2/fix/ghsa-48j5-h… — Обновить MCP серверы в Desktop Commander (~15 минут).
   <b>Experiment:</b>
-  • HN: Muscle-memory – repeated Claude Code tasks run with zero tokens — Протестировать muscle-memory на одной из повторяющихся процедур обслуживания в Claude Code CLI (~1 час).
+  • HN: Claude Code Skills Now Sharable Across Teams — Проверить паттерн экспорта/импорта кастомных навыков в `.claude/skills/` (~30 минут).
+  • HN: Show HN: Hooks that stop Claude Code from faking tests and inventing packages — Интегрировать образцы хуков валидации тестов в тестовый проект Claude Code (~40 минут).
 

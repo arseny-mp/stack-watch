@@ -109,6 +109,7 @@ https://draper.chat/dev/the-ultimate-claude-code-parallelisation-guide-2026
 https://ecc.kodelyth.com
 https://embracethered.com/blog/posts/2026/breaking-claude-acode-opus-5-and-automode/
 https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
+https://emergent.sh/news/claude-code-skills-now-sharable-across-teams
 https://empirical.gauzza.com/
 https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark
 https://extraheadroom.com/
@@ -168,6 +169,7 @@ https://github.com/HtooTayZa/sawtooth-memory
 https://github.com/IsuruMaduranga/one-code
 https://github.com/IterateAI/compression
 https://github.com/JeevanJoshi2061/titan_engine_core
+https://github.com/John99101/claude-code-project-template
 https://github.com/KarelTestSpecial/real-agent-setup
 https://github.com/KerryRitter/parley
 https://github.com/KonghaYao/peri
@@ -502,16 +504,24 @@ https://github.com/mirko-pira/skillhealth
 https://github.com/mjalalimanesh/skillhub-local
 https://github.com/mjn298/drawbar
 https://github.com/modelcontextprotocol/servers/commit/0588ec098e4630e986f35dc137019f845b47d4cc
+https://github.com/modelcontextprotocol/servers/commit/0697ac0c50498c6dfab56badca246ac04070f62d
 https://github.com/modelcontextprotocol/servers/commit/0d53550e078021e0f82b07f4cab47d77d362df78
 https://github.com/modelcontextprotocol/servers/commit/1629bb33208a9d98b77abce4b52b2808d3090bb0
+https://github.com/modelcontextprotocol/servers/commit/274a275dcbe52c6cb18faae118f229b74b9c4809
+https://github.com/modelcontextprotocol/servers/commit/3666944146b0a23d6e7fe5fa8bb13e2a55ee883b
 https://github.com/modelcontextprotocol/servers/commit/3f6aaf4ff6b3d48243f8a94f1ea8dafb574de5ad
+https://github.com/modelcontextprotocol/servers/commit/62c66649699130f32cfe5690524d20de446a09fc
+https://github.com/modelcontextprotocol/servers/commit/772e50eb5363fac7c44825ef564b35131c589126
 https://github.com/modelcontextprotocol/servers/commit/7b1170d1da1e36bc9f553f51e76e64cbfd652b3e
 https://github.com/modelcontextprotocol/servers/commit/81ca19651d2b3dd09c616223f7afc35d1e0e16ba
+https://github.com/modelcontextprotocol/servers/commit/99215e585c33e08a4fddc66cf04a67f4cbc8a4d6
 https://github.com/modelcontextprotocol/servers/commit/a96189b2af82e1fe8d79e3626e717a6684548662
 https://github.com/modelcontextprotocol/servers/commit/b2a94a21a53f99bee21cef9485ed50b0991c350c
 https://github.com/modelcontextprotocol/servers/commit/b7edbca57b8107fbd4ab814d89fe08904618a65d
+https://github.com/modelcontextprotocol/servers/commit/b85db8a8c79a9469c3936e65b7a4e4a07e41b999
 https://github.com/modelcontextprotocol/servers/commit/c6f2dda9f4ad75f85bd53dc46d7d6a707f23878c
 https://github.com/modelcontextprotocol/servers/commit/d73f99efbfd40c3aa1b61e88728b3d49fb52608f
+https://github.com/modelcontextprotocol/servers/commit/eeca1ddfc28d97c5a165fba4846a141ba3ce00e1
 https://github.com/modelcontextprotocol/servers/commit/f20ce8eaa66bf7a6a6c6294d1c4a4fa23f13c153
 https://github.com/modelcontextprotocol/servers/commit/f46d9578190b476b3501923ea8977d899e8db2cb
 https://github.com/modelcontextprotocol/servers/commit/f7221c4d026901bc64326e4471632ddf942b06a2
@@ -606,6 +616,7 @@ https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1
 https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2
 https://github.com/ollama/ollama/releases/tag/v0.40.18
 https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0
+https://github.com/ollama/ollama/releases/tag/v0.40.19
 https://github.com/ollama/ollama/releases/tag/v0.40.3
 https://github.com/only-cli/oc
 https://github.com/openai/codex/issues/25719
@@ -992,6 +1003,7 @@ https://www.anthropic.com/claude-fable-and-mythos-5-1
 https://www.anthropic.com/news/claude-opus-4-8
 https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/
 https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476
+https://www.claudepluginhub.com/blog/claude-code-plugin-context-cost-always-on-tokens
 https://www.claudeusage.com/leaderboard
 https://www.costclaw.io/
 https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/
